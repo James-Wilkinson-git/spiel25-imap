@@ -226,10 +226,31 @@ export const Map: React.FC = () => {
     fetch("/spiel-map-0.json")
       .then((res) => res.json())
       .then((data: SpielMapData) => {
-        setSpielMaps(data.maps);
+        // Sort maps in a logical order
+        const sortedMaps = [...data.maps].sort((a, b) => {
+          // Define custom order
+          const order: Record<string, number> = {
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4,
+            "5": 5,
+            "6": 6,
+            "7": 7,
+            "8": 8,
+            GA: 9,
+            FG1: 10,
+            FG2: 11,
+            FG3: 12,
+            "0": 13, // Fairground last
+          };
+          return (order[a.ID] || 999) - (order[b.ID] || 999);
+        });
+
+        setSpielMaps(sortedMaps);
         // Start with Hall 1 instead of fairground since it has actual stands
         setSelectedSpielMap(
-          data.maps.find((m) => m.ID === "1") || data.maps[0]
+          sortedMaps.find((m) => m.ID === "1") || sortedMaps[0]
         );
         // Don't set fairground data, let the second useEffect load Hall 1 data
       })
@@ -602,19 +623,31 @@ export const Map: React.FC = () => {
                   </p>
                   <p>📍{stand.label}</p>
 
-                  <div>
-                    {stand.exhibitor?.booths &&
-                      stand.exhibitor.booths.length > 1 && (
-                        <>
-                          <br />
-                          <strong>Additional booths:</strong>{" "}
-                          {stand.exhibitor.booths
-                            .filter((b: string) => b !== stand.label)
-                            .join(", ")}
-                        </>
-                      )}
-                  </div>
+                  {stand.exhibitor?.description && (
+                    <div
+                      style={{
+                        maxHeight: "4.5em",
+                        overflow: "auto",
+                        marginTop: "8px",
+                        marginBottom: "8px",
+                        fontSize: "0.9em",
+                      }}
+                    >
+                      {stand.exhibitor.description}
+                    </div>
+                  )}
 
+                  {stand.exhibitor?.website && (
+                    <p>
+                      <a
+                        href={stand.exhibitor.website}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        🔗 Visit Website
+                      </a>
+                    </p>
+                  )}
                   <p>
                     <button
                       type="button"

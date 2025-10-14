@@ -39,6 +39,12 @@ a.leaflet-popup-close-button {
   font-size: 14px;
 }
 
+.leaflet-tooltip {
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .controls {
   background: #ffffff;
   position: absolute;
