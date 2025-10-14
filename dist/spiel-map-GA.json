@@ -1,0 +1,1136 @@
+{
+  "map": {
+    "ID": "GA",
+    "W": 6356,
+    "H": 1769,
+    "NAME": "Galeria",
+    "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+    "FLOOR": 0,
+    "path": "static/spiel25/20251014093942"
+  },
+  "mapElements": [
+    {
+      "ID": "GA.GA13",
+      "KARTEN_ID": "GA",
+      "X": 297,
+      "Y": 926,
+      "W": 189,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA13",
+      "NAME": "GA13"
+    },
+    {
+      "ID": "GA.GA14",
+      "KARTEN_ID": "GA",
+      "X": 366,
+      "Y": 1165,
+      "W": 119,
+      "H": 107,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA14",
+      "NAME": "GA14"
+    },
+    {
+      "ID": "GA.GA15",
+      "KARTEN_ID": "GA",
+      "X": 486,
+      "Y": 926,
+      "W": 189,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA15",
+      "NAME": "GA15"
+    },
+    {
+      "ID": "GA.GA17",
+      "KARTEN_ID": "GA",
+      "X": 675,
+      "Y": 926,
+      "W": 189,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA17",
+      "NAME": "GA17"
+    },
+    {
+      "ID": "GA.GA18",
+      "KARTEN_ID": "GA",
+      "X": 557,
+      "Y": 1159,
+      "W": 378,
+      "H": 118,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA18",
+      "NAME": "GA18"
+    },
+    {
+      "ID": "GA.GA19",
+      "KARTEN_ID": "GA",
+      "X": 864,
+      "Y": 926,
+      "W": 71,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA19",
+      "NAME": "GA19"
+    },
+    {
+      "ID": "GA.GA21",
+      "KARTEN_ID": "GA",
+      "X": 1351,
+      "Y": 926,
+      "W": 189,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA21",
+      "NAME": "GA21"
+    },
+    {
+      "ID": "GA.GA23",
+      "KARTEN_ID": "GA",
+      "X": 1598,
+      "Y": 926,
+      "W": 118,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA23",
+      "NAME": "GA23"
+    },
+    {
+      "ID": "GA.GA25",
+      "KARTEN_ID": "GA",
+      "X": 1774,
+      "Y": 926,
+      "W": 118,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA25",
+      "NAME": "GA25"
+    },
+    {
+      "ID": "GA.GA27",
+      "KARTEN_ID": "GA",
+      "X": 2225,
+      "Y": 929,
+      "W": 142,
+      "H": 95,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA27",
+      "NAME": "GA27"
+    },
+    {
+      "ID": "GA.GA29",
+      "KARTEN_ID": "GA",
+      "X": 2367,
+      "Y": 929,
+      "W": 130,
+      "H": 95,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA29",
+      "NAME": "GA29"
+    },
+    {
+      "ID": "GA.GA30",
+      "KARTEN_ID": "GA",
+      "X": 1849,
+      "Y": 1189,
+      "W": 189,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA30",
+      "NAME": "GA30"
+    },
+    {
+      "ID": "GA.GA31",
+      "KARTEN_ID": "GA",
+      "X": 2564,
+      "Y": 929,
+      "W": 142,
+      "H": 95,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA31",
+      "NAME": "GA31"
+    },
+    {
+      "ID": "GA.GA32",
+      "KARTEN_ID": "GA",
+      "X": 2038,
+      "Y": 1189,
+      "W": 166,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA32",
+      "NAME": "GA32"
+    },
+    {
+      "ID": "GA.GA34",
+      "KARTEN_ID": "GA",
+      "X": 2251,
+      "Y": 1189,
+      "W": 166,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA34",
+      "NAME": "GA34"
+    },
+    {
+      "ID": "GA.GA36",
+      "KARTEN_ID": "GA",
+      "X": 2417,
+      "Y": 1189,
+      "W": 189,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA36",
+      "NAME": "GA36"
+    },
+    {
+      "ID": "GA.GA37",
+      "KARTEN_ID": "GA",
+      "X": 2861,
+      "Y": 977,
+      "W": 130,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA37",
+      "NAME": "GA37"
+    },
+    {
+      "ID": "GA.GA38",
+      "KARTEN_ID": "GA",
+      "X": 2606,
+      "Y": 1189,
+      "W": 165,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA38",
+      "NAME": "GA38"
+    },
+    {
+      "ID": "GA.GA39",
+      "KARTEN_ID": "GA",
+      "X": 2991,
+      "Y": 977,
+      "W": 95,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA39",
+      "NAME": "GA39"
+    },
+    {
+      "ID": "GA.GA40",
+      "KARTEN_ID": "GA",
+      "X": 3242,
+      "Y": 1198,
+      "W": 130,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA40",
+      "NAME": "GA40"
+    },
+    {
+      "ID": "GA.GA41",
+      "KARTEN_ID": "GA",
+      "X": 3213,
+      "Y": 929,
+      "W": 71,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA41",
+      "NAME": "GA41"
+    },
+    {
+      "ID": "GA.GA43",
+      "KARTEN_ID": "GA",
+      "X": 3284,
+      "Y": 929,
+      "W": 213,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA43",
+      "NAME": "GA43"
+    },
+    {
+      "ID": "GA.GA44",
+      "KARTEN_ID": "GA",
+      "X": 3462,
+      "Y": 1199,
+      "W": 142,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA44",
+      "NAME": "GA44"
+    },
+    {
+      "ID": "GA.GA45",
+      "KARTEN_ID": "GA",
+      "X": 3497,
+      "Y": 953,
+      "W": 95,
+      "H": 95,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA45",
+      "NAME": "GA45"
+    },
+    {
+      "ID": "GA.GA47",
+      "KARTEN_ID": "GA",
+      "X": 3592,
+      "Y": 953,
+      "W": 94,
+      "H": 95,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA47",
+      "NAME": "GA47"
+    },
+    {
+      "ID": "GA.GA48",
+      "KARTEN_ID": "GA",
+      "X": 3724,
+      "Y": 1199,
+      "W": 118,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA48",
+      "NAME": "GA48"
+    },
+    {
+      "ID": "GA.GA49",
+      "KARTEN_ID": "GA",
+      "X": 3686,
+      "Y": 929,
+      "W": 71,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA49",
+      "NAME": "GA49"
+    },
+    {
+      "ID": "GA.GA50",
+      "KARTEN_ID": "GA",
+      "X": 3842,
+      "Y": 1199,
+      "W": 166,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA50",
+      "NAME": "GA50"
+    },
+    {
+      "ID": "GA.GA52",
+      "KARTEN_ID": "GA",
+      "X": 4008,
+      "Y": 1199,
+      "W": 71,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA52",
+      "NAME": "GA52"
+    },
+    {
+      "ID": "GA.GA54",
+      "KARTEN_ID": "GA",
+      "X": 4166,
+      "Y": 1199,
+      "W": 166,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA54",
+      "NAME": "GA54"
+    },
+    {
+      "ID": "GA.GA56",
+      "KARTEN_ID": "GA",
+      "X": 4332,
+      "Y": 1199,
+      "W": 130,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA56",
+      "NAME": "GA56"
+    },
+    {
+      "ID": "GA.GA57",
+      "KARTEN_ID": "GA",
+      "X": 4101,
+      "Y": 929,
+      "W": 402,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA57",
+      "NAME": "GA57"
+    },
+    {
+      "ID": "GA.GA62",
+      "KARTEN_ID": "GA",
+      "X": 4651,
+      "Y": 1199,
+      "W": 142,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA62",
+      "NAME": "GA62"
+    },
+    {
+      "ID": "GA.GA63",
+      "KARTEN_ID": "GA",
+      "X": 4635,
+      "Y": 929,
+      "W": 461,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA63",
+      "NAME": "GA63"
+    },
+    {
+      "ID": "GA.GA64",
+      "KARTEN_ID": "GA",
+      "X": 4857,
+      "Y": 1199,
+      "W": 236,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA64",
+      "NAME": "GA64"
+    },
+    {
+      "ID": "GA.GA71",
+      "KARTEN_ID": "GA",
+      "X": 5183,
+      "Y": 953,
+      "W": 118,
+      "H": 95,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA71",
+      "NAME": "GA71"
+    },
+    {
+      "ID": "GA.GA73",
+      "KARTEN_ID": "GA",
+      "X": 5301,
+      "Y": 929,
+      "W": 71,
+      "H": 119,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA73",
+      "NAME": "GA73"
+    },
+    {
+      "ID": "GA.GA75",
+      "KARTEN_ID": "GA",
+      "X": 5515,
+      "Y": 929,
+      "W": 142,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA75",
+      "NAME": "GA75"
+    },
+    {
+      "ID": "GA.GA76",
+      "KARTEN_ID": "GA",
+      "X": 5515,
+      "Y": 1239,
+      "W": 178,
+      "H": 47,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA76",
+      "NAME": "GA76"
+    },
+    {
+      "ID": "GA.GA77",
+      "KARTEN_ID": "GA",
+      "X": 5657,
+      "Y": 929,
+      "W": 213,
+      "H": 71,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "GA.GA77",
+      "NAME": "GA77"
+    },
+    {
+      "ID": "epx.121",
+      "KARTEN_ID": "GA",
+      "X": 3895,
+      "Y": 632,
+      "W": 96,
+      "H": 190,
+      "XCOORDS": "3920|3921|3968|3968|3991|3944|3895",
+      "YCOORDS": "679|822|822|680|679|632|679",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.122",
+      "KARTEN_ID": "GA",
+      "X": 4504,
+      "Y": 631,
+      "W": 96,
+      "H": 190,
+      "XCOORDS": "4529|4530|4577|4577|4600|4553|4504",
+      "YCOORDS": "678|821|821|679|678|631|678",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.123",
+      "KARTEN_ID": "GA",
+      "X": 6044,
+      "Y": 1062,
+      "W": 126,
+      "H": 95,
+      "XCOORDS": "6120|6044|6048|6120|6124|6170|6122",
+      "YCOORDS": "1086|1086|1132|1134|1157|1109|1062",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.124",
+      "KARTEN_ID": "GA",
+      "X": 1611,
+      "Y": 1357,
+      "W": 95,
+      "H": 126,
+      "XCOORDS": "1635|1636|1683|1682|1706|1658|1611",
+      "YCOORDS": "1437|1358|1357|1436|1436|1483|1436",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.33",
+      "KARTEN_ID": "GA",
+      "X": 1079,
+      "Y": 1381,
+      "W": 95,
+      "H": 188,
+      "XCOORDS": "1103|1103|1149|1150|1174|1126|1079",
+      "YCOORDS": "1523|1381|1381|1522|1522|1569|1522",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.34",
+      "KARTEN_ID": "GA",
+      "X": 3113,
+      "Y": 1380,
+      "W": 95,
+      "H": 188,
+      "XCOORDS": "3137|3137|3183|3184|3208|3160|3113",
+      "YCOORDS": "1522|1380|1380|1521|1521|1568|1521",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.35",
+      "KARTEN_ID": "GA",
+      "X": 4509,
+      "Y": 1387,
+      "W": 95,
+      "H": 188,
+      "XCOORDS": "4533|4533|4579|4580|4604|4556|4509",
+      "YCOORDS": "1529|1387|1387|1528|1528|1575|1528",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.36",
+      "KARTEN_ID": "GA",
+      "X": 5391,
+      "Y": 1386,
+      "W": 95,
+      "H": 188,
+      "XCOORDS": "5415|5415|5461|5462|5486|5438|5391",
+      "YCOORDS": "1528|1386|1386|1527|1527|1574|1527",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.37",
+      "KARTEN_ID": "GA",
+      "X": 5345,
+      "Y": 633,
+      "W": 96,
+      "H": 188,
+      "XCOORDS": "5370|5369|5417|5416|5441|5394|5345",
+      "YCOORDS": "680|821|820|679|680|633|680",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.38",
+      "KARTEN_ID": "GA",
+      "X": 3098,
+      "Y": 612,
+      "W": 96,
+      "H": 190,
+      "XCOORDS": "3123|3124|3171|3171|3194|3147|3098",
+      "YCOORDS": "659|802|802|660|659|612|659",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.39",
+      "KARTEN_ID": "GA",
+      "X": 2744,
+      "Y": 613,
+      "W": 96,
+      "H": 190,
+      "XCOORDS": "2769|2770|2817|2817|2840|2793|2744",
+      "YCOORDS": "660|803|803|661|660|613|660",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.40",
+      "KARTEN_ID": "GA",
+      "X": 2028,
+      "Y": 612,
+      "W": 96,
+      "H": 190,
+      "XCOORDS": "2053|2054|2101|2101|2124|2077|2028",
+      "YCOORDS": "659|802|802|660|659|612|659",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.41",
+      "KARTEN_ID": "GA",
+      "X": 5463,
+      "Y": 618,
+      "W": 137,
+      "H": 205,
+      "XCOORDS": "5513|5512|5552|5554|5600|5554|5553|5466|5463",
+      "YCOORDS": "823|693|693|712|666|618|645|645|822",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1242,
+      "name": "Antiquariat für Science Fiction - Fantasy - Horror",
+      "description": "",
+      "website": "",
+      "booths": [
+        "GA76"
+      ]
+    },
+    {
+      "id": 1922,
+      "name": "Aya Food",
+      "description": "Kebab (€10) Falafel sandwich (€10)",
+      "website": "",
+      "booths": [
+        "GA27"
+      ]
+    },
+    {
+      "id": 1929,
+      "name": "Barista Bus",
+      "description": "Coffee specialties (€3.50 - €4.90)",
+      "website": "https://barista-bus.de/",
+      "booths": [
+        "GA52",
+        "GA75"
+      ]
+    },
+    {
+      "id": 1933,
+      "name": "Beef Busters",
+      "description": "French fries (vegetarian) (€5.50)Pulled beef fries (€8.50)Guacamole fries (vegan) (€8.50)",
+      "website": "https://beefbusters.de/catering/",
+      "booths": [
+        "GA17"
+      ]
+    },
+    {
+      "id": 1972,
+      "name": "Brezeln Buben",
+      "description": "diverse Brezeln&nbsp;5,00 - 7,00 EUR",
+      "website": "",
+      "booths": [
+        "GA75"
+      ]
+    },
+    {
+      "id": 1369,
+      "name": "Bridge",
+      "description": "",
+      "website": "https://www.bridge-rheinruhr.de/",
+      "booths": [
+        "GA41"
+      ]
+    },
+    {
+      "id": 1966,
+      "name": "CHE Vegan",
+      "description": "Jackfruit Burger (VEGAN) (€13.00)Bills BBQ Burger (VEGAN) (€12.00)Uncle Tom's Burger (VEGAN) (€11.00)Cheesie Burger (VEGAN) (€10.00)",
+      "website": "https://www.che-vegan.de/",
+      "booths": [
+        "GA15"
+      ]
+    },
+    {
+      "id": 1828,
+      "name": "Chi Bay",
+      "description": "Onigiri (€7) Rice bowl with vegetables and tofu (vegan) (€13) Rice bowl with chicken (€15) Rice bowl with beef (€14)",
+      "website": "https://foodtruck.chi-bay.de/",
+      "booths": [
+        "GA30"
+      ]
+    },
+    {
+      "id": 1938,
+      "name": "Churros Hermanos",
+      "description": "Homemade lemonade 0.4 l (€5)",
+      "website": "https://loschurroshermanos.ch/",
+      "booths": [
+        "GA39"
+      ]
+    },
+    {
+      "id": 1948,
+      "name": "Churros Hermanos",
+      "description": "Churros in various sizes and with various toppings (vegetarian) (€6.00–€9.00)",
+      "website": "https://loschurroshermanos.ch/",
+      "booths": [
+        "GA37"
+      ]
+    },
+    {
+      "id": 1089,
+      "name": "Confetti.de",
+      "description": "",
+      "website": "",
+      "booths": [
+        "GA57",
+        "GA63"
+      ]
+    },
+    {
+      "id": 1945,
+      "name": "Creperie Buchholz",
+      "description": "Crepes with various toppings (vegetarian) (€6.00–€8.00)",
+      "website": "",
+      "booths": [
+        "GA23",
+        "GA62"
+      ]
+    },
+    {
+      "id": 1854,
+      "name": "Dotted Games",
+      "description": "Welcome to Dotted GamesAs an Asmodee Studio, our mission is to bring the absolute best LEGO® board games to fans and families worldwide!With the partnership with the LEGO Group, we are continuously working on developing high-quality LEGO board games for all types of players.Check out our games Brick Like This! and Monkey Palace!",
+      "website": "https://dottedgames.com/",
+      "booths": [
+        "GA73"
+      ]
+    },
+    {
+      "id": 1439,
+      "name": "EDURINO",
+      "description": "Edurino is a learning system for children aged 4 and above that playfully bridges the gap between analogue and digital learning. Children combine a learning app with an ergonomic pen and tactile figurines. In addition to traditional school subjects such as reading, writing, and maths, the learning content includes essential future skills such as coding fundamentals, creativity, and the Environment. EDURINO has already sold over one million products in the DACH region and the UK and is used by over 1,800 educational institutions such as daycare centres, libraries and partners. Over the next few years, Edurino aims to become the world’s first personalised learning platform for children, supporting them as they develop their strengths and interests throughout their childhood ready for the challenges of the 21st century.",
+      "website": "https://www.edurino.com/",
+      "booths": [
+        "GA47"
+      ]
+    },
+    {
+      "id": 1944,
+      "name": "Eisconfect",
+      "description": "Frozen yogurt in various sizes and with various toppings (€6.00–€9.00)",
+      "website": "",
+      "booths": [
+        "GA75"
+      ]
+    },
+    {
+      "id": 1832,
+      "name": "Espresso Flitzer",
+      "description": "Coffee specialties - Iced coffee (€3.50 - €4.90)",
+      "website": "https://espresso-flitzer.de/",
+      "booths": [
+        "GA29"
+      ]
+    },
+    {
+      "id": 1806,
+      "name": "GIBBON Slacklines",
+      "description": "",
+      "website": "",
+      "booths": [
+        "GA45"
+      ]
+    },
+    {
+      "id": 1417,
+      "name": "Game Factory",
+      "description": "Game Factory ist ein leidenschaftliches Team aus Spiel-Enthusiasten, die sich der Kreation von innovativen und unterhaltsamen Spielen verschrieben haben. Seit unserer Gründung 2008 bringen wir unter dem Motto „Spiele für Family & Friends“ außergewöhnliche Spiele mit spannenden Mechanismen und hohem Wiederspielreiz auf den Markt. Damals begann alles mit „ABC SRF 3“ – dem beliebtesten Quiz der Schweiz. Über die Jahre und mit Top-Spielen wie „Frantic“, „Klask“ und „Verfuxt“ sowie der einzigartigen Dosenspiel-Reihe hat sich der Spieleverlag Game Factory auch in Deutschland und Österreich etabliert. Unsere breite Spielepalette reicht von unterhaltsamen Familienspielen, lustigen Kinderspielen, nervenkitzelnden Strategiespielen bis hin zu witzigen Partyspielen. Mit der Auszeichnung zum „Kinderspiel des Jahres“ für „Die magischen Schlüssel“ erreicht die Verlagsarbeit von Game Factory 2024 einen neuen Höhepunkt.",
+      "website": "",
+      "booths": [
+        "GA64"
+      ]
+    },
+    {
+      "id": 1735,
+      "name": "Gesellschaft der Freunde des memory-Spiels",
+      "description": "Herzlich Willkomen bei der 36. Deutschen memory® Meisterschaft.Hier kannst du den ganzen Tag memory® spielen und an den Turnieren teilnehmen.",
+      "website": "",
+      "booths": [
+        "GA31"
+      ]
+    },
+    {
+      "id": 1927,
+      "name": "GrEATz",
+      "description": "Veggie burrito (vegan/gluten-free) (€13.50)Burrito with chicken or beef (€13.50)",
+      "website": "",
+      "booths": [
+        "GA32"
+      ]
+    },
+    {
+      "id": 1925,
+      "name": "Kaffee Lüke",
+      "description": "Coffee specialties - Iced coffee (€3.50 - €4.90)Homemade cakes (€3.50 - €5)",
+      "website": "",
+      "booths": [
+        "GA19"
+      ]
+    },
+    {
+      "id": 1923,
+      "name": "LakritzFritz",
+      "description": "Soft ice cream with various toppings (vegetarian) (€4.00–6.00)Various types of licorice (vegetarian) (€5.00–7.00)",
+      "website": "https://lakritzfritz.com/",
+      "booths": [
+        "GA25"
+      ]
+    },
+    {
+      "id": 1928,
+      "name": "M8 Gastro GmbH",
+      "description": "Beef burger (€10)Chili cheese burger (€11)French fries with ketchup/mayo (€5)",
+      "website": "",
+      "booths": [
+        "GA36"
+      ]
+    },
+    {
+      "id": 1939,
+      "name": "Maison Touareg",
+      "description": "Touareg Rollos Chicken with chicken breast (€11)Touareg Rollos Beef with beef (€12)Touareg Rollos Legume (vegetarian) (€10)",
+      "website": "https://www.maison-touareg.de/speisekarte",
+      "booths": [
+        "GA13"
+      ]
+    },
+    {
+      "id": 1968,
+      "name": "Maloa",
+      "description": "Asia Bowls – Vegan (€12.90)Asia Bowl – Chicken (€13.90)Asia Bowl – Salmon (€14.90)",
+      "website": "",
+      "booths": [
+        "GA50"
+      ]
+    },
+    {
+      "id": 1226,
+      "name": "Micha‘s Spielesammlung",
+      "description": "",
+      "website": "",
+      "booths": [
+        "GA49"
+      ]
+    },
+    {
+      "id": 1894,
+      "name": "Othello",
+      "description": "Othello ist ein Strategiespiel für zwei Spieler, bei dem jeder versucht, am Ende des Spiels möglichst viele Spielsteine seiner Farbe (schwarz oder weiß) auf dem Brett zu haben.Die Spieler platzieren ihre Spielsteine so, dass sie die des Gegners umgeben, wodurch sie diese in ihre Farbe umdrehen können. Das Spiel wird auf einem Brett mit 8x8 Feldern gespielt und entwickelt sich schnell, da jeder Schlag mehrere Spielsteine umdrehen kann.Es ist leicht zu erlernen und bietet eine große taktische Tiefe.",
+      "website": "https://www.bandai.fr/",
+      "booths": [
+        "GA71"
+      ]
+    },
+    {
+      "id": 1926,
+      "name": "Pittys",
+      "description": "Chicken Tandoori (€14.90)Lentil and Pineapple Curry (Vegan) (€13.90)Pineapple and Coconut Curry (Vegan) (€13.90)",
+      "website": "",
+      "booths": [
+        "GA54"
+      ]
+    },
+    {
+      "id": 1932,
+      "name": "Pittys",
+      "description": "Chicken Bao (€ 13.90)VEGGIE Bao (€ 13.90)Chicken Teriyaki Sticks (€ 13.90)Chicken Sweet Chili Stick (€ 13.90)",
+      "website": "",
+      "booths": [
+        "GA56"
+      ]
+    },
+    {
+      "id": 1967,
+      "name": "Resting Area",
+      "description": "Resting Area",
+      "website": "",
+      "booths": [
+        "GA14",
+        "GA18",
+        "GA29",
+        "GA40",
+        "GA44",
+        "GA48",
+        "GA77"
+      ]
+    },
+    {
+      "id": 1954,
+      "name": "Rollin Greek",
+      "description": "Original pita (€13.50)Gyros box (€14.00)Veggie pita (€13.50)",
+      "website": "",
+      "booths": [
+        "GA34"
+      ]
+    },
+    {
+      "id": 1228,
+      "name": "Schachjugend NRW",
+      "description": "Schach. Bunt. Verbunden.Auf der SPIEL 2025 in Essen lädt die Schachjugend NRW erneut alle ein, das Jahrtausendspiel der Generationen neu zu entdecken.Wir bringen Menschen zusammen – über alle Altersgruppen und Hintergründe hinweg – und zeigen Schach in all seinen lebendigen, bunten Facetten.Schach verbindet GenerationenSeit vielen Jahren ist die Schachjugend NRW Teil der SPIEL und schafft einen offenen Raum, in dem Besucher*innen jeden Alters spielen, entdecken und sich vernetzen können.Unsere Mission: Schach zum Leben erwecken – als soziales, kreatives und dynamisches Erlebnis.Das erwartet euch an unserem StandVergesst das Klischee vom stillen Brett und ernsten Blicken – bei uns ist Schach vielfältig, spielerisch und voller Überraschungen.Ob Anfängerin oder erfahrener Profi – **hier findet jeder sein Spiel**.🎨 Ein buntes Schacherlebnis — kreative Aufbauten, verspielte Designs und eine einladende Atmosphäre♟️ Hands-on-Spielstationen — probiert ausgefallene Schachvarianten aus und entdeckt neue Favoriten📚 Materialien für Schulen & Vereine — Lehrmaterial, Projektideen und Netzwerkmöglichkeiten🌍 Community & Verbindung — trefft Gleichgesinnte und werdet Teil einer lebendigen Schachbewegung🙌 Macht mit! — beteiligt euch an unseren Projekten, Events und JugendinitiativenAuf der SPIEL 2025 verwandelt die Schachjugend NRW Schach in einen farbenfrohen, interaktiven Erlebnisraum.Wir feiern Kreativität, Gemeinschaft und Neugier – und zeigen, dass Schach mehr ist als nur ein Spiel:Es ist eine Möglichkeit, Generationen zu verbinden und Freude zu teilen.",
+      "website": "https://www.sjnrw.de/",
+      "booths": [
+        "GA43"
+      ]
+    },
+    {
+      "id": 1949,
+      "name": "Third Culture Kitchen",
+      "description": "Mexican Bowl (vegetarian) (€12.50)Mexican Bowl with chicken or beef (€12.50)",
+      "website": "https://www.thirdculturekitchen.de/",
+      "booths": [
+        "GA38"
+      ]
+    },
+    {
+      "id": 1947,
+      "name": "VitalFood",
+      "description": "Falafel wrap (vegan/gluten-free) (€9)Falafel plate (vegan/gluten-free) (€11)Falafel wrap special (vegan/gluten-free) (€14)Fresh fries (veggie) (€6)",
+      "website": "",
+      "booths": [
+        "GA21"
+      ]
+    },
+    {
+      "id": 1859,
+      "name": "Zygomatic",
+      "description": "Our storyZygomatic is a board game publishing studio belonging to Asmodee (a major player in the board games field around the world). The studio was created in 2016 to take care of and grow successful games like Dobble, Jungle Speed, Abalone (and many more!), but also to develop new games to be played with family and friends.Our MissionOur mission is above all things to enable you to play again and again, and share unique moments with your loved ones! To do this, we create simple and innovative board games, for adults as well as for kids!Our teamWe are a small, happy team, all united by our shared love of games, and all big believers in their importance: to laugh, create bonds, and grow. Therefore, we take great care of our projects and develop fun, quality games, which are easy to understand and quick to play, fun, and stimulating.For this we work closely with authors, illustrators, and manufacturers, to test and improve the mechanics and ergonomics of our games, in order to make them fun and unforgettable.",
+      "website": "https://www.zygomatic-games.com/en/homepage/",
+      "booths": [
+        "GA73"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "ID": "1",
+      "W": 3425,
+      "H": 2412,
+      "NAME": "Hall 1",
+      "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+      "FLOOR": 0
+    },
+    {
+      "ID": "2",
+      "W": 3346,
+      "H": 1829,
+      "NAME": "Hall 2",
+      "PARENT_ELEMENT_ID": "epx.1|epx.7|epx.8|epx.14|epx.34|epx.35|epx.36|epx.95|epx.102|epx.103",
+      "FLOOR": 0
+    },
+    {
+      "ID": "3",
+      "W": 3100,
+      "H": 7225,
+      "NAME": "Hall 3",
+      "PARENT_ELEMENT_ID": "epx.0|epx.86|epx.13|epx.33|epx.104",
+      "FLOOR": 0
+    },
+    {
+      "ID": "7",
+      "W": 2963,
+      "H": 4763,
+      "NAME": "Hall 7",
+      "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG2",
+      "W": 3325,
+      "H": 2310,
+      "NAME": "FG2",
+      "PARENT_ELEMENT_ID": "epx.119|epx.116|epx.126|epx.106|epx.107|epx.123|epx.89",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG3",
+      "W": 1539,
+      "H": 1627,
+      "NAME": "FG3",
+      "PARENT_ELEMENT_ID": "epx.118|epx.114|epx.115|epx.112|epx.113|epx.110|epx.111|epx.124",
+      "FLOOR": 0
+    },
+    {
+      "ID": "6",
+      "W": 2479,
+      "H": 3508,
+      "NAME": "Hall 6",
+      "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+      "FLOOR": 0
+    },
+    {
+      "ID": "8",
+      "W": 2107,
+      "H": 2103,
+      "NAME": "Hall 8",
+      "PARENT_ELEMENT_ID": "epx.128|epx.155|epx.156",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG1",
+      "W": 3854,
+      "H": 1697,
+      "NAME": "FG1",
+      "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+      "FLOOR": 0
+    },
+    {
+      "ID": "4",
+      "W": 2956,
+      "H": 4462,
+      "NAME": "Hall 4",
+      "PARENT_ELEMENT_ID": "epx.5|epx.17|epx.18|epx.19|epx.20|epx.21|epx.39|epx.40|epx.94",
+      "FLOOR": 0
+    },
+    {
+      "ID": "0",
+      "W": 3508,
+      "H": 2480,
+      "NAME": "Fair ground",
+      "PARENT_ELEMENT_ID": "-1",
+      "FLOOR": 0
+    },
+    {
+      "ID": "GA",
+      "W": 6356,
+      "H": 1769,
+      "NAME": "Galeria",
+      "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+      "FLOOR": 0
+    },
+    {
+      "ID": "5",
+      "W": 3422,
+      "H": 3472,
+      "NAME": "Hall 5",
+      "PARENT_ELEMENT_ID": "epx.3|epx.44|epx.45|epx.46|epx.127|epx.29|epx.30|epx.31|epx.32|epx.37|epx.38|epx.73|epx.74|epx.79|epx.87",
+      "FLOOR": 0
+    }
+  ],
+  "events": [],
+  "urls": []
+}

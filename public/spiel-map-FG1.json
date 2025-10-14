@@ -1,0 +1,523 @@
+{
+  "map": {
+    "ID": "FG1",
+    "W": 3854,
+    "H": 1697,
+    "NAME": "FG1",
+    "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+    "FLOOR": 0,
+    "path": "static/spiel25/20251014093942"
+  },
+  "mapElements": [
+    {
+      "ID": "FG1.FG1-1",
+      "KARTEN_ID": "FG1",
+      "X": 2935,
+      "Y": 1101,
+      "W": 110,
+      "H": 83,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-1",
+      "NAME": "FG11"
+    },
+    {
+      "ID": "FG1.FG1-2",
+      "KARTEN_ID": "FG1",
+      "X": 2650,
+      "Y": 1115,
+      "W": 179,
+      "H": 69,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-2",
+      "NAME": "FG12"
+    },
+    {
+      "ID": "FG1.FG1-3",
+      "KARTEN_ID": "FG1",
+      "X": 2308,
+      "Y": 1115,
+      "W": 219,
+      "H": 69,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-3",
+      "NAME": "FG13"
+    },
+    {
+      "ID": "FG1.FG1-4",
+      "KARTEN_ID": "FG1",
+      "X": 2477,
+      "Y": 546,
+      "W": 206,
+      "H": 68,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-4",
+      "NAME": "FG14"
+    },
+    {
+      "ID": "FG1.FG1-5",
+      "KARTEN_ID": "FG1",
+      "X": 2683,
+      "Y": 546,
+      "W": 178,
+      "H": 68,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-5",
+      "NAME": "FG15"
+    },
+    {
+      "ID": "FG1.FG1-6",
+      "KARTEN_ID": "FG1",
+      "X": 2861,
+      "Y": 532,
+      "W": 124,
+      "H": 82,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-6",
+      "NAME": "FG16"
+    },
+    {
+      "ID": "FG1.FG1-7",
+      "KARTEN_ID": "FG1",
+      "X": 2083,
+      "Y": 504,
+      "W": 192,
+      "H": 275,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-7",
+      "NAME": "FG17"
+    },
+    {
+      "ID": "FG1.FG1-8",
+      "KARTEN_ID": "FG1",
+      "X": 2985,
+      "Y": 559,
+      "W": 82,
+      "H": 55,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "FG1.FG1-8",
+      "NAME": "FG18"
+    },
+    {
+      "ID": "epx.73",
+      "KARTEN_ID": "FG1",
+      "X": 477,
+      "Y": 111,
+      "W": 111,
+      "H": 222,
+      "XCOORDS": "506|504|477|532|588|561|559",
+      "YCOORDS": "331|169|167|111|167|169|333",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.74",
+      "KARTEN_ID": "FG1",
+      "X": 1367,
+      "Y": 111,
+      "W": 111,
+      "H": 222,
+      "XCOORDS": "1396|1394|1367|1422|1478|1451|1449",
+      "YCOORDS": "331|169|167|111|167|169|333",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.79",
+      "KARTEN_ID": "FG1",
+      "X": 2324,
+      "Y": 111,
+      "W": 111,
+      "H": 222,
+      "XCOORDS": "2353|2351|2324|2379|2435|2408|2406",
+      "YCOORDS": "331|169|167|111|167|169|333",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.87",
+      "KARTEN_ID": "FG1",
+      "X": 3147,
+      "Y": 111,
+      "W": 111,
+      "H": 222,
+      "XCOORDS": "3176|3174|3147|3202|3258|3231|3229",
+      "YCOORDS": "331|169|167|111|167|169|333",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.88",
+      "KARTEN_ID": "FG1",
+      "X": 3505,
+      "Y": 485,
+      "W": 220,
+      "H": 107,
+      "XCOORDS": "3505|3668|3673|3725|3672|3671|3506",
+      "YCOORDS": "511|508|485|539|592|566|564",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.89",
+      "KARTEN_ID": "FG1",
+      "X": 3537,
+      "Y": 1072,
+      "W": 220,
+      "H": 107,
+      "XCOORDS": "3537|3700|3705|3757|3704|3703|3538",
+      "YCOORDS": "1098|1095|1072|1126|1179|1153|1151",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.90",
+      "KARTEN_ID": "FG1",
+      "X": 3184,
+      "Y": 1352,
+      "W": 112,
+      "H": 224,
+      "XCOORDS": "3268|3269|3296|3240|3184|3212|3212",
+      "YCOORDS": "1352|1519|1519|1576|1518|1516|1354",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.91",
+      "KARTEN_ID": "FG1",
+      "X": 2152,
+      "Y": 1351,
+      "W": 112,
+      "H": 224,
+      "XCOORDS": "2236|2237|2264|2208|2152|2180|2180",
+      "YCOORDS": "1351|1518|1518|1575|1517|1515|1353",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.92",
+      "KARTEN_ID": "FG1",
+      "X": 1428,
+      "Y": 1353,
+      "W": 112,
+      "H": 224,
+      "XCOORDS": "1512|1513|1540|1484|1428|1456|1456",
+      "YCOORDS": "1353|1520|1520|1577|1519|1517|1355",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.93",
+      "KARTEN_ID": "FG1",
+      "X": 514,
+      "Y": 1352,
+      "W": 112,
+      "H": 224,
+      "XCOORDS": "598|599|626|570|514|542|542",
+      "YCOORDS": "1352|1519|1519|1576|1518|1516|1354",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.94",
+      "KARTEN_ID": "FG1",
+      "X": 98,
+      "Y": 753,
+      "W": 221,
+      "H": 111,
+      "XCOORDS": "319|155|155|98|154|154|318",
+      "YCOORDS": "834|833|864|807|753|778|779",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1952,
+      "name": "American Sandwich",
+      "description": "Sloopy Joe (11,00 EUR)Hot Dog (7,50 EUR)",
+      "website": "",
+      "booths": [
+        "FG14"
+      ]
+    },
+    {
+      "id": 1970,
+      "name": "AsiaEventCatering",
+      "description": "Asia Nudeln (VEGAN) (8,00 EUR)Asia Nudeln mit Gemüse und Huhn (10,00 EUR)Thai Curry mit Reis (Glutenfrei) (12,00 EUR)gebackenes Hühnerfleisch mit Reis oder Nudeln (13,00 EUR)Frühlingsrollen (VEGAN) (6,00 EUR)Chicken Nuggets (7,00 EUR)Asia Mix Box (13,00 EUR)",
+      "website": "",
+      "booths": [
+        "FG115"
+      ]
+    },
+    {
+      "id": 1940,
+      "name": "Beef Busters",
+      "description": "Cheese burger (€11.00) Bacon burger (€12.50) French fries with ketchup or mayonnaise (€5.00)",
+      "website": "https://beefbusters.de/catering/",
+      "booths": [
+        "FG19"
+      ]
+    },
+    {
+      "id": 1981,
+      "name": "C.I.A. Cooks in Action",
+      "description": "Oishi Original (13,00 EUR)Tanaka Teriyaki (13,00 EUR)Tokyo BBQ (13,00 EUR)",
+      "website": "https://cia-foodtruck.de/",
+      "booths": [
+        "FG113"
+      ]
+    },
+    {
+      "id": 1936,
+      "name": "Creperie Alt",
+      "description": "Crepes with various toppings (€6.00–€8.00) Coffee specialties (€3.50–€4.90)",
+      "website": "",
+      "booths": [
+        "FG18"
+      ]
+    },
+    {
+      "id": 1924,
+      "name": "Creperie Seitz",
+      "description": "Crepes with various toppings (€6.00–€8.00) Pretzels/cheese pretzels (€5.00–€6.00) ",
+      "website": "",
+      "booths": [
+        "FG19"
+      ]
+    },
+    {
+      "id": 1930,
+      "name": "FastFoodCatering",
+      "description": "Currywurst with french fries (€10) Bratwurst in a roll (€5) Schnitzel roll (€6)",
+      "website": "",
+      "booths": [
+        "FG13"
+      ]
+    },
+    {
+      "id": 1830,
+      "name": "GrEATz",
+      "description": "Veggie burrito (vegan/gluten-free) (€12.90)Burrito with chicken or beef (€12.90)",
+      "website": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi88ZvPkqiPAxVERP4FHTwQJigQFnoECGUQAQ&url=https%3A%2F%2Fstreet-food-festival.de%2Fanbieter%2Fgreatzthefreshfoodtruck&usg=AOvVaw0RiakddhOp8WyD10HuQEUZ&opi=89978449",
+      "booths": [
+        "FG17"
+      ]
+    },
+    {
+      "id": 1927,
+      "name": "GrEATz",
+      "description": "Veggie burrito (vegan/gluten-free) (€13.50)Burrito with chicken or beef (€13.50)",
+      "website": "",
+      "booths": [
+        "FG15"
+      ]
+    },
+    {
+      "id": 1979,
+      "name": "GrEATz (Kaffeehimmel)",
+      "description": "Kaffeespezialitäten & Eiskaffee (3,50 - 4,90 EUR)Hausgemachte Kuchen (3,50 - 5,00 EUR)",
+      "website": "",
+      "booths": [
+        "FG16"
+      ]
+    },
+    {
+      "id": 1953,
+      "name": "Lufre Foodtruck",
+      "description": "Vegetable tacos (vegetarian) (€8.90) Beef or chicken tacos (€9.90)Nachos au gratin with beef or chicken (€7.90)",
+      "website": "https://www.lufre-restaurant.de/",
+      "booths": [
+        "FG110"
+      ]
+    },
+    {
+      "id": 1973,
+      "name": "M8 Gastro GmbH",
+      "description": "Bratwurst im Brötchen (5,50 EUR)Currywurst&nbsp;(7,00 EUR)Currywurst Pommes (11,00 EUR)Falafel Wrap (VEGAN) (10,00 EUR)Fritten inkl. Ketchup / Mayo (5,50 EUR)",
+      "website": "",
+      "booths": [
+        "FG112"
+      ]
+    },
+    {
+      "id": 1935,
+      "name": "Maloa",
+      "description": "VEGGIE Poke Bowl (€11) Salmon Poke Bowl (€16) Chicken Poke Bowl (€13)",
+      "website": "",
+      "booths": [
+        "FG18"
+      ]
+    },
+    {
+      "id": 1954,
+      "name": "Rollin Greek",
+      "description": "Original pita (€13.50)Gyros box (€14.00)Veggie pita (€13.50)",
+      "website": "",
+      "booths": [
+        "FG111"
+      ]
+    },
+    {
+      "id": 1931,
+      "name": "Solo Pizza",
+      "description": "Pizza Italia (€10)Pizza Salami, Tuna (€12)Pizza Parma, Vegetarian (€14)",
+      "website": "https://www.foodtruck-solopizza.de/",
+      "booths": [
+        "FG12"
+      ]
+    },
+    {
+      "id": 1975,
+      "name": "SpeakEasy",
+      "description": "Flammkuchen - Elsässer&nbsp;(12,50 EUR)Flammkuchen - Tiroler&nbsp;(14,50 EUR)Flammkuchen (Veggie) (12,50 EUR)",
+      "website": "",
+      "booths": [
+        "FG114"
+      ]
+    },
+    {
+      "id": 1941,
+      "name": "aramark Getränkewagen",
+      "description": "Soft drinks, water (€4 – €6)",
+      "website": "",
+      "booths": [
+        "FG11"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "ID": "1",
+      "W": 3425,
+      "H": 2412,
+      "NAME": "Hall 1",
+      "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+      "FLOOR": 0
+    },
+    {
+      "ID": "2",
+      "W": 3346,
+      "H": 1829,
+      "NAME": "Hall 2",
+      "PARENT_ELEMENT_ID": "epx.1|epx.7|epx.8|epx.14|epx.34|epx.35|epx.36|epx.95|epx.102|epx.103",
+      "FLOOR": 0
+    },
+    {
+      "ID": "3",
+      "W": 3100,
+      "H": 7225,
+      "NAME": "Hall 3",
+      "PARENT_ELEMENT_ID": "epx.0|epx.86|epx.13|epx.33|epx.104",
+      "FLOOR": 0
+    },
+    {
+      "ID": "7",
+      "W": 2963,
+      "H": 4763,
+      "NAME": "Hall 7",
+      "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG2",
+      "W": 3325,
+      "H": 2310,
+      "NAME": "FG2",
+      "PARENT_ELEMENT_ID": "epx.119|epx.116|epx.126|epx.106|epx.107|epx.123|epx.89",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG3",
+      "W": 1539,
+      "H": 1627,
+      "NAME": "FG3",
+      "PARENT_ELEMENT_ID": "epx.118|epx.114|epx.115|epx.112|epx.113|epx.110|epx.111|epx.124",
+      "FLOOR": 0
+    },
+    {
+      "ID": "6",
+      "W": 2479,
+      "H": 3508,
+      "NAME": "Hall 6",
+      "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+      "FLOOR": 0
+    },
+    {
+      "ID": "8",
+      "W": 2107,
+      "H": 2103,
+      "NAME": "Hall 8",
+      "PARENT_ELEMENT_ID": "epx.128|epx.155|epx.156",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG1",
+      "W": 3854,
+      "H": 1697,
+      "NAME": "FG1",
+      "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+      "FLOOR": 0
+    },
+    {
+      "ID": "4",
+      "W": 2956,
+      "H": 4462,
+      "NAME": "Hall 4",
+      "PARENT_ELEMENT_ID": "epx.5|epx.17|epx.18|epx.19|epx.20|epx.21|epx.39|epx.40|epx.94",
+      "FLOOR": 0
+    },
+    {
+      "ID": "0",
+      "W": 3508,
+      "H": 2480,
+      "NAME": "Fair ground",
+      "PARENT_ELEMENT_ID": "-1",
+      "FLOOR": 0
+    },
+    {
+      "ID": "GA",
+      "W": 6356,
+      "H": 1769,
+      "NAME": "Galeria",
+      "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+      "FLOOR": 0
+    },
+    {
+      "ID": "5",
+      "W": 3422,
+      "H": 3472,
+      "NAME": "Hall 5",
+      "PARENT_ELEMENT_ID": "epx.3|epx.44|epx.45|epx.46|epx.127|epx.29|epx.30|epx.31|epx.32|epx.37|epx.38|epx.73|epx.74|epx.79|epx.87",
+      "FLOOR": 0
+    }
+  ],
+  "events": [],
+  "urls": []
+}

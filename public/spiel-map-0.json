@@ -1,0 +1,278 @@
+{
+  "map": {
+    "ID": "0",
+    "W": 3508,
+    "H": 2480,
+    "NAME": "Fair ground",
+    "PARENT_ELEMENT_ID": "-1",
+    "FLOOR": 0,
+    "path": "static/spiel25/20251014093942"
+  },
+  "mapElements": [
+    {
+      "ID": "epx.0",
+      "KARTEN_ID": "0",
+      "X": 537,
+      "Y": 510,
+      "W": 733,
+      "H": 708,
+      "XCOORDS": "537|1090|1270|830",
+      "YCOORDS": "1218|510|652|1218",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.1",
+      "KARTEN_ID": "0",
+      "X": 1252,
+      "Y": 726,
+      "W": 488,
+      "H": 440,
+      "XCOORDS": "1252|1368|1740|1622",
+      "YCOORDS": "876|726|1018|1166",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.117",
+      "KARTEN_ID": "0",
+      "X": 1555,
+      "Y": 720,
+      "W": 245,
+      "H": 221,
+      "XCOORDS": "1555|1606|1800|1750",
+      "YCOORDS": "788|720|870|941",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.118",
+      "KARTEN_ID": "0",
+      "X": 1177,
+      "Y": 659,
+      "W": 186,
+      "H": 189,
+      "XCOORDS": "1177|1272|1363|1269",
+      "YCOORDS": "777|659|728|848",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.119",
+      "KARTEN_ID": "0",
+      "X": 1625,
+      "Y": 945,
+      "W": 377,
+      "H": 223,
+      "XCOORDS": "1774|1815|1785|1802|2002|1625|1739",
+      "YCOORDS": "1047|993|967|945|1101|1168|1021",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.128",
+      "KARTEN_ID": "0",
+      "X": 2308,
+      "Y": 860,
+      "W": 445,
+      "H": 386,
+      "XCOORDS": "2753|2583|2493|2477|2401|2377|2308|2545",
+      "YCOORDS": "1024|1241|1229|1246|1187|1217|1163|860",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.130",
+      "KARTEN_ID": "0",
+      "X": 1985,
+      "Y": 778,
+      "W": 528,
+      "H": 434,
+      "XCOORDS": "2321|2360|2513|2475|2283|2171|2089|1985|2257",
+      "YCOORDS": "829|778|896|945|1196|1108|1212|1130|780",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.2",
+      "KARTEN_ID": "0",
+      "X": 1013,
+      "Y": 839,
+      "W": 606,
+      "H": 380,
+      "XCOORDS": "1013|1194|1619|1598|1565|1549|1515|1494|1451|1421|1251|1234|1159|1141|1094|1051",
+      "YCOORDS": "1066|839|1169|1192|1170|1192|1167|1193|1165|1201|1211|1196|1201|1219|1219|1093",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.3",
+      "KARTEN_ID": "0",
+      "X": 1578,
+      "Y": 441,
+      "W": 458,
+      "H": 456,
+      "XCOORDS": "1578|1781|2036|1836",
+      "YCOORDS": "697|441|640|897",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.4",
+      "KARTEN_ID": "0",
+      "X": 1799,
+      "Y": 641,
+      "W": 439,
+      "H": 457,
+      "XCOORDS": "1799|2037|2238|2004",
+      "YCOORDS": "942|641|798|1098",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.5",
+      "KARTEN_ID": "0",
+      "X": 1313,
+      "Y": 312,
+      "W": 438,
+      "H": 453,
+      "XCOORDS": "1313|1540|1751|1525",
+      "YCOORDS": "598|312|476|765",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.6",
+      "KARTEN_ID": "0",
+      "X": 1138,
+      "Y": 493,
+      "W": 672,
+      "H": 550,
+      "XCOORDS": "1138|1179|1810|1771",
+      "YCOORDS": "549|493|991|1043",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    }
+  ],
+  "companies": [],
+  "maps": [
+    {
+      "ID": "1",
+      "W": 3425,
+      "H": 2412,
+      "NAME": "Hall 1",
+      "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+      "FLOOR": 0
+    },
+    {
+      "ID": "2",
+      "W": 3346,
+      "H": 1829,
+      "NAME": "Hall 2",
+      "PARENT_ELEMENT_ID": "epx.1|epx.7|epx.8|epx.14|epx.34|epx.35|epx.36|epx.95|epx.102|epx.103",
+      "FLOOR": 0
+    },
+    {
+      "ID": "3",
+      "W": 3100,
+      "H": 7225,
+      "NAME": "Hall 3",
+      "PARENT_ELEMENT_ID": "epx.0|epx.86|epx.13|epx.33|epx.104",
+      "FLOOR": 0
+    },
+    {
+      "ID": "7",
+      "W": 2963,
+      "H": 4763,
+      "NAME": "Hall 7",
+      "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG2",
+      "W": 3325,
+      "H": 2310,
+      "NAME": "FG2",
+      "PARENT_ELEMENT_ID": "epx.119|epx.116|epx.126|epx.106|epx.107|epx.123|epx.89",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG3",
+      "W": 1539,
+      "H": 1627,
+      "NAME": "FG3",
+      "PARENT_ELEMENT_ID": "epx.118|epx.114|epx.115|epx.112|epx.113|epx.110|epx.111|epx.124",
+      "FLOOR": 0
+    },
+    {
+      "ID": "6",
+      "W": 2479,
+      "H": 3508,
+      "NAME": "Hall 6",
+      "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+      "FLOOR": 0
+    },
+    {
+      "ID": "8",
+      "W": 2107,
+      "H": 2103,
+      "NAME": "Hall 8",
+      "PARENT_ELEMENT_ID": "epx.128|epx.155|epx.156",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG1",
+      "W": 3854,
+      "H": 1697,
+      "NAME": "FG1",
+      "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+      "FLOOR": 0
+    },
+    {
+      "ID": "4",
+      "W": 2956,
+      "H": 4462,
+      "NAME": "Hall 4",
+      "PARENT_ELEMENT_ID": "epx.5|epx.17|epx.18|epx.19|epx.20|epx.21|epx.39|epx.40|epx.94",
+      "FLOOR": 0
+    },
+    {
+      "ID": "0",
+      "W": 3508,
+      "H": 2480,
+      "NAME": "Fair ground",
+      "PARENT_ELEMENT_ID": "-1",
+      "FLOOR": 0
+    },
+    {
+      "ID": "GA",
+      "W": 6356,
+      "H": 1769,
+      "NAME": "Galeria",
+      "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+      "FLOOR": 0
+    },
+    {
+      "ID": "5",
+      "W": 3422,
+      "H": 3472,
+      "NAME": "Hall 5",
+      "PARENT_ELEMENT_ID": "epx.3|epx.44|epx.45|epx.46|epx.127|epx.29|epx.30|epx.31|epx.32|epx.37|epx.38|epx.73|epx.74|epx.79|epx.87",
+      "FLOOR": 0
+    }
+  ],
+  "events": [],
+  "urls": []
+}

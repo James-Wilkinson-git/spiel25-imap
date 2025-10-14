@@ -1,0 +1,1915 @@
+{
+  "map": {
+    "ID": "6",
+    "W": 2479,
+    "H": 3508,
+    "NAME": "Hall 6",
+    "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+    "FLOOR": 0,
+    "path": "static/spiel25/20251014093942"
+  },
+  "mapElements": [
+    {
+      "ID": "6.6A101",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 2493,
+      "W": 71,
+      "H": 172,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6A101",
+      "NAME": "6A101"
+    },
+    {
+      "ID": "6.6A200",
+      "KARTEN_ID": "6",
+      "X": 714,
+      "Y": 2830,
+      "W": 322,
+      "H": 132,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6A200",
+      "NAME": "6A200"
+    },
+    {
+      "ID": "6.6A201",
+      "KARTEN_ID": "6",
+      "X": 932,
+      "Y": 2672,
+      "W": 262,
+      "H": 81,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6A201",
+      "NAME": "6A201"
+    },
+    {
+      "ID": "6.6A300",
+      "KARTEN_ID": "6",
+      "X": 1258,
+      "Y": 2830,
+      "W": 332,
+      "H": 274,
+      "XCOORDS": "1258|1590|1590|1590|1258|1258|1258",
+      "YCOORDS": "3104|3104|2993|2830|2830|2993|3104",
+      "TYPE": 0,
+      "STAND_ID": "6.6A300",
+      "NAME": "6A300"
+    },
+    {
+      "ID": "6.6A301",
+      "KARTEN_ID": "6",
+      "X": 633,
+      "Y": 3023,
+      "W": 323,
+      "H": 81,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6A301",
+      "NAME": "6A301"
+    },
+    {
+      "ID": "6.6A302",
+      "KARTEN_ID": "6",
+      "X": 956,
+      "Y": 3023,
+      "W": 80,
+      "H": 81,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6A302",
+      "NAME": "6A302"
+    },
+    {
+      "ID": "6.6A412",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 2623,
+      "W": 40,
+      "H": 152,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6A412",
+      "NAME": "6A412"
+    },
+    {
+      "ID": "6.6B109",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 2279,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B109",
+      "NAME": "6B109"
+    },
+    {
+      "ID": "6.6B110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 2490,
+      "W": 262,
+      "H": 263,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B110",
+      "NAME": "6B110"
+    },
+    {
+      "ID": "6.6B200",
+      "KARTEN_ID": "6",
+      "X": 932,
+      "Y": 2490,
+      "W": 262,
+      "H": 182,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B200",
+      "NAME": "6B200"
+    },
+    {
+      "ID": "6.6B201",
+      "KARTEN_ID": "6",
+      "X": 932,
+      "Y": 2166,
+      "W": 262,
+      "H": 243,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B201",
+      "NAME": "6B201"
+    },
+    {
+      "ID": "6.6B300",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 2490,
+      "W": 353,
+      "H": 263,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B300",
+      "NAME": "6B300"
+    },
+    {
+      "ID": "6.6B400",
+      "KARTEN_ID": "6",
+      "X": 1708,
+      "Y": 2490,
+      "W": 80,
+      "H": 243,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B400",
+      "NAME": "6B400"
+    },
+    {
+      "ID": "6.6B401",
+      "KARTEN_ID": "6",
+      "X": 1708,
+      "Y": 1862,
+      "W": 201,
+      "H": 547,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B401",
+      "NAME": "6B401"
+    },
+    {
+      "ID": "6.6B410",
+      "KARTEN_ID": "6",
+      "X": 1788,
+      "Y": 2490,
+      "W": 121,
+      "H": 243,
+      "XCOORDS": "1909|1788|1788|1869|1909|1909",
+      "YCOORDS": "2490|2490|2733|2733|2693|2490",
+      "TYPE": 0,
+      "STAND_ID": "6.6B410",
+      "NAME": "6B410"
+    },
+    {
+      "ID": "6.6B412",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 2501,
+      "W": 51,
+      "H": 122,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B412",
+      "NAME": "6B412"
+    },
+    {
+      "ID": "6.6B415",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 2194,
+      "W": 61,
+      "H": 183,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6B415",
+      "NAME": "6B415"
+    },
+    {
+      "ID": "6.6C108",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 2178,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C108",
+      "NAME": "6C108"
+    },
+    {
+      "ID": "6.6C109",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 2076,
+      "W": 61,
+      "H": 102,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C109",
+      "NAME": "6C109"
+    },
+    {
+      "ID": "6.6C110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 2186,
+      "W": 262,
+      "H": 223,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C110",
+      "NAME": "6C110"
+    },
+    {
+      "ID": "6.6C300",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 2227,
+      "W": 101,
+      "H": 182,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C300",
+      "NAME": "6C300"
+    },
+    {
+      "ID": "6.6C310",
+      "KARTEN_ID": "6",
+      "X": 1436,
+      "Y": 2227,
+      "W": 191,
+      "H": 182,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C310",
+      "NAME": "6C310"
+    },
+    {
+      "ID": "6.6C410",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 1992,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C410",
+      "NAME": "6C410"
+    },
+    {
+      "ID": "6.6C411",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 2093,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6C411",
+      "NAME": "6C411"
+    },
+    {
+      "ID": "6.6D108",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 1975,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D108",
+      "NAME": "6D108"
+    },
+    {
+      "ID": "6.6D109",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 1874,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D109",
+      "NAME": "6D109"
+    },
+    {
+      "ID": "6.6D110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 2014,
+      "W": 262,
+      "H": 111,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D110",
+      "NAME": "6D110"
+    },
+    {
+      "ID": "6.6D300",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 2004,
+      "W": 101,
+      "H": 162,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D300",
+      "NAME": "6D300"
+    },
+    {
+      "ID": "6.6D301",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 1903,
+      "W": 353,
+      "H": 40,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D301",
+      "NAME": "6D301"
+    },
+    {
+      "ID": "6.6D310",
+      "KARTEN_ID": "6",
+      "X": 1436,
+      "Y": 2004,
+      "W": 60,
+      "H": 162,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D310",
+      "NAME": "6D310"
+    },
+    {
+      "ID": "6.6D320",
+      "KARTEN_ID": "6",
+      "X": 1496,
+      "Y": 2004,
+      "W": 131,
+      "H": 162,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D320",
+      "NAME": "6D320"
+    },
+    {
+      "ID": "6.6D410",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 1789,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D410",
+      "NAME": "6D410"
+    },
+    {
+      "ID": "6.6D411",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 1890,
+      "W": 61,
+      "H": 102,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6D411",
+      "NAME": "6D411"
+    },
+    {
+      "ID": "6.6E109",
+      "KARTEN_ID": "6",
+      "X": 486,
+      "Y": 1712,
+      "W": 40,
+      "H": 162,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6E109",
+      "NAME": "6E109"
+    },
+    {
+      "ID": "6.6E110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 1852,
+      "W": 262,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6E110",
+      "NAME": "6E110"
+    },
+    {
+      "ID": "6.6F101",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 1327,
+      "W": 61,
+      "H": 121,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F101",
+      "NAME": "6F101"
+    },
+    {
+      "ID": "6.6F109",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 1610,
+      "W": 61,
+      "H": 102,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F109",
+      "NAME": "6F109"
+    },
+    {
+      "ID": "6.6F110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 1558,
+      "W": 262,
+      "H": 233,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F110",
+      "NAME": "6F110"
+    },
+    {
+      "ID": "6.6F115",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 1315,
+      "W": 323,
+      "H": 162,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F115",
+      "NAME": "6F115"
+    },
+    {
+      "ID": "6.6F200",
+      "KARTEN_ID": "6",
+      "X": 932,
+      "Y": 1558,
+      "W": 262,
+      "H": 608,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F200",
+      "NAME": "6F200"
+    },
+    {
+      "ID": "6.6F300",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 1558,
+      "W": 353,
+      "H": 345,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F300",
+      "NAME": "6F300"
+    },
+    {
+      "ID": "6.6F301",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 1173,
+      "W": 353,
+      "H": 304,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F301",
+      "NAME": "6F301"
+    },
+    {
+      "ID": "6.6F400",
+      "KARTEN_ID": "6",
+      "X": 1708,
+      "Y": 1558,
+      "W": 201,
+      "H": 304,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F400",
+      "NAME": "6F400"
+    },
+    {
+      "ID": "6.6F401",
+      "KARTEN_ID": "6",
+      "X": 1708,
+      "Y": 1274,
+      "W": 201,
+      "H": 203,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F401",
+      "NAME": "6F401"
+    },
+    {
+      "ID": "6.6F410",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 1597,
+      "W": 40,
+      "H": 192,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6F410",
+      "NAME": "6F410"
+    },
+    {
+      "ID": "6.6G100",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 1084,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G100",
+      "NAME": "6G100"
+    },
+    {
+      "ID": "6.6G101",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 819,
+      "W": 61,
+      "H": 142,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G101",
+      "NAME": "6G101"
+    },
+    {
+      "ID": "6.6G102",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 1185,
+      "W": 61,
+      "H": 142,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G102",
+      "NAME": "6G102"
+    },
+    {
+      "ID": "6.6G103",
+      "KARTEN_ID": "6",
+      "X": 465,
+      "Y": 718,
+      "W": 61,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G103",
+      "NAME": "6G103"
+    },
+    {
+      "ID": "6.6G110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 1072,
+      "W": 323,
+      "H": 243,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G110",
+      "NAME": "6G110"
+    },
+    {
+      "ID": "6.6G200",
+      "KARTEN_ID": "6",
+      "X": 992,
+      "Y": 1072,
+      "W": 202,
+      "H": 405,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G200",
+      "NAME": "6G200"
+    },
+    {
+      "ID": "6.6G201",
+      "KARTEN_ID": "6",
+      "X": 982,
+      "Y": 819,
+      "W": 212,
+      "H": 172,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G201",
+      "NAME": "6G201"
+    },
+    {
+      "ID": "6.6G300",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 1072,
+      "W": 353,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G300",
+      "NAME": "6G300"
+    },
+    {
+      "ID": "6.6G400",
+      "KARTEN_ID": "6",
+      "X": 1708,
+      "Y": 1072,
+      "W": 201,
+      "H": 202,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G400",
+      "NAME": "6G400"
+    },
+    {
+      "ID": "6.6G410",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 1084,
+      "W": 61,
+      "H": 385,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6G410",
+      "NAME": "6G410"
+    },
+    {
+      "ID": "6.6H200",
+      "KARTEN_ID": "6",
+      "X": 982,
+      "Y": 697,
+      "W": 212,
+      "H": 122,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6H200",
+      "NAME": "6H200"
+    },
+    {
+      "ID": "6.6K100",
+      "KARTEN_ID": "6",
+      "X": 486,
+      "Y": 616,
+      "W": 40,
+      "H": 102,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K100",
+      "NAME": "6K100"
+    },
+    {
+      "ID": "6.6K101",
+      "KARTEN_ID": "6",
+      "X": 486,
+      "Y": 515,
+      "W": 40,
+      "H": 101,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K101",
+      "NAME": "6K101"
+    },
+    {
+      "ID": "6.6K107",
+      "KARTEN_ID": "6",
+      "X": 787,
+      "Y": 342,
+      "W": 81,
+      "H": 82,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K107",
+      "NAME": "6K107"
+    },
+    {
+      "ID": "6.6K110",
+      "KARTEN_ID": "6",
+      "X": 599,
+      "Y": 505,
+      "W": 312,
+      "H": 486,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K110",
+      "NAME": "6K110"
+    },
+    {
+      "ID": "6.6K111",
+      "KARTEN_ID": "6",
+      "X": 787,
+      "Y": 342,
+      "W": 393,
+      "H": 82,
+      "XCOORDS": "1100|1180|1180|1100|868|787|787|868|1100",
+      "YCOORDS": "423|424|342|342|342|342|424|424|423",
+      "TYPE": 0,
+      "STAND_ID": "6.6K111",
+      "NAME": "6K111"
+    },
+    {
+      "ID": "6.6K200",
+      "KARTEN_ID": "6",
+      "X": 982,
+      "Y": 505,
+      "W": 212,
+      "H": 131,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K200",
+      "NAME": "6K200"
+    },
+    {
+      "ID": "6.6K201",
+      "KARTEN_ID": "6",
+      "X": 1100,
+      "Y": 342,
+      "W": 81,
+      "H": 81,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K201",
+      "NAME": "6K201"
+    },
+    {
+      "ID": "6.6K300",
+      "KARTEN_ID": "6",
+      "X": 1274,
+      "Y": 505,
+      "W": 353,
+      "H": 486,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K300",
+      "NAME": "6K300"
+    },
+    {
+      "ID": "6.6K301",
+      "KARTEN_ID": "6",
+      "X": 1332,
+      "Y": 342,
+      "W": 393,
+      "H": 82,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K301",
+      "NAME": "6K301"
+    },
+    {
+      "ID": "6.6K400",
+      "KARTEN_ID": "6",
+      "X": 1708,
+      "Y": 505,
+      "W": 201,
+      "H": 486,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K400",
+      "NAME": "6K400"
+    },
+    {
+      "ID": "6.6K403",
+      "KARTEN_ID": "6",
+      "X": 1889,
+      "Y": 342,
+      "W": 172,
+      "H": 51,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "6.6K403",
+      "NAME": "6K403"
+    },
+    {
+      "ID": "6.6K410",
+      "KARTEN_ID": "6",
+      "X": 1990,
+      "Y": 517,
+      "W": 71,
+      "H": 436,
+      "XCOORDS": "1990|2061|2061|2041|2041|1990|1990",
+      "YCOORDS": "953|953|699|699|517|517|953",
+      "TYPE": 0,
+      "STAND_ID": "6.6K410",
+      "NAME": "6K410"
+    },
+    {
+      "ID": "epx.105",
+      "KARTEN_ID": "6",
+      "X": 235,
+      "Y": 2679,
+      "W": 108,
+      "H": 84,
+      "XCOORDS": "235|275|275|341|343|275|275",
+      "YCOORDS": "2720|2679|2700|2700|2742|2741|2763",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.106",
+      "KARTEN_ID": "6",
+      "X": 1107,
+      "Y": 3171,
+      "W": 80,
+      "H": 103,
+      "XCOORDS": "1145|1107|1127|1127|1168|1166|1187",
+      "YCOORDS": "3274|3235|3234|3172|3171|3235|3235",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.107",
+      "KARTEN_ID": "6",
+      "X": 1645,
+      "Y": 3172,
+      "W": 80,
+      "H": 103,
+      "XCOORDS": "1683|1645|1665|1665|1706|1704|1725",
+      "YCOORDS": "3275|3236|3235|3173|3172|3236|3236",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.134",
+      "KARTEN_ID": "6",
+      "X": 2151,
+      "Y": 418,
+      "W": 133,
+      "H": 81,
+      "XCOORDS": "2151|2244|2245|2284|2245|2242|2153",
+      "YCOORDS": "438|441|418|460|499|479|479",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.135",
+      "KARTEN_ID": "6",
+      "X": 2151,
+      "Y": 983,
+      "W": 133,
+      "H": 81,
+      "XCOORDS": "2151|2244|2245|2284|2245|2242|2152",
+      "YCOORDS": "1003|1006|983|1025|1064|1044|1044",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.136",
+      "KARTEN_ID": "6",
+      "X": 2152,
+      "Y": 1487,
+      "W": 133,
+      "H": 81,
+      "XCOORDS": "2152|2245|2246|2285|2246|2243|2153",
+      "YCOORDS": "1507|1510|1487|1529|1568|1548|1548",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.137",
+      "KARTEN_ID": "6",
+      "X": 2102,
+      "Y": 2381,
+      "W": 133,
+      "H": 81,
+      "XCOORDS": "2102|2195|2196|2235|2196|2193|2103",
+      "YCOORDS": "2401|2404|2381|2423|2462|2442|2442",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.28",
+      "KARTEN_ID": "6",
+      "X": 219,
+      "Y": 2765,
+      "W": 157,
+      "H": 118,
+      "XCOORDS": "219|239|240|372|376|282|282|304|264",
+      "YCOORDS": "2842|2841|2767|2765|2807|2806|2841|2841|2883",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.29",
+      "KARTEN_ID": "6",
+      "X": 237,
+      "Y": 2381,
+      "W": 134,
+      "H": 84,
+      "XCOORDS": "237|277|277|369|371|277|277",
+      "YCOORDS": "2422|2381|2402|2402|2444|2443|2465",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.30",
+      "KARTEN_ID": "6",
+      "X": 236,
+      "Y": 1478,
+      "W": 134,
+      "H": 84,
+      "XCOORDS": "236|276|276|368|370|276|276",
+      "YCOORDS": "1519|1478|1499|1499|1541|1540|1562",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.31",
+      "KARTEN_ID": "6",
+      "X": 237,
+      "Y": 955,
+      "W": 134,
+      "H": 84,
+      "XCOORDS": "237|277|276|369|371|277|277",
+      "YCOORDS": "996|955|977|976|1018|1017|1039",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.32",
+      "KARTEN_ID": "6",
+      "X": 241,
+      "Y": 402,
+      "W": 134,
+      "H": 84,
+      "XCOORDS": "241|281|280|373|375|281|281",
+      "YCOORDS": "443|402|424|423|465|464|486",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1609,
+      "name": "10 Traders GmbH",
+      "description": "Founded by 10 game retailers, the experience gained in the retail sector is incorporated into the games in the publisher's program.  ",
+      "website": "https://10traders.de/",
+      "booths": [
+        "6A302"
+      ]
+    },
+    {
+      "id": 1883,
+      "name": "25TH Century Games",
+      "description": "25th Century Games is a tabletop publishing studio located in Atlanta, GA. We make out of this world games that bring people together.",
+      "website": "https://www.25thcenturygames.com/",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1651,
+      "name": "ALBI",
+      "description": "Albi is a board game publisher and distributor from the Czech Republic, where we’ve been part of the gaming community since 1991. We’ve grown over the years, with teams now in Slovakia and Poland, but at our core, we’re still all about sharing the joy of games, books, and gifts with people who love them as much as we do.One of the games we’re especially proud of is Karak. Seeing it find its way to over 450,000 players around the world has been an amazing journey, and it’s all thanks to the players who took a chance on it.Today, we’re lucky to have over 500 teammates and more than 40 stores across the Czech Republic and Slovakia. In 2023, we reached a turnover of 76 million euros—a milestone we never imagined back in the early days. But we know none of this would be possible without your incredible support.We’re here because we love what we do and because people like you keep the passion alive. Thank you for being part of our story—and here’s to many more games to come!",
+      "website": "",
+      "booths": [
+        "6E110"
+      ]
+    },
+    {
+      "id": 1262,
+      "name": "ATM Gaming",
+      "description": "Wir sind ein junger Spiele-Verlag aus München, der 2020 gegründet wurde. Es ist unsere Mission, Freunde und Familien zusammenzubringen, damit sie eine kurzweilige und unterhaltsame Zeit miteinander verbringen. Unser Fokus liegt hierbei auf Kartenspielen. Sie eignen sich perfekt als abwechslungsreiche Unterhaltung für Zwischendurch, als Begleiter im Urlaub mit Freunden oder auch als Warm-up in einen längeren Spieleabend mit der Familie.Wir wollen Euch lustige Stunden auch abseits von Smartphone und TV bieten. Deshalb legen wir bei der Spieleentwicklung viel Wert auf Originalität und Produkt-Qualität.&nbsp;",
+      "website": "https://atmgaming.de/",
+      "booths": [
+        "6D110"
+      ]
+    },
+    {
+      "id": 1788,
+      "name": "Agile Unicorn Spieleverlag",
+      "description": "Hi, we're Daniel, Tobi, and Leif – the team behind the young indie game publisher from near Bonn.In June 2025, we successfully funded our first game, Agile Unicorn, through crowdfunding on Gamefound. Now, we want to introduce it to a wider audience.Through game development, we are basically therapizing ourselves from our main IT jobs while combining it with our passion for board and card games.",
+      "website": "https://agile-unicorn.com/",
+      "booths": [
+        "6K107"
+      ]
+    },
+    {
+      "id": 1591,
+      "name": "BOMBYX",
+      "description": "We are a French publishing house of board games, created in 2011.Our editorial choices are from our hearts. Games that we like, that amuse us, that inspire us.Our catalog is growing every year, with quick and clever games for the whole family or more complex games for experienced players.Dive into the depths of the sea, feed bamboo to the panda, repair dream machines, draw your own constellations, navigate paper oceans, and build your base on Titan… Each game takes you on a journey to a different universe.",
+      "website": "https://studiobombyx.com/en/",
+      "booths": [
+        "6G300"
+      ]
+    },
+    {
+      "id": 1315,
+      "name": "Bausteinecke",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6C410"
+      ]
+    },
+    {
+      "id": 1012,
+      "name": "Blackrock Games",
+      "description": "Blackrock Games, a board game distributor, is a family business founded in 2007 by Yoann Laurent, the nephew, and Alain Ollier, the uncle. Today, with over 500 games in its catalog and an average of three million game boxes sold per year, Blackrock Games is one of the leading distributors in the French market. The company represents nearly 40 publishers and is present in around thirty countries.",
+      "website": "https://site-export.blackrockgames.fr/",
+      "booths": [
+        "6G400",
+        "6K400",
+        "6K403",
+        "6K410"
+      ]
+    },
+    {
+      "id": 1445,
+      "name": "Blue Orange",
+      "description": "Founded in 2005 in Pont-à-Mousson, Blue Orange has become one of France’s leading board game publishers.Known for accessible, family-friendly titles as well as strategy games for experienced players, the company blends creativity, quality design, and sustainable production.With hits such as Kingdomino (Spiel des Jahres 2017) and Dragomino (2021), Blue Orange has earned international recognition and multiple awards. Each year, its team scouts thousands of prototypes to bring a dozen fresh and innovative games to life.Today, Blue Orange titles are played on five continents and in more than 60 countries, carrying French imagination and craftsmanship into homes and cafés around the world.Our &nbsp;mission is to guide players through a ludic journey—from children’s games to those designed for more experienced gamers—offering accessible, fun, and engaging board games for a wide range of audience. We strive &nbsp;to be the “gateway into modern board gaming”, aiming to be the natural recommendation for newcomers to the hobby.",
+      "website": "https://blueorangegames.eu/en/",
+      "booths": [
+        "6F300"
+      ]
+    },
+    {
+      "id": 1267,
+      "name": "Boqueron Games",
+      "description": "Boquerón Games is a board game publisher from Málaga, Spain, committed to creating games with a unique identity: fresh, approachable, and full of humor. Every title comes from our own creative process, which gives each game its distinctive character.Our hallmark is turning any session into a moment of connection, laughter, and shared energy. We don’t just want our games to be played — we want them to be experienced: short playtimes, simple rules, and original designs that make us truly stand out.",
+      "website": "https://boquerongames.com/",
+      "booths": [
+        "6G103"
+      ]
+    },
+    {
+      "id": 1056,
+      "name": "Brummbär",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6F410"
+      ]
+    },
+    {
+      "id": 1418,
+      "name": "Burnout Board Game",
+      "description": "Burnout is a ruthless party & light strategy game about sabotaging coworkers without losing your shi*t.Over six chaotic weeks, grow your Reputation while protecting your Mental Health and outwitting rivals with clever hand management & timely Take-That moves for a nail-biting finish.Satirical, relatable and fun, Burnout launches on Kickstarter in Q1 2026.Burnout was created by Laughing Sticks Pte. Ltd., a Singapore-based indie game studio.Join the waitlist at&nbsp;https://www.burnoutgame.com/",
+      "website": "https://burnoutgame.com",
+      "booths": [
+        "6D411"
+      ]
+    },
+    {
+      "id": 1919,
+      "name": "CORE STUDIO",
+      "description": "C.O.R.E Studio is a company engaged in board game design in Tianjin, China.",
+      "website": "",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1342,
+      "name": "Cosmoludo",
+      "description": "We are Cosmoludo, the French publisher behind some of the coolest abstract strategy games out there. Known for our simple rules and infinite moves since 2020, we offer a high quality, plastic free and colorblind friendly range of 2 player games, accessible for all (8yo+).Our mission? To evolve mindsets by offering a modern vision of the thinking game: accessible, minimalist, and devilishly stimulating. No more lengthy rules and overloaded boards! It's time for simplicity and the pleasure of playing, without the superfluous.Whether you're a strategy expert or a casual player, we've got what you are looking for to stimulate your brain while having fun. 🧠Swing by our booth to challenge your mind 🔥Games available : Oxono, Yoxii, Kamon, Hokito, Mana and Pantareï.",
+      "website": "https://www.cosmoludo.com/en",
+      "booths": [
+        "6C108"
+      ]
+    },
+    {
+      "id": 964,
+      "name": "DETOA Albrechtice s.r.o.",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6K100"
+      ]
+    },
+    {
+      "id": 1364,
+      "name": "Denkriesen",
+      "description": "D&R DENKRIESEN, based in Quickborn, was founded in 2012 and is now one of Germany's leading game publishers. It all started with the drinking game “klattschen,” which quickly became a bestseller throughout Germany. The portfolio now includes a variety of innovative titles, including the successful “Stadt-Land-Vollpfosten” series, the action game “Arschmallows,” and “30Seconds.” The company is also successful internationally: games from the publisher are now available in 11 languages and 15 countries.With a team of over 65 employees, D&R DENKRIESEN pursues its mission of bringing people together in a digital world through analog games.Social engagement is an integral part of the company's philosophy: through the #spielendgutestun initiative, DENKRIESEN donates at least two percent of its profits to charitable organizations every year.",
+      "website": "https://www.denkriesen.com/",
+      "booths": [
+        "6B401"
+      ]
+    },
+    {
+      "id": 1704,
+      "name": "Disto Studio",
+      "description": "Disto Studio is a french board game publisher from Strasbourg.We create games that reflect who we are: unusual themes, striking visuals, and well-crafted mechanics. Our mission ? To offer a relaxed and original playing experience.",
+      "website": "https://distostudio.fr/",
+      "booths": [
+        "6D410"
+      ]
+    },
+    {
+      "id": 1153,
+      "name": "Djeco",
+      "description": "At Djeco, we are passionate about creating fun, engaging, and beautifully crafted games that bring joy to moments shared with family, friends, or classmates.A Djeco game is the result of a designer’s vision, clever game mechanics, and the artistic imagination of a talented illustrator. We collaborate with a diverse range of illustrators, from renowned artists to emerging talents, to bring a unique artistic touch to our games. Our use of original, delicate artwork ensures that our creations resonate with people of all ages.We offer over 150 games suitable for players from 2 to 99 years old, including popular card games like Batawaf, board games such as Pinpon and Woolfy, as well as logic games with our Sologic range.",
+      "website": "https://www.djeco.com/fr",
+      "booths": [
+        "6G201"
+      ]
+    },
+    {
+      "id": 1825,
+      "name": "Droptalk - Echte Begegnung ist ein Spiel.",
+      "description": "Droptalk – Level Up your RelationshipsExit smalltalk. Real connection. Made easy.Ever felt like there are things you’d love to say – but they somehow remain unspoken? You want more honest conversations, deeper connection, real closeness… but starting feels hard. That’s where Droptalk comes in.Droptalk is an innovative card game designed to spark genuine encounters. With unique question, action, and feedback cards, it creates a safe and caring space where you can show up as your true self. Within minutes, you and your friends, family, or partner dive into conversations that move, surprise, and connect – talking about what usually stays unsaid.Unlike traditional games, Droptalk isn’t about points or winning. It’s about honesty, openness, and meaningful moments together. Whether in families, friendships, partnerships, or teams – Droptalk helps you build trust, strengthen bonds, and experience connection that lasts.Droptalk is not just a game – it’s a gamechanger for your relationships.Are you ready for real connection?At our booth you’ll find:Droptalk – Classic EditionDroptalk – Pocket EditionDroptalk – MoneyDroptalk – English Translation (final prototype)",
+      "website": "https://www.droptalk.eu/",
+      "booths": [
+        "6D109"
+      ]
+    },
+    {
+      "id": 1135,
+      "name": "Edition Spielwiese",
+      "description": "Edition Spielwiese creates games in the heart of Berlin for everyone who loves to play.In 2006, Michael Schmitt opened the Berlin board game café Spielwiese. Ten years later, this was followed by the founding of the publishing house Edition Spielwiese.In 2018, Memoarrr! was chosen by the public as the Best Children’s Game of the year, winning the prestigious Deutscher Kinderspielepreis.In 2020, the Spiel des Jahres jury nominated Nova Luna as one of the three most outstanding games of the year. And in 2021, MicroMacro: Crime City was honored with the Spiel des Jahres award.",
+      "website": "https://spielwiese-berlin.de",
+      "booths": [
+        "6A300"
+      ]
+    },
+    {
+      "id": 1836,
+      "name": "Final Score Games",
+      "description": "Rich gaming experiences! Brilliant mechanics, awesome aesthetics and amazing high quality components.",
+      "website": "https://www.finalscoregames.com/",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1824,
+      "name": "Fingagolf",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6C109"
+      ]
+    },
+    {
+      "id": 1892,
+      "name": "Funnyfox/Hachette Livre",
+      "description": "Funnyfox is a board game brand set up by Hachette Livre group in 2019. Its editorial line focuses on family+ and casual games to play with friends and family (party games and strategy games). Its games will be distributed by French publisher and distributor Gigamic.",
+      "website": "",
+      "booths": [
+        "6K300"
+      ]
+    },
+    {
+      "id": 1211,
+      "name": "GRANNA",
+      "description": "GRANNA is a Polish board game publisher based in Warsaw, which has been providing unique experiences to board game enthusiasts for over 30 years. The company’s mission is to promote learning through play, which it achieves by publishing valuable educational and entertainment games. Many of our titles have gained a cult status and are loved by successive generations of players. GRANNA stands out on the market for its commitment to the highest quality of its products – both in terms of content and craftsmanship. Our games often combine educational elements with engaging entertainment, which makes them a popular choice among parents, teachers, and educators, who treat them as a valuable support in the process of children’s learning and development.",
+      "website": "https://www.granna.pl/",
+      "booths": [
+        "6A412"
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "GaGa Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6K111"
+      ]
+    },
+    {
+      "id": 1417,
+      "name": "Game Factory",
+      "description": "Game Factory ist ein leidenschaftliches Team aus Spiel-Enthusiasten, die sich der Kreation von innovativen und unterhaltsamen Spielen verschrieben haben. Seit unserer Gründung 2008 bringen wir unter dem Motto „Spiele für Family & Friends“ außergewöhnliche Spiele mit spannenden Mechanismen und hohem Wiederspielreiz auf den Markt. Damals begann alles mit „ABC SRF 3“ – dem beliebtesten Quiz der Schweiz. Über die Jahre und mit Top-Spielen wie „Frantic“, „Klask“ und „Verfuxt“ sowie der einzigartigen Dosenspiel-Reihe hat sich der Spieleverlag Game Factory auch in Deutschland und Österreich etabliert. Unsere breite Spielepalette reicht von unterhaltsamen Familienspielen, lustigen Kinderspielen, nervenkitzelnden Strategiespielen bis hin zu witzigen Partyspielen. Mit der Auszeichnung zum „Kinderspiel des Jahres“ für „Die magischen Schlüssel“ erreicht die Verlagsarbeit von Game Factory 2024 einen neuen Höhepunkt.",
+      "website": "",
+      "booths": [
+        "6B110"
+      ]
+    },
+    {
+      "id": 1357,
+      "name": "Gameplay Publishing",
+      "description": "",
+      "website": "https://gameplaypublishing.com/",
+      "booths": [
+        "6A101"
+      ]
+    },
+    {
+      "id": 1370,
+      "name": "Gigamic, Scorpion Masqué, Randolph, Studio H, Funny Fox, Sorry We Are French",
+      "description": "Easy to teach, fun to play!For over 30 years, Gigamic has been bringing joy to families and friends with our original board game concepts. Most of our games are explained in less than 60 seconds, but take a lifetime to master.It all started with Quarto and the line of high-end wooden games including Quoridor, Pylos, Quixo, Katamino, and more. So far, over 1 million copies of each have been sold worldwide.Today, Gigamic has expanded its catalog to cover multiple categories: abstract games, children’s games, family games, party games, and expert games. There’s a Gigamic game for every type of player. With more than 400 different board games, puzzles, and toys in our collection, our titles are now available in 68 countries. In 2021 alone, over 3.7 million games were sold, many of which are considered evergreen classics.",
+      "website": "",
+      "booths": [
+        "6K300",
+        "6K301",
+        "6K403"
+      ]
+    },
+    {
+      "id": 1718,
+      "name": "HABA",
+      "description": "HABA - For a childhood full of laughter, wonder and playLaughter, wonder and play - these are the building blocks of a happy and healthy childhood! This is exactly what HABA stands for with a unique combination of high-quality design, sustainable production and educational play.With our games and toys, we create radiant moments that promote social connection, awaken natural curiosity and allow children to discover new things through play. In this way, HABA products accompany children at every stage of development and encourage their creativity, joy of learning and holistic development - from first grasping to shared moments of play.Our brand stands for high-quality materials and environmentally friendly production that combine sustainability and quality. For decades, parents, educators and grandparents alike have placed their trust in our expertise, which combines tried-and-tested classics with innovative play ideas and constantly sets new trends.With HABA, you are choosing products that inspire, are trustworthy and create added value - for children, families and retailers alike.HABA – Laugh. Wonder. Play everyday.",
+      "website": "https://www.haba-play.com",
+      "booths": [
+        "6F301"
+      ]
+    },
+    {
+      "id": 1172,
+      "name": "Happy Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6A200"
+      ]
+    },
+    {
+      "id": 991,
+      "name": "HeidelBÄR",
+      "description": "BÄR-strong gamesHeidelBÄR Games stands for creative, high-quality games with character.As a development studio, we focus on titles that bridge the gap between family and connoisseur games – games with catchy rules, high replay value and a special, original twist. What if we get excited about an idea that falls outside this framework? Then we go ahead and do it anyway – as long as it's BEAR-strong! In addition to our own developments, we bring internationally successful titles to the German market with our partners such as Czech Games Edition, Horrible Guild, Studio Supernova and Pendragon Game Studio – including crowd favourites such as Codenames, which has millions of fans worldwide.",
+      "website": "https://www.heidelbaer.de",
+      "booths": [
+        "6B200"
+      ]
+    },
+    {
+      "id": 1178,
+      "name": "Horrible Games SRL",
+      "description": "Horrible Guild&nbsp;is an Italian&nbsp;board game and RPG publisher. Known as&nbsp;Horrible Games&nbsp;until late 2019, the company has been founded in 2014 by&nbsp;Lorenzo Silva. Our goal is to design, develop and produce&nbsp;cool and innovative games&nbsp;capable of bringing fun to everyone: we try to make our games stand out from the crowd, both for visual style and gameplay mechanics.",
+      "website": "https://horribleguild.com",
+      "booths": [
+        "6C110"
+      ]
+    },
+    {
+      "id": 1518,
+      "name": "Hutter Trade GmbH & Co. KG/HUCH!",
+      "description": "HUCH! steht seit 2004 für hochwertige Spiele, die Köpfchen, Kreativität und Kommunikation fördern. Die Marke begeistert mit innovativen Konzepten, liebevoll gestaltetem Material und durchdachter Mechanik. Ob Denk-, Familien- oder Kinderspiele – HUCH! vereint Spielspaß und Lernwert auf besondere Weise. Jedes Spiel überzeugt durch Qualität, Originalität und nachhaltige Produktion.Zeitgleich erblickte auch die Vertriebsgesellschaft Hutter Trade GmbH + Co KG das Licht der (Unternehmens-) Welt. Das Unternehmen bündelt unter seinem Dach starke und innovative Marken aus dem In- und Ausland. Diese stammen hauptsachlich aus dem Spielesektor, aber auch Lifestyle- und Geschenkartikel bereichern unser Programm. Für unsere Partner bietet die Hutter Trade GmbH + Co KG den Einstieg, eine breite Distribution und Branchen-Know-How für die bunte deutschsprachige Welt der Brettspiele an.",
+      "website": "",
+      "booths": [
+        "6B300"
+      ]
+    },
+    {
+      "id": 1175,
+      "name": "IELLO",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6F200"
+      ]
+    },
+    {
+      "id": 1522,
+      "name": "InstaPlay",
+      "description": "InstaPlay is a comprehensive service provider for boardgame publishers, offering expertise in international export, marketing, communication and even the game design of your games. We invite you to explore our diverse portfolio of games, ready to be localized and adapted for new markets.Wether you’re looking to enhance your game’s appeal, expand your audience, or bring your creations tu a global stage, InstaPlay is here to support your journey every step of the way.",
+      "website": "https://instaplay.fr/en/",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1039,
+      "name": "Jeux Opla",
+      "description": "Jeux Opla is an independent French board game publisher founded in Lyon in 2011. We design, produce, and distribute original games that are 100% eco-designed and manufactured in France. Our creations combine fun, meaningful themes, and immersive experiences, offering something unique for families, casual players, and passionate gamers alike.Our catalog includes five main ranges:Comic Book Games – dive into the worlds of famous graphic novels.Nature & Environment – thematic games enriched with scientific and ecological insights.Cartzzles – innovative puzzle challenges with collectible art.Experiential Games – cooperative and immersive party games, including our best-seller [kosmopoliːt].Old School – nostalgic playground games redesigned for modern play.Beyond fun, our mission is to create games with meaning, crafted with respect for people and the planet.",
+      "website": "",
+      "booths": [
+        "6D301"
+      ]
+    },
+    {
+      "id": 1798,
+      "name": "Jolly Dutch",
+      "description": "Jolly Dutch Productions is a board game publisher based in the Netherlands. Jolly Dutch aims to develop and publish new board games with relatively simple game systems, thereby allowing new players to quickly grasp the concept and start playing. ",
+      "website": "https://www.jollydutch.com",
+      "booths": [
+        "6F110"
+      ]
+    },
+    {
+      "id": 1051,
+      "name": "Jumbo Spiele GmbH",
+      "description": "Die Jumbo Spiele GmbH, seit 1970 mit dem bekannten roten Elefanten-Logo aktiv in Deutschland, hat ihren Sitz seit August 2024 in Fürth (Bayern) und gehört zur niederländischen Jumbo‑Gruppe – sie vertreibt klassische Familien- und Wissensspiele wie Stratego, Rummikub , Spiel des Wissens und Hitster in Deutschland, Österreich und der Schweiz",
+      "website": "https://jumboplay.com/de-de",
+      "booths": [
+        "6F400"
+      ]
+    },
+    {
+      "id": 1804,
+      "name": "Key Card Games, Four Suit Studio",
+      "description": "Key Card Games is owned by Robin and Peter Jan. They share a strong passion for hiking. During their summer trip in 2022, they tackled the famous West Highland Way, a 100-mile hiking trail that starts in Glasgow and ends in the Scottish Highlands. The beauty of Loch Lomond left an indelible mark on them and in a traditional inn by the lake, they came up with the idea of creating a card game that would capture the wild landscape and legendary stories surrounding the mystic Loch Lomond. That’s how their first successful game, Monsters of Loch Lomond, came to life.Four Suit Studio is also present with a mission to make great card games accessible to anyone, anywhere. All our games can be played with a standard deck of playing cards. Bringing the strategic depth and thematic immersion of modern board games.",
+      "website": "https://foursuitstudio.com",
+      "booths": [
+        "6D411"
+      ]
+    },
+    {
+      "id": 1878,
+      "name": "Kyf Edition",
+      "description": "KYF Edition is four people, two couples who are friends, two cities on opposite sides of the country, four complementary skill sets, and one shared passion (for games, you get it?).Founded in 2018 and located between Aix-en-Provence and Paris, KYF offers a wide range of games for all audiences! From card games to detective games, party games to board games, you're sure to find something you love here.",
+      "website": "https://kyf-edition.com/",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1442,
+      "name": "LOKI",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6F200"
+      ]
+    },
+    {
+      "id": 1891,
+      "name": "Le Scorpion Masqué Inc.",
+      "description": "Check out our pre-orders: https://preorder-scorpionmasque.comFounded in 2006, Scorpion Masqué is a Quebec game publisher based in Montreal. For more than 15 years, the brand has been developing beautiful, immersive, fun, and creative games. Its unique games are designed for children, adults, and the whole family. With over 40 games published to date, Scorpion Masqué is now recognized internationally, with a presence in over 40 countries, and over 2 million games sold since its creation. In 2021 Scorpion Masqué joined the Hachette group and is now integrated with its North American distributor Randolph.The studio's greatest successes include Sky Team - 2024 Spiel de Jahres Winner, Turing Machine, Decrypto, Zombie Kidz and most recently Dead Cells: The Rogue-Lite Board Game.At this year’s Messe, come discover our hottest new releases! Pre-orders are available for the occasion: https://preorder-scorpionmasque.comMeet the adorable creatures of Mooki Island, our 2-player collection game for kids that has already won the hearts of countless families.Then step into the arena with Tag Team, a fast-paced 1 VS 1 auto battler with a unique deckbuilding twist. Get ready to relive the thrill of the best 90s arcade fighting games… ROUND 1… FIGHT!Come and find us at Booth 6K300 !",
+      "website": "",
+      "booths": [
+        "6K300"
+      ]
+    },
+    {
+      "id": 1602,
+      "name": "MM Spiele",
+      "description": "International board games for German-speaking countriesThere are many great international games that are unknown in Germany or only have a low level of recognition.And more are being added every day.That's why we founded MM-Spiele, to localize international games that we ourselves love for German-speaking countries.",
+      "website": "http://www.mm-spiele.de",
+      "booths": [
+        "6B300"
+      ]
+    },
+    {
+      "id": 1934,
+      "name": "MONOLITH",
+      "description": "Monolith Edition was founded in 2014 to offer miniature games that provide unforgettable experiences thanks to their rich universes and the quality brought to each stage of the projects.Monolith enjoyed immense success right from its first crowdfunding project, Conan, created by Frédéric Henry, who is none other than one of the founders of Monolith. Passion has been one of the driving forces behind the company since its inception, and this first game under its banner has enabled tens of thousands of players to experience or relive the adventures of the Cimmerian and his companions in frenzied games.",
+      "website": "https://monolithedition.com/?srsltid=AfmBOori5c8dB0b3rGzLX4jeHo0eLfnU4ecit07PkD8yRRycSQmx62Sv",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1247,
+      "name": "Mattel",
+      "description": "Mattel, Inc. is an American multinational toy manufacturing and entertainment company headquartered in El Segundo, California. The company has presence in 35 countries and territories and sells products in more than 150 countries. It is the world's second largest toy maker in terms of revenue, after The Lego Group. The products and brands it currently produces include Barbie, Hot Wheels, Fisher-Price, American Girl, UNO, Mega, Thomas & Friends, Polly Pocket, Masters of the Universe, Monster High and Enchantimals, with Ever After High and My Scene also having been previously produced. In the early 1980s, Mattel produced video game systems, under its own brands and under license from Nintendo.",
+      "website": "",
+      "booths": [
+        "6F115"
+      ]
+    },
+    {
+      "id": 956,
+      "name": "Mazaza Games",
+      "description": "We’re on a mission to inspire people to protect nature through the power of games! Our first game, Kavango, is a beautiful, strategic and fast-paced board game focused on the theme of rewilding and regenerating landscapes. It has captured the hearts of board gamers and conservationists across the world.This year, we’re really excited to share our expansion to Kavango - Kavango Lodges! The expansion blends seemlessly in with the base game and intorduces the theme of eco-tourism. Build ecotourism lodges to keep your nature reserve thriving and new placement mechanics add strategic depth and fresh challenges. Kavango Lodges will be live on Kickstarter during Spiel25 and we will be doing exclusive demos at our stand!",
+      "website": "https://www.mazazagames.com/",
+      "booths": [
+        "6F101"
+      ]
+    },
+    {
+      "id": 1248,
+      "name": "Nautilus",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6G100"
+      ]
+    },
+    {
+      "id": 986,
+      "name": "Nekomancy Games",
+      "description": "Nekomancy is a games studio based in Singapore. We strive to bring our original brand of entertainment to audiences old and new, creating never-before-seen experiences that excite the mind. Our mission is innovation, and it drives every aspect of our work ethic.",
+      "website": "https://nekomancy.sg/",
+      "booths": [
+        "6D411"
+      ]
+    },
+    {
+      "id": 1157,
+      "name": "Nice Game Publishing",
+      "description": "Nice Game was founded in 2016 (originally as Sweet Lemon Publishing GmbH). We initially operated nicegameshop.com as an online store for rare games.As a publisher, we still see our mission as discovering beautiful games from around the world. We distribute them in Germany and internationally. For us, it doesn’t matter whether a game fits into a specific category or is intended for a particular target audience.If a game is fun, offers surprising mechanisms, unique themes, or interesting components, then it’s a “nice game” for us.&nbsp;We hope you find something that suits you and wish you lots of fun with our selection!",
+      "website": "https://nicegameshop.com",
+      "booths": [
+        "6D320"
+      ]
+    },
+    {
+      "id": 1612,
+      "name": "Nürnberger-Spielkarten-Verlag",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6B410"
+      ]
+    },
+    {
+      "id": 1046,
+      "name": "Obscurious Games",
+      "description": "2020 hat der Rätselraum Ruhrpott (ein Escape Room aus Bochum) unter der Marke Obscurious begonnen einzigartige Krimi- und Escape-Spiele für Zuhause zu entwickeln. Seit dem sind vier eigene Spiele entstanden (zwei Escape und zwi Krimispiele) und vier weitere Fallakten/Krimispiele als Auftragsarbeit für den frechverlag GmbH, die unter der Marke TOPP erschienen sind. Obscurious Games:Fallakten/Krimispiele:Verrat am Boss (Level 1,5/3, 1-4 Personen, ab 16 Jahren)Hilferuf einer Elfe (Level 3/3, 1-6 Personen, ab 14 Jahren)Escape-Spiele:Abgetaucht (Level 2/3, 1-4 Personen, ab 14 Jahren)Das magische Siegel (Level 2/3, 1-4 Personen, ab 14 Jahren)TOPP:Fallakten/Krimispiele:Crime Files: Atemlos im Allgäu (Level 2/3, 1-4 Personen, ab 14 Jahren)Crime Files: Endstation Ostfriesland (Level 1/3, 1-4 Personen, ab 14 Jahren)Crime Files: Winter-Einbruch - Krimi-Adventskalender (Level 2/3, 1-4 Personen, ab 14 Jahren)Crime Files: Verliebt, verlobt, verwitwet (Level 2/3, 1-4 Personen, ab 14 Jahren)",
+      "website": "https://obscurious-games.de",
+      "booths": [
+        "6C411"
+      ]
+    },
+    {
+      "id": 985,
+      "name": "Oink Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6C310"
+      ]
+    },
+    {
+      "id": 1861,
+      "name": "Oka Luda Editions SAS",
+      "description": "Oka Luda? That's us!!! Chris, Miguel, and Mimi, who dove headfirst into the publishing adventure about five years ago. Three characters, three colorful personalities, lots of laughter and a little hard work, it must be said... But in the end, we now have a good dozen well-designed games that make us all proud! Welcome to our world, where there are no barriers!",
+      "website": "https://okaluda.fr/",
+      "booths": [
+        "6B201"
+      ]
+    },
+    {
+      "id": 1326,
+      "name": "Origame",
+      "description": "Origame designs, publishes, and champions modern Asian board games. We work with Asian creatives to design fun and beautiful board games that tell stories about Singapore and Asia.",
+      "website": "https://www.origame.co/",
+      "booths": [
+        "6G102"
+      ]
+    },
+    {
+      "id": 1043,
+      "name": "PD-Verlag",
+      "description": "Bei PD dreht sich alles um Experten- und Kennerspiele mit strategischer Tiefe und Familienspiele mit viel Interaktion.Wir entwickeln und lizenzieren sowohl anspruchsvolle Kenner- und Expertenspiele, wie z. B. das preisgekrönte Concordia mit strategischer Tiefe, als auch Familienspiele, die Interaktion fördern und generationsübergreifend Spaß machen, wie Pictures (Spiel des Jahres 2020).Testet unsere Neuheiten direkt live:GALACTIC CRUISEBEYOND THE HORIZONDIE AMEISEN VON AMYRAGREEN TEAM WINSPICTURES YELLOWBesucht uns in:* Halle 2 für alle Spiele: Stand 2E210* Halle 3 für Kenner- und Expertenspiele: Stand 3H315* Halle 6 für Familienspiele: Stand 6B415",
+      "website": "https://www.pd-verlag.de/",
+      "booths": [
+        "6B415"
+      ]
+    },
+    {
+      "id": 1093,
+      "name": "Parameter B - Krimi-Dinner Spiele für Zuhause",
+      "description": "Unternehmensprofil: Parameter BÜber uns: Willkommen bei Parameter B. Wir sind ein leidenschaftlicher Krimi-Dinner Spieleverlag mit Sitz in Bornheim im Rheinland. Unsere Mission ist es, euch mit unseren Krimi-Dinner Spielen eine unvergessliche Zeit zu bieten. Lasst euch aus dem Alltag entführen und taucht gemeinsam in einen spannenden Kriminalfall ein. Euch erwarten Spaß, Spannung und jede Menge Detektivarbeit.Unsere Produkte: Unsere Spiele kombinieren geschickt Krimidinner und Ermittlungsspiel zu einem einzigartigen Erlebnis. Ihr ermittelt in einem Mordfall oder einem Verbrechen, bei dem ihr selbst die Hauptverdächtigen seid. Jedes unserer sorgfältig gestalteten Spiele überzeugt durch Liebe zum Detail, faszinierende Themen, mitreißende Handlungen und facettenreiche Charaktere. Besonders großen Wert legen wir auf Logik, Lösbarkeit und kreative Rätselgestaltung in unseren Spielen.Warum Parameter B:Vielfältige Themen: Wir bieten ein breites Spektrum an Themen, die ungewöhnlich, anspruchsvoll und fesselnd sind. Seid Patienten einer Psychiatrie oder nehmt Teil an einem Experiment im Schlaflabor.Logik und Lösbarkeit: Unsere Spiele werden von Mathematikern entwickelt und mehrfach getestet, für garantiert logische und wissenschaftlich korrekte Fälle.Lokal produziert: Wir sind stolz darauf, unsere Spiele lokal in Bornheim zu produzieren, um höchste Qualität und Individualität zu gewährleisten.Verschiedene Schwierigkeitsgrade: Unsere Spiele bieten eine Bandbreite an Schwierigkeitsgraden, die sowohl Neulinge als auch Wiederholungstäter begeistern.Neu im Programm: Ganz neu im Programm ist unser dritter Familienfall für Kinder ab 12 Jahren.Besucht uns auf der Messe! Wir freuen uns auf euch!&nbsp;",
+      "website": "https://www.parameter-b.de/de/",
+      "booths": [
+        "6K107"
+      ]
+    },
+    {
+      "id": 1652,
+      "name": "Piatnik",
+      "description": "Piatnik has been producing fun games for more than 200 years! Founded in Vienna in 1824 as a card painting company, Ferd. Piatnik & Söhne is now one of Europe's largest board game and playing card makers and the number one in Austria. The family-owned company's range includes games for every generation and puzzles, most of which are produced at its Vienna site and sold in over 70 countries around the world. Since 1993, Piatnik has also been represented by its own distribution company in Germany.Top sellers include the classic party games ‘Activity’ (more than twelve million copies sold since 1990) and ‘Tic Tac Boom / Pass the Bomb’ (more than ten million copies sold since 1993). In 2020, the publisher received the coveted ‘Kinderspiel des Jahres’ critics' award for the children's game ‘Speedy Roll’ . The revolutionary quiz game ‘Smart 10’ has been writing its own success story for more than five years with a steadily growing family of games and a daily show on Austrian television. ‘Crime Scene’ games from different times and places, which invite players to investigate on their own or in teams, and strategy games round off the programme.",
+      "website": "https://www.piatnik.com/",
+      "booths": [
+        "6G200"
+      ]
+    },
+    {
+      "id": 1391,
+      "name": "Playte",
+      "description": "Play the greatest idea. 2025 Essen - Booth 6D310 2025 Essen Preorder Site - https://tally.so/r/mBYNZe",
+      "website": "https://www.playte.com/",
+      "booths": [
+        "6D310"
+      ]
+    },
+    {
+      "id": 1132,
+      "name": "Puzzle-Shop",
+      "description": "Wir sind spezialisiert auf Knobel- und Geduldsspiele wie z.B. dem Rubiks Cube und seinen Verwandten, knifflige Holzpuzzle zum Zusammenstecken oder schwierige Legepuzzles. Wir führen auch Zaubertricks und Partygags, um deine Freunde zu verblüffen. Ebenso haben wir sehr unterhaltsame Spiele im Angebot für zwei und mehr Personen mit einfachen Regeln, bei denen es aber meist mehr aufs Nachdenken ankommt als auf Glück.",
+      "website": "https://www.puzzle-shop.de",
+      "booths": [
+        "6K101"
+      ]
+    },
+    {
+      "id": 1720,
+      "name": "QANGO Spieleverlag",
+      "description": "The Hamburg game publisher for quick gaming fun. Our games impress with a high replay value and are still quick to explain and learn.In addition to our new releases, you will find QANGO, Nova, Miau Miau Katzenklau, Savango, Ozeango, Amazongo, Gangstar, and Floris at our booth.",
+      "website": "https://qango.de/",
+      "booths": [
+        "6K201"
+      ]
+    },
+    {
+      "id": 1889,
+      "name": "Randolph",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6K300"
+      ]
+    },
+    {
+      "id": 1664,
+      "name": "Rulefactory",
+      "description": "Rulefactory based in St. Gallen, Switzerland, is a crew of fun-loving creatives who’ve been shaking up the board game scene since 2015. Their vibe? Mischievous, colorful, a bit chaotic. Their breakout hit Frantic started as a wild Kickstarter project and quickly became a fan favorite. Besides crafting their own crazy concepts, they also publish games from other creators – always with a tad Schadenfreude.Currently they present their first baord games – the magical dungeon crawler Library of Jakkarth as well as the Frantic Boardgame.",
+      "website": "https://rulefactory.ch/",
+      "booths": [
+        "6B110"
+      ]
+    },
+    {
+      "id": 1264,
+      "name": "Runner Games",
+      "description": "Runner Games is a young publisher from Berlin. Our first release, Granfondo, brings cycling tactics to the board. We are also developing Dribble & Dice, a football game of strategy and dice-driven action.",
+      "website": "http://www.runnergames.de",
+      "booths": [
+        "6D108"
+      ]
+    },
+    {
+      "id": 1188,
+      "name": "SAVANA",
+      "description": "Step into the fun-filled world of SAVANA,&nbsp; Franco-American a publisher and proud winner of multiple Toy of the Year awards! We bring joy to game nights with our exciting lineup of family party games designed to spark laughter, create unforgettable moments, and bring friends and family closer together.We kicked off our journey with a simple mission: to create extra-ordinary moments packed with fun and giggles. Our games are quick, packed with laughs, and super easy to play. They're perfect for kids, teens, and adults who love a good time!At SAVANA, we're all about spicing up the game night. We add fresh twists to the way you play, strengthening the bonds between players. We take you on a roller coaster ride through amazing new game worlds, turning quality time into a fun-packed adventure.We are looking for:Distributors in different countries;Publishers who want to enter the US and Canada market;Game designers with fresh and bright ideas.",
+      "website": "https://savana-games.com/",
+      "booths": [
+        "6K200"
+      ]
+    },
+    {
+      "id": 1712,
+      "name": "SMART GAMES",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6G110"
+      ]
+    },
+    {
+      "id": 1383,
+      "name": "SMV Schätz mal Verlag GmbH",
+      "description": "\"Schätz mal!\" – Der Verlag mit den Spielen, bei denen Nichts-Wissen auch nichts machtUm wie viel Uhr geht morgen die Sonne auf?Wie viele Milliardäre gibt es weltweit?Wie warm ist es gerade am Südpol?\"Schätz mal!“ ist verrückt, unterhaltsam und vor allem außergewöhnlich: Ihr müsst die Antworten nicht wissen – hier gewinnt, wer am besten schätzt und mit seiner Antwort der Wahrheit am nächsten kommt.Keine komplizierten Regeln, keine lange Vorbereitung – nur Spaß!",
+      "website": "http://www.schaetz-mal.de",
+      "booths": [
+        "6B109"
+      ]
+    },
+    {
+      "id": 1703,
+      "name": "Saashi & Saashi",
+      "description": "Saashi & Saashi are a label run by SAASHI-AND INC. out of Kyoto, producing and publishing analog games. Established in 2015 by Saashi and Takako Takarai, the company primarily sells their original games in Japan and internationally, but also brings the different international editions of the same game back into Japan as Japanese language versions. Saashi & Saashi’s particular brand of warm, unique visions for our world and game themes is readily expressed in the complimentary combination of Saashi’s game design and Takako Takarai’s illustrations. With a strong focus on language-independent games, Saashi & Saashi strive to create in ways that people from all over the world can enjoy their games.",
+      "website": "https://saashiandsaashi.com/en",
+      "booths": [
+        "6C300"
+      ]
+    },
+    {
+      "id": 966,
+      "name": "Schmidt Spiele GmbH",
+      "description": "Schmidt Spiele® is one of the best-known German game publishers. It brings together the brands Schmidt Spiele® for puzzles, cuddly toys, games for children, families and adults, Drei Magier®, which stands for high-quality games for children, and Selecta® in the field of wooden toys. The history of the Schmidt Spiele® brand and the traditional company begins with the invention in 1907 by Joseph Friedrich Schmidt of the board game Mensch ärgere Dich nicht® (Don't worry). Other great classics are Kniffel® (Yam) and Ligretto®. The range also includes many award-winning games for children, family and connoisseurs. In 1997, Schmidt Spiele® was acquired by Good Time Holding GmbH based in Berlin.",
+      "website": "https://www.schmidtspiele.de/",
+      "booths": [
+        "6A301"
+      ]
+    },
+    {
+      "id": 1636,
+      "name": "Simba Toys GmbH & Co. KG",
+      "description": "Zoch ist ein Autorenverlag, der mit kreativen und originellen Spielideen auf höchstem Niveau überzeugt. Bekannt ist Zoch zudem für ungewöhnliche Gestaltung und haptisch schönes Spielmaterial. Im Spielesortiment befinden sich mehrfach preisgekrönte Spiele für Jung und Alt. Kinder und Familien schätzen das gepflegte Sortiment eingängiger Karten-, Würfel- und Mitbringspiele ebenso wie das starke Segment unterhaltsamer Brettspiele, das Gelegenheitsspieler und Kenner begeistert.",
+      "website": "https://www.zoch-verlag.com/zoch_de/home/",
+      "booths": [
+        "6K110"
+      ]
+    },
+    {
+      "id": 993,
+      "name": "Simba Toys GmbH & Co. KG",
+      "description": "Noris-Spiele steht für ausgesprochen vielseitige und moderne Spiele. Passend zum Zeitgeist entstehen Brett- und Gesellschaftsspiele, die einfach Spaß machen und für die ganze Familie und alle Altersgruppen geeignet sind. In 2019 verschmolz Noris-Spiele mit der Simba Toys GmbH & Co. KG und agiert nun als Marke unter deren Dach.",
+      "website": "https://www.noris-spiele.de/noris_de/home/",
+      "booths": [
+        "6K110"
+      ]
+    },
+    {
+      "id": 1371,
+      "name": "Simon & Jan",
+      "description": "Hi und herzlich willkommen bei Simon & Jan!Besucht uns auf der SPIEL 2025 - in diesem Jahr findet ihr uns an Stand 6B400 - Halle 6.Schaut euch unsere Erlebnisse an, zockt mit uns und miteinander, nehmt etwas mit nach Hause und lasst uns gemeinsam die Messe genießen.In diesem Jahr haben wir mehrere Neuheiten für euch dabei. Darunter neue Editionen unserer Bestseller-Reihe Erzählt euch mehr und mehrere Familienspiele bzw. casual games. Unser restliches Sortiment wartet natürlich auch auf euch.Kommt rum!",
+      "website": "https://www.simonjan.de/",
+      "booths": [
+        "6B400"
+      ]
+    },
+    {
+      "id": 1888,
+      "name": "Sorry We Are French/Hachette Livre",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6K300"
+      ]
+    },
+    {
+      "id": 1667,
+      "name": "Spiel des Jahres e. V.",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6G101"
+      ]
+    },
+    {
+      "id": 1668,
+      "name": "Spielzeit Krefeld",
+      "description": "Wir sind seit 30 Jahren das Spielefachgeschäft in Krefeld, dass neben analogen Spielen aller Art (neben Brett- und Kartenspielen auch Sammelkartenspiele, Rollenspiele und Tabletops) einem großen Comic&Manga Bereich anbietet. Auf 160 Quadratmetern bieten wir neben Fachberatung und Verkauf auch einiges an Veranstaltungen an.Auf der Spiel bieten wir an unserem Stand von verschiedenen Spieleverlagen die Neuheiten, Sonderangebote und eine Auswahl von Spielen, die wir im Geschäft auch stark empfehlen an. Unsere Partner sind unter anderem: Amigo, Asmodee, Biycle, Huch, Kosmos, Pegasus, Schmidt usw. We are a 30 years old game and comic store from Krefeld. We are part of the Spiel since 1995 and present a hunge range of games from different publishers like: Amigo, Asmodee, Biycle, Huch, Kosmos, Pegasus, Schmidt and many more. We try to sell whats brand new on the fair, present some special offers and a selection of games we strongly reccommend. The games are in german or in a international edition, if it is produced like this.",
+      "website": "https://spielzeit.de/",
+      "booths": [
+        "6F109"
+      ]
+    },
+    {
+      "id": 1741,
+      "name": "Spin Master",
+      "description": "Spin Master Corp. (TSX:TOY) is a global leader in children's entertainment, creating exceptional play experiences through a diverse portfolio of innovative toys, entertainment, and digital games. Spin Master is best known for its award-winning brands PAW Patrol®, Kinetic Sand®, Bitzee®, Melissa & Doug®, Unicorn Academy®, Hatchimals®, Rubik's Cube®, and GUND®, and is a partner for other popular licensed themes. Through its subsidiary Spin Master Entertainment, the company is active in the children's media market, focusing on the conception, development, and production of TV and media formats. These include, for example, the successful preschool series PAW Patrol and numerous other original series, as well as several short-form formats. Spin Master employs nearly 3,000 people worldwide in 29 offices in approximately 20 countries.",
+      "website": "https://www.spinmaster.com",
+      "booths": [
+        "6G410"
+      ]
+    },
+    {
+      "id": 1592,
+      "name": "Startoys",
+      "description": "Lego, Klemmbausteine, Merchandise, Star Wars, Figuren",
+      "website": "",
+      "booths": [
+        "6B412"
+      ]
+    },
+    {
+      "id": 1885,
+      "name": "Studio H/Hachette Boardgames",
+      "description": "",
+      "website": "",
+      "booths": [
+        "6K300"
+      ]
+    },
+    {
+      "id": 1322,
+      "name": "TOPP / frechverlag GmbH",
+      "description": "Spielen ist mehr als nur ein Hobby – es ist eine Möglichkeit, deine Persönlichkeit auszudrücken und dich mit anderen zu verbinden.&nbsp;Schon der Gründer des frechverlag Eugen A. Krauss sagte: \"Freizeit ist viel zu kostbar, um sie zu vergeuden.\"&nbsp;Seit 2020 veröffentlichen wir unter der Marke TOPP Brettspiele, Kartenspiele und Escape-Rätsel für die ganze Familie.",
+      "website": "https://www.topp-kreativ.de/",
+      "booths": [
+        "6H200"
+      ]
+    },
+    {
+      "id": 1593,
+      "name": "The Great Thinking Cap",
+      "description": "Come check out our popular and unique Mystery Advent Calendars! The 2023 calendar reprint is now available too!We’ve also got the brand-new solo TTRPG Bonsai Diary by Gene Koo in stock!And don’t miss your chance to try Fluffypede — a fast, tactical card game where players become Toymakers creating their own series of “Fluffypedes.” It’s easy to learn, compact, and full of strategic depth. Learn more: https://shyfinngames.com/fluffypede/",
+      "website": "http://ludumef.com/tgtc",
+      "booths": [
+        "6E109"
+      ]
+    },
+    {
+      "id": 1559,
+      "name": "Whales Entertainment",
+      "description": "Whales Entertainment, based in Los Angeles, is a passionate game developer and publisher co-founded by game enthusiasts Hanshi 'Hans' Li and Yue 'Luna' Ming. With over a decade of dedicated board game experience and an established Chinese speaking YouTube channel, \"Worthy OPawnent\", Hans and Luna serve as a significant bridge between the Chinese and international board game communities.The pivotal moment came in 2022, when Hans became the first champion of the World Series of Board Gaming (WSBG). Inspired by this triumph, we founded Whales Entertainment to continue the mission of advocating for Chinese board gamers, providing a platform for Chinese designers to refine their creations, and introducing them to the global market. With growing team and committed partners, Whales Entertainment is devoted to change the stereotypes of \"Made in China\" to \"Create in China\" through every roll of the dice.",
+      "website": "https://www.whales-entertainment.com/#",
+      "booths": [
+        "6D300"
+      ]
+    },
+    {
+      "id": 1745,
+      "name": "iDventure",
+      "description": "Your Adventure Begins Here!Whether you love solving riddles, tackling puzzles, or escaping from locked rooms, you’ve come to the right place!We’re the creators of the Cluebox, an escape room in a box that challenges your mind with intricate puzzles and exciting stories.We design and develop creative Escape Room puzzles, immersive Detective and Escape games, and innovative experiences for all puzzle enthusiasts.Beyond that, we also create exciting board games for the whole family.Let us spark your curiosity and turn every game night into an unforgettable adventure!",
+      "website": "https://www.idventure-shop.de/Start",
+      "booths": [
+        "6A201"
+      ]
+    },
+    {
+      "id": 1059,
+      "name": "itten",
+      "description": "itten is a Japanese tabletop game studio based in Tokyo.\"itten\" in Japanese means \"1 point\" and \"to turn the situation around\".We aim to create fun experiences beyond winning and losing, through our original unplugged games.Our major works include : TOKYO HIGHWAY, Tribe, Moon Base, Crash Octopus, the Funbrick Series and more!Our newest titles are : Diver Go!, Four Corner Detective, Gravity Three, and Hits & Outs.Also, we are releasing a TOKYO HIGHWAY mini game called TOKYO HIGHWAY Driver’s License. Please check it out.",
+      "website": "https://www.itten-games.com/",
+      "booths": [
+        "6C300"
+      ]
+    },
+    {
+      "id": 1499,
+      "name": "moses. Verlag GmbH",
+      "description": "For over 30 years, moses. Publishing has been sparking curiosity and creativity with a unique blend of books, games, and accessories for the whole family. Our children’s nonfiction titles, quizzes and board games invite readers to play, experiment, and learn — while our wide range of toys, stationery, and gift items adds extra fun to every discovery. Our motto is: moses., where ideas thrive.",
+      "website": "https://www.moses-verlag.de/",
+      "booths": [
+        "6F401"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "ID": "1",
+      "W": 3425,
+      "H": 2412,
+      "NAME": "Hall 1",
+      "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+      "FLOOR": 0
+    },
+    {
+      "ID": "2",
+      "W": 3346,
+      "H": 1829,
+      "NAME": "Hall 2",
+      "PARENT_ELEMENT_ID": "epx.1|epx.7|epx.8|epx.14|epx.34|epx.35|epx.36|epx.95|epx.102|epx.103",
+      "FLOOR": 0
+    },
+    {
+      "ID": "3",
+      "W": 3100,
+      "H": 7225,
+      "NAME": "Hall 3",
+      "PARENT_ELEMENT_ID": "epx.0|epx.86|epx.13|epx.33|epx.104",
+      "FLOOR": 0
+    },
+    {
+      "ID": "7",
+      "W": 2963,
+      "H": 4763,
+      "NAME": "Hall 7",
+      "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG2",
+      "W": 3325,
+      "H": 2310,
+      "NAME": "FG2",
+      "PARENT_ELEMENT_ID": "epx.119|epx.116|epx.126|epx.106|epx.107|epx.123|epx.89",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG3",
+      "W": 1539,
+      "H": 1627,
+      "NAME": "FG3",
+      "PARENT_ELEMENT_ID": "epx.118|epx.114|epx.115|epx.112|epx.113|epx.110|epx.111|epx.124",
+      "FLOOR": 0
+    },
+    {
+      "ID": "6",
+      "W": 2479,
+      "H": 3508,
+      "NAME": "Hall 6",
+      "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+      "FLOOR": 0
+    },
+    {
+      "ID": "8",
+      "W": 2107,
+      "H": 2103,
+      "NAME": "Hall 8",
+      "PARENT_ELEMENT_ID": "epx.128|epx.155|epx.156",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG1",
+      "W": 3854,
+      "H": 1697,
+      "NAME": "FG1",
+      "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+      "FLOOR": 0
+    },
+    {
+      "ID": "4",
+      "W": 2956,
+      "H": 4462,
+      "NAME": "Hall 4",
+      "PARENT_ELEMENT_ID": "epx.5|epx.17|epx.18|epx.19|epx.20|epx.21|epx.39|epx.40|epx.94",
+      "FLOOR": 0
+    },
+    {
+      "ID": "0",
+      "W": 3508,
+      "H": 2480,
+      "NAME": "Fair ground",
+      "PARENT_ELEMENT_ID": "-1",
+      "FLOOR": 0
+    },
+    {
+      "ID": "GA",
+      "W": 6356,
+      "H": 1769,
+      "NAME": "Galeria",
+      "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+      "FLOOR": 0
+    },
+    {
+      "ID": "5",
+      "W": 3422,
+      "H": 3472,
+      "NAME": "Hall 5",
+      "PARENT_ELEMENT_ID": "epx.3|epx.44|epx.45|epx.46|epx.127|epx.29|epx.30|epx.31|epx.32|epx.37|epx.38|epx.73|epx.74|epx.79|epx.87",
+      "FLOOR": 0
+    }
+  ],
+  "events": [],
+  "urls": []
+}

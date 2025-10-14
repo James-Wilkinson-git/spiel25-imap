@@ -1,0 +1,1859 @@
+{
+  "map": {
+    "ID": "1",
+    "W": 3425,
+    "H": 2412,
+    "NAME": "Hall 1",
+    "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+    "FLOOR": 0,
+    "path": "static/spiel25/20251014093942"
+  },
+  "mapElements": [
+    {
+      "ID": "1.1A100",
+      "KARTEN_ID": "1",
+      "X": 383,
+      "Y": 1334,
+      "W": 113,
+      "H": 223,
+      "XCOORDS": "383|383|496|496|467|467|449|420|420|383",
+      "YCOORDS": "1371|1557|1557|1515|1515|1352|1334|1334|1371|1371",
+      "TYPE": 0,
+      "STAND_ID": "1.1A100",
+      "NAME": "1A100"
+    },
+    {
+      "ID": "1.1A113",
+      "KARTEN_ID": "1",
+      "X": 556,
+      "Y": 1515,
+      "W": 244,
+      "H": 38,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1A113",
+      "NAME": "1A113"
+    },
+    {
+      "ID": "1.1A211",
+      "KARTEN_ID": "1",
+      "X": 800,
+      "Y": 1515,
+      "W": 85,
+      "H": 75,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1A211",
+      "NAME": "1A211"
+    },
+    {
+      "ID": "1.1A215",
+      "KARTEN_ID": "1",
+      "X": 885,
+      "Y": 1515,
+      "W": 75,
+      "H": 75,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1A215",
+      "NAME": "1A215"
+    },
+    {
+      "ID": "1.1A225",
+      "KARTEN_ID": "1",
+      "X": 960,
+      "Y": 1515,
+      "W": 208,
+      "H": 75,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1A225",
+      "NAME": "1A225"
+    },
+    {
+      "ID": "1.1B112",
+      "KARTEN_ID": "1",
+      "X": 545,
+      "Y": 1004,
+      "W": 282,
+      "H": 158,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1B112",
+      "NAME": "1B112"
+    },
+    {
+      "ID": "1.1B113",
+      "KARTEN_ID": "1",
+      "X": 543,
+      "Y": 1236,
+      "W": 631,
+      "H": 214,
+      "XCOORDS": "1174|543|543|580|1174|1174",
+      "YCOORDS": "1236|1236|1413|1450|1450|1236",
+      "TYPE": 0,
+      "STAND_ID": "1.1B113",
+      "NAME": "1B113"
+    },
+    {
+      "ID": "1.1B311",
+      "KARTEN_ID": "1",
+      "X": 1264,
+      "Y": 1209,
+      "W": 616,
+      "H": 196,
+      "XCOORDS": "1503|1880|1880|1369|1264|1357|1503|1503",
+      "YCOORDS": "1246|1246|1209|1209|1313|1405|1261|1246",
+      "TYPE": 0,
+      "STAND_ID": "1.1B311",
+      "NAME": "1B311"
+    },
+    {
+      "ID": "1.1B411",
+      "KARTEN_ID": "1",
+      "X": 1880,
+      "Y": 1209,
+      "W": 141,
+      "H": 37,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1B411",
+      "NAME": "1B411"
+    },
+    {
+      "ID": "1.1B511",
+      "KARTEN_ID": "1",
+      "X": 2021,
+      "Y": 1209,
+      "W": 189,
+      "H": 37,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1B511",
+      "NAME": "1B511"
+    },
+    {
+      "ID": "1.1B611",
+      "KARTEN_ID": "1",
+      "X": 2277,
+      "Y": 1190,
+      "W": 189,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1B611",
+      "NAME": "1B611"
+    },
+    {
+      "ID": "1.1B621",
+      "KARTEN_ID": "1",
+      "X": 2466,
+      "Y": 1023,
+      "W": 56,
+      "H": 167,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1B621",
+      "NAME": "1B621"
+    },
+    {
+      "ID": "1.1C110",
+      "KARTEN_ID": "1",
+      "X": 392,
+      "Y": 857,
+      "W": 75,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C110",
+      "NAME": "1C110"
+    },
+    {
+      "ID": "1.1C111",
+      "KARTEN_ID": "1",
+      "X": 383,
+      "Y": 950,
+      "W": 84,
+      "H": 75,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C111",
+      "NAME": "1C111"
+    },
+    {
+      "ID": "1.1C113",
+      "KARTEN_ID": "1",
+      "X": 545,
+      "Y": 948,
+      "W": 207,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C113",
+      "NAME": "1C113"
+    },
+    {
+      "ID": "1.1C115",
+      "KARTEN_ID": "1",
+      "X": 752,
+      "Y": 948,
+      "W": 75,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C115",
+      "NAME": "1C115"
+    },
+    {
+      "ID": "1.1C211",
+      "KARTEN_ID": "1",
+      "X": 884,
+      "Y": 948,
+      "W": 320,
+      "H": 214,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C211",
+      "NAME": "1C211"
+    },
+    {
+      "ID": "1.1C311",
+      "KARTEN_ID": "1",
+      "X": 1279,
+      "Y": 948,
+      "W": 603,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C311",
+      "NAME": "1C311"
+    },
+    {
+      "ID": "1.1C411",
+      "KARTEN_ID": "1",
+      "X": 1938,
+      "Y": 948,
+      "W": 104,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C411",
+      "NAME": "1C411"
+    },
+    {
+      "ID": "1.1C415",
+      "KARTEN_ID": "1",
+      "X": 2042,
+      "Y": 948,
+      "W": 113,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C415",
+      "NAME": "1C415"
+    },
+    {
+      "ID": "1.1C511",
+      "KARTEN_ID": "1",
+      "X": 2212,
+      "Y": 948,
+      "W": 197,
+      "H": 177,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C511",
+      "NAME": "1C511"
+    },
+    {
+      "ID": "1.1C711",
+      "KARTEN_ID": "1",
+      "X": 2503,
+      "Y": 967,
+      "W": 123,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C711",
+      "NAME": "1C711"
+    },
+    {
+      "ID": "1.1C715",
+      "KARTEN_ID": "1",
+      "X": 2626,
+      "Y": 967,
+      "W": 122,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1C715",
+      "NAME": "1C715"
+    },
+    {
+      "ID": "1.1D100",
+      "KARTEN_ID": "1",
+      "X": 392,
+      "Y": 764,
+      "W": 75,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1D100",
+      "NAME": "1D100"
+    },
+    {
+      "ID": "1.1D112",
+      "KARTEN_ID": "1",
+      "X": 535,
+      "Y": 622,
+      "W": 189,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1D112",
+      "NAME": "1D112"
+    },
+    {
+      "ID": "1.1D113",
+      "KARTEN_ID": "1",
+      "X": 535,
+      "Y": 781,
+      "W": 198,
+      "H": 93,
+      "XCOORDS": "733|535|535|564|733|733",
+      "YCOORDS": "781|781|846|874|874|781",
+      "TYPE": 0,
+      "STAND_ID": "1.1D113",
+      "NAME": "1D113"
+    },
+    {
+      "ID": "1.1D411",
+      "KARTEN_ID": "1",
+      "X": 1920,
+      "Y": 771,
+      "W": 188,
+      "H": 103,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1D411",
+      "NAME": "1D411"
+    },
+    {
+      "ID": "1.1D511",
+      "KARTEN_ID": "1",
+      "X": 2164,
+      "Y": 762,
+      "W": 76,
+      "H": 112,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1D511",
+      "NAME": "1D511"
+    },
+    {
+      "ID": "1.1D611",
+      "KARTEN_ID": "1",
+      "X": 2296,
+      "Y": 762,
+      "W": 151,
+      "H": 112,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1D611",
+      "NAME": "1D611"
+    },
+    {
+      "ID": "1.1D711",
+      "KARTEN_ID": "1",
+      "X": 2503,
+      "Y": 753,
+      "W": 132,
+      "H": 121,
+      "XCOORDS": "2635|2503|2503|2541|2635|2635",
+      "YCOORDS": "753|753|874|874|827|753",
+      "TYPE": 0,
+      "STAND_ID": "1.1D711",
+      "NAME": "1D711"
+    },
+    {
+      "ID": "1.1E100",
+      "KARTEN_ID": "1",
+      "X": 383,
+      "Y": 398,
+      "W": 94,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E100",
+      "NAME": "1E100"
+    },
+    {
+      "ID": "1.1E111",
+      "KARTEN_ID": "1",
+      "X": 392,
+      "Y": 578,
+      "W": 75,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E111",
+      "NAME": "1E111"
+    },
+    {
+      "ID": "1.1E113",
+      "KARTEN_ID": "1",
+      "X": 535,
+      "Y": 566,
+      "W": 189,
+      "H": 56,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E113",
+      "NAME": "1E113"
+    },
+    {
+      "ID": "1.1E211",
+      "KARTEN_ID": "1",
+      "X": 799,
+      "Y": 566,
+      "W": 405,
+      "H": 308,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E211",
+      "NAME": "1E211"
+    },
+    {
+      "ID": "1.1E311",
+      "KARTEN_ID": "1",
+      "X": 1279,
+      "Y": 566,
+      "W": 226,
+      "H": 308,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E311",
+      "NAME": "1E311"
+    },
+    {
+      "ID": "1.1E315",
+      "KARTEN_ID": "1",
+      "X": 1562,
+      "Y": 566,
+      "W": 301,
+      "H": 308,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E315",
+      "NAME": "1E315"
+    },
+    {
+      "ID": "1.1E411",
+      "KARTEN_ID": "1",
+      "X": 1920,
+      "Y": 566,
+      "W": 188,
+      "H": 149,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E411",
+      "NAME": "1E411"
+    },
+    {
+      "ID": "1.1E511",
+      "KARTEN_ID": "1",
+      "X": 2164,
+      "Y": 566,
+      "W": 85,
+      "H": 140,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E511",
+      "NAME": "1E511"
+    },
+    {
+      "ID": "1.1E515",
+      "KARTEN_ID": "1",
+      "X": 2249,
+      "Y": 566,
+      "W": 132,
+      "H": 140,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E515",
+      "NAME": "1E515"
+    },
+    {
+      "ID": "1.1E611",
+      "KARTEN_ID": "1",
+      "X": 2438,
+      "Y": 566,
+      "W": 254,
+      "H": 131,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1E611",
+      "NAME": "1E611"
+    },
+    {
+      "ID": "1.1F111",
+      "KARTEN_ID": "1",
+      "X": 420,
+      "Y": 249,
+      "W": 57,
+      "H": 149,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F111",
+      "NAME": "1F111"
+    },
+    {
+      "ID": "1.1F112",
+      "KARTEN_ID": "1",
+      "X": 549,
+      "Y": 250,
+      "W": 85,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F112",
+      "NAME": "1F112"
+    },
+    {
+      "ID": "1.1F113",
+      "KARTEN_ID": "1",
+      "X": 535,
+      "Y": 399,
+      "W": 189,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F113",
+      "NAME": "1F113"
+    },
+    {
+      "ID": "1.1F114",
+      "KARTEN_ID": "1",
+      "X": 634,
+      "Y": 269,
+      "W": 76,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F114",
+      "NAME": "1F114"
+    },
+    {
+      "ID": "1.1F116",
+      "KARTEN_ID": "1",
+      "X": 710,
+      "Y": 269,
+      "W": 75,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F116",
+      "NAME": "1F116"
+    },
+    {
+      "ID": "1.1F210",
+      "KARTEN_ID": "1",
+      "X": 785,
+      "Y": 269,
+      "W": 75,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F210",
+      "NAME": "1F210"
+    },
+    {
+      "ID": "1.1F211",
+      "KARTEN_ID": "1",
+      "X": 790,
+      "Y": 399,
+      "W": 188,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F211",
+      "NAME": "1F211"
+    },
+    {
+      "ID": "1.1F212",
+      "KARTEN_ID": "1",
+      "X": 860,
+      "Y": 269,
+      "W": 76,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F212",
+      "NAME": "1F212"
+    },
+    {
+      "ID": "1.1F215",
+      "KARTEN_ID": "1",
+      "X": 1034,
+      "Y": 399,
+      "W": 95,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F215",
+      "NAME": "1F215"
+    },
+    {
+      "ID": "1.1F216",
+      "KARTEN_ID": "1",
+      "X": 936,
+      "Y": 250,
+      "W": 150,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F216",
+      "NAME": "1F216"
+    },
+    {
+      "ID": "1.1F217",
+      "KARTEN_ID": "1",
+      "X": 1129,
+      "Y": 399,
+      "W": 75,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F217",
+      "NAME": "1F217"
+    },
+    {
+      "ID": "1.1F218",
+      "KARTEN_ID": "1",
+      "X": 1086,
+      "Y": 250,
+      "W": 76,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F218",
+      "NAME": "1F218"
+    },
+    {
+      "ID": "1.1F300",
+      "KARTEN_ID": "1",
+      "X": 1328,
+      "Y": 250,
+      "W": 75,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F300",
+      "NAME": "1F300"
+    },
+    {
+      "ID": "1.1F310",
+      "KARTEN_ID": "1",
+      "X": 1403,
+      "Y": 250,
+      "W": 75,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F310",
+      "NAME": "1F310"
+    },
+    {
+      "ID": "1.1F311",
+      "KARTEN_ID": "1",
+      "X": 1279,
+      "Y": 399,
+      "W": 151,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F311",
+      "NAME": "1F311"
+    },
+    {
+      "ID": "1.1F312",
+      "KARTEN_ID": "1",
+      "X": 1478,
+      "Y": 269,
+      "W": 85,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F312",
+      "NAME": "1F312"
+    },
+    {
+      "ID": "1.1F313",
+      "KARTEN_ID": "1",
+      "X": 1430,
+      "Y": 399,
+      "W": 132,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F313",
+      "NAME": "1F313"
+    },
+    {
+      "ID": "1.1F315",
+      "KARTEN_ID": "1",
+      "X": 1618,
+      "Y": 399,
+      "W": 189,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F315",
+      "NAME": "1F315"
+    },
+    {
+      "ID": "1.1F410",
+      "KARTEN_ID": "1",
+      "X": 1852,
+      "Y": 250,
+      "W": 113,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F410",
+      "NAME": "1F410"
+    },
+    {
+      "ID": "1.1F411",
+      "KARTEN_ID": "1",
+      "X": 1863,
+      "Y": 399,
+      "W": 226,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F411",
+      "NAME": "1F411"
+    },
+    {
+      "ID": "1.1F412",
+      "KARTEN_ID": "1",
+      "X": 1965,
+      "Y": 269,
+      "W": 76,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F412",
+      "NAME": "1F412"
+    },
+    {
+      "ID": "1.1F414",
+      "KARTEN_ID": "1",
+      "X": 2041,
+      "Y": 269,
+      "W": 75,
+      "H": 74,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F414",
+      "NAME": "1F414"
+    },
+    {
+      "ID": "1.1F500",
+      "KARTEN_ID": "1",
+      "X": 2116,
+      "Y": 250,
+      "W": 151,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F500",
+      "NAME": "1F500"
+    },
+    {
+      "ID": "1.1F511",
+      "KARTEN_ID": "1",
+      "X": 2146,
+      "Y": 399,
+      "W": 188,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F511",
+      "NAME": "1F511"
+    },
+    {
+      "ID": "1.1F600",
+      "KARTEN_ID": "1",
+      "X": 2267,
+      "Y": 250,
+      "W": 188,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F600",
+      "NAME": "1F600"
+    },
+    {
+      "ID": "1.1F611",
+      "KARTEN_ID": "1",
+      "X": 2390,
+      "Y": 399,
+      "W": 132,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F611",
+      "NAME": "1F611"
+    },
+    {
+      "ID": "1.1F700",
+      "KARTEN_ID": "1",
+      "X": 2455,
+      "Y": 250,
+      "W": 226,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F700",
+      "NAME": "1F700"
+    },
+    {
+      "ID": "1.1F711",
+      "KARTEN_ID": "1",
+      "X": 2579,
+      "Y": 399,
+      "W": 132,
+      "H": 93,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F711",
+      "NAME": "1F711"
+    },
+    {
+      "ID": "1.1F800",
+      "KARTEN_ID": "1",
+      "X": 2817,
+      "Y": 250,
+      "W": 320,
+      "H": 223,
+      "XCOORDS": "2817|3137|3137|2855|2855|2817|2817",
+      "YCOORDS": "473|473|250|250|296|296|473",
+      "TYPE": 0,
+      "STAND_ID": "1.1F800",
+      "NAME": "1F800"
+    },
+    {
+      "ID": "1.1F811",
+      "KARTEN_ID": "1",
+      "X": 2761,
+      "Y": 579,
+      "W": 169,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F811",
+      "NAME": "1F811"
+    },
+    {
+      "ID": "1.1F820",
+      "KARTEN_ID": "1",
+      "X": 3137,
+      "Y": 250,
+      "W": 57,
+      "H": 223,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "1.1F820",
+      "NAME": "1F820"
+    },
+    {
+      "ID": "epx.114",
+      "KARTEN_ID": "1",
+      "X": 264,
+      "Y": 1047,
+      "W": 98,
+      "H": 78,
+      "XCOORDS": "264|302|303|362|362|303|303",
+      "YCOORDS": "1087|1047|1066|1067|1104|1104|1125",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.115",
+      "KARTEN_ID": "1",
+      "X": 260,
+      "Y": 479,
+      "W": 98,
+      "H": 78,
+      "XCOORDS": "260|298|299|358|358|299|299",
+      "YCOORDS": "519|479|498|499|536|536|557",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.116",
+      "KARTEN_ID": "1",
+      "X": 2835,
+      "Y": 830,
+      "W": 98,
+      "H": 77,
+      "XCOORDS": "2835|2894|2895|2933|2895|2892|2838",
+      "YCOORDS": "849|850|830|871|907|888|888",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.132",
+      "KARTEN_ID": "1",
+      "X": 1149,
+      "Y": 2119,
+      "W": 109,
+      "H": 104,
+      "XCOORDS": "1149|1201|1258|1203",
+      "YCOORDS": "2171|2119|2169|2223",
+      "TYPE": 0,
+      "STAND_ID": "epx.132",
+      "NAME": "Congress Center South"
+    },
+    {
+      "ID": "epx.7",
+      "KARTEN_ID": "1",
+      "X": 1178,
+      "Y": 146,
+      "W": 80,
+      "H": 161,
+      "XCOORDS": "1178|1218|1258|1237|1236|1199|1199",
+      "YCOORDS": "186|146|186|186|306|307|186",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.8",
+      "KARTEN_ID": "1",
+      "X": 2714,
+      "Y": 146,
+      "W": 80,
+      "H": 161,
+      "XCOORDS": "2714|2754|2794|2773|2772|2735|2735",
+      "YCOORDS": "186|146|186|186|306|307|186",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.86",
+      "KARTEN_ID": "1",
+      "X": 178,
+      "Y": 1232,
+      "W": 160,
+      "H": 78,
+      "XCOORDS": "178|216|217|337|338|217|217",
+      "YCOORDS": "1272|1232|1251|1252|1289|1289|1310",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1615,
+      "name": "AK Interactive",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1F211"
+      ]
+    },
+    {
+      "id": 1038,
+      "name": "Across the Realms",
+      "description": "Step into the Across the Realms booth for an exclusive preview of Space Breachers, our upcoming miniature-heavy board game inspired by the classic Space Crusade by Games Workshop and Milton Bradley. Space Breachers is a thrilling cooperative board game for 1–5 players, where you command a squad of elite soldiers infiltrating a massive enemy spaceship. Battle swarms of monstrous foes through a maze of corridors as you race to complete critical mission objectives. The game unfolds on a dynamic, procedurally generated board that represents the ever-shifting layout of the spaceship. Enemies emerge in waves of mysterious “blips,” revealed only when a Breacher makes contact. A blip could be anything from a crazed, lowly sailor to a terrifyingly powerful Hellnaught—keep your rifle loaded and your wits sharp when you breach that next door!  ",
+      "website": "https://www.myminifactory.com/users/Across-the-Realms",
+      "booths": [
+        "1E100"
+      ]
+    },
+    {
+      "id": 1398,
+      "name": "Archon Studio",
+      "description": "Archon StudioWe have established ourselves as a prominent player in the board game, wargaming, and RPG terrain market. With such passion, we began creating our own board games, and now we're recognized for our commitment to innovation and producing exceptional miniatures.We've loved miniatures ever since we were kidsWe grew up with tabletop games, and we have since decided to make our own. Archon Studio is dedicated to creating amazing games and miniatures, challenging ourselves with more complex and detailed designs with every project. Our community is Archon's lifeblood - we share our passion with you and fulfill our dreams together. Project after project, we create models in the highest-quality plastic, making them worth painting and assembling.WHAT MAKES US DIFFERENT?At Archon Studio, we redefine tabletop gaming. Our innovation-driven approach crafts unique board games and miniatures, blending cutting-edge mechanics with captivating narratives. Immerse yourself in a world where attention to detail, exceptional quality, and community collaboration set us apart. See tabletop gaming from a new perspective – where every play is an extraordinary adventure.",
+      "website": "https://archon-studio.com/",
+      "booths": [
+        "1C311"
+      ]
+    },
+    {
+      "id": 1837,
+      "name": "Atomic Mass Games",
+      "description": "About AMGComposed of veterans from the tabletop miniatures games industry, Atomic Mass Games published its first game, Marvel: Crisis Protocol, in 2019. Since then, the studio has taken over the development of acclaimed miniatures games Star Wars: X-Wing, Star Wars: Legion, and Star Wars: Armada. In June of 2023 the studio launched Star Wars: Shatterpoint, it’s newest skirmish miniatures title. Atomic Mass Games is committed to delivering immersive lifestyle hobby games that combine industry-leading tabletop miniatures and fast, fun, kinetic game rules to create lifelong collectors and players.",
+      "website": "https://www.atomicmassgames.com/",
+      "booths": [
+        "1E211"
+      ]
+    },
+    {
+      "id": 1733,
+      "name": "Banana Joe Games",
+      "description": "Our Belief: Games should gather friends, not dust.We believe your game nights deserve the best. That's why we founded Banana Joe Games. To create memorable games that are easy to learn and explain, yet packed with stylish mechanics that keep you coming back for more.Our goal is for our games to click with you and your friends instantly. Every player is different, and we believe games should embrace your creativity instead of putting some boundaries to it. That's why we want to create experiences that let you continuously discover and refine your own playstyle, starting from your very first match.Hence our motto: Be You. Replay.We also believe that games should look and feel as good as they play. Our nostalgic VHS-style cases are designed not just for a sleek display, but are also custom-engineered to keep every piece perfectly in the right place.We pour our hearts into every project to ensure that when you pick up a game labeled “Banana Joe Games” you get two key experiences:•⁠ ⁠Quick to Play, Deeply Engaging: Our rulebooks are light and straightforward, getting you into the game faster. You'll spend more time playing and less time reading, even as you explore surprisingly deep and complex gameplay.•⁠ ⁠A Joy to Own: Our games are designed to be enjoyed even when closed. Exhibit them neatly on your shelf without creating unstable towers, and easily pick them up whenever you're ready to play.With Banana Joe Games, we promise you top-notch design, from gameplay to visuals.",
+      "website": "https://bananajoe.games",
+      "booths": [
+        "1F210"
+      ]
+    },
+    {
+      "id": 1083,
+      "name": "Beckett",
+      "description": "Offering on-site card grading & take back specials all weekend of SPIEL!For over 40 years, Beckett has been known as the Best Grading Service because of our legacy of integrity and honesty that offers nothing but the best to collectors seeking protection for their valued collections. With the establishment of local card grading services in Europe, you can now enjoy a faster, more convenient, and cost-effective way to grade your card collections. Beckett is not only meeting the needs of our growing global community, but also reinforcing its commitment to delivering excellence and convenience in every corner of the world.",
+      "website": "https://www.beckett.com/eu",
+      "booths": [
+        "1F410"
+      ]
+    },
+    {
+      "id": 1822,
+      "name": "Blackfire",
+      "description": "BLACKFIRE – BEYOND BOXESWe are your B2B distributor for local hobby retail stores.In the hobby gaming sector, we enthusiastically distribute mainly Trading Card Games: Magic the Gathering, Flesh and Blood, Yu-Gi-Oh!, One Piece, Dragon Ball, Digimon, Cardfight! Vanguard, Pokémon and many more! Our 9,000+ sqm warehouse has everything you need for your store: TCGs and game accessories, board games, tabletops, action figures, and merchandise. Well-known brands like Hasbro, Konami, Nintendo, Bandai, Square Enix and Co. also make our hearts beat faster &lt;3We are more than just your distributor - \"beyond boxes\" means: from marketing to organized play to logistics, we offer you comprehensive support. Learn more about your individual advantages and services as a Blackfire customer below!Thanks to a unique portfolio and comprehensive distribution service to thousands of retailers all over EMEA, we became one of the most reliable suppliers in the fast-growing trading card and tabletop games industry. Based on this success, in 2018, we became a part of Asmodee, a global leader in boardgames publishing and distribution.Register with Blackfire now and benefit from many additional services!",
+      "website": "https://www.blackfire.eu/de-de/",
+      "booths": [
+        "1E315"
+      ]
+    },
+    {
+      "id": 1811,
+      "name": "Brettspiel-News.de",
+      "description": "Bei uns am Stand erwarten dich viele Events wie Live-Podcasts, Interviews und Spieleerklärungen. Teile der Redaktion werden vor Ort sein, und du kannst uns kennenlernen. Noch ist vieles in der Planung; sobald es konkret wird, erfährst du mehr zu unseren Angeboten.",
+      "website": "https://brettspiel-news.de/",
+      "booths": [
+        "1F800"
+      ]
+    },
+    {
+      "id": 1435,
+      "name": "Cardhobby",
+      "description": "DAKA and Cardhobby 🃏🔥💥 DAKA is a premium trading card brand that’s been making waves across sports, esports, and entertainment since 2016. From being the official card partner for the CBA, Premier League, and La Liga clubs like FC Barcelona, Manchester City, Liverpool and Newcastle! DAKA is all about celebrating legends through high-quality, collectible experiences - every DAKA release brings unmatched storytelling and innovation to the hobby.🧩 Cardhobby is China’s leading third-party trading platform — home to over 500,000 collectors worldwide. With a powerful ecosystem that includes a dedicated app, live break streams, Cardhobby connects collectors with the best products, trades and community experiences. From NBA to TCG, they’ve got it all covered with secure transactions and a user-first approach.Together, these two powerhouses are redefining what it means to collect, love, and trade in Asia and beyond.🎯 Whether you're hunting grails or just starting out, this is your sign to level up your hobby game.",
+      "website": "https://www.miaocollectables.com",
+      "booths": [
+        "1F310"
+      ]
+    },
+    {
+      "id": 1017,
+      "name": "Chronicle RPGs",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1C110"
+      ]
+    },
+    {
+      "id": 1162,
+      "name": "Conquest",
+      "description": "Hi. We are Para Bellum.Para Bellum Games is the child of that inner discussion all gamers have, the one that starts with “If I made my own game…” We develop and produce our games uniquely in the EU and the US only, allowing for an emphasis on quality – from the art, lore, and sculpting through to the finished quality of each release.Para Bellum Games’ first product – Conquest – is now in the market. Conquest is a miniatures tabletop fantasy game that offers players the opportunity to play with two game styles.The Last Argument of Kings: A mass fantasy battle, rank, and flank style of big table play.First Blood: A fast-paced skirmish style of gameplay.Both styles use the same miniatures, with free access to rule sets, army builders, and our unique Living World.We are proud of what we have become, proud of what we’re making, and proud of all we’re planning. We are still that same ragtag group of gamers who also happen to be artists, sculptors, and writers. We love the community of gaming, and we build each Conquest item with the community in mind. We still gather, argue, and laugh around game tables. We still smile at the smell of paint and plastic. It is our passion that brings us together and drives us to innovate in the world of tabletop gameplay. We look forward to sharing that passion with you through our games.",
+      "website": "https://www.para-bellum.com/",
+      "booths": [
+        "1A225"
+      ]
+    },
+    {
+      "id": 1282,
+      "name": "Corvus Belli",
+      "description": "We are Corvus Belli, a company with more than 20 years of experience in the design and creation of tabletop and wargames.The company was born with the idea of manufacturing metal miniatures.The level of care dedicated to our games’ miniatures, their quality is a distinctive, non-negotiable trait of Corvus Belli.As time goes by, we’ve evolved and grown.We’re now much more than simple model designers, we have become the authors of entire universes. Our business is unique intellectual properties with a massive library of lore from scratch, serving as a background for all of our wargames and board games. Each IP (Intellectual Property) is developed with an original and attractive background that allows you to enjoy hours of fun in different formats.By combining a rich background, carefully conceived game dynamics, awesome miniatures, and love for the hobby we share with our players, we’ve managed to create amazing games, highly valued in the market for their quality and the hours of entertainment they provide.",
+      "website": "https://www.corvusbelli.com",
+      "booths": [
+        "1D113"
+      ]
+    },
+    {
+      "id": 1671,
+      "name": "De Tinnen Roos",
+      "description": "About De Tinnen Roos / DTR Spincasting – Professionals in MiniaturesWe’ve been part of SPIEL Essen for many years and always bring a combination of high-end production expertise and hands-on fun to the gaming world. Based in the Netherlands, we produce miniatures, tokens, and game components in metal, resin, and plastic – all in-house. Our specialties include:Contract casting, spincasting, injection molding & 3D printing (DLP)Prototyping and 3D design, including mold making, 3D scanning, and vulcanizingSupplying machines and materials for companies who want to do their own productionWorkshops and global training sessions – at your location, online, or in our own factoryAt SPIEL, It’s Always a Celebration!Our booth is one big celebration of creativity and craftsmanship. Visitors can:Join our \"Paint & Take\" area – paint a mini and take it homeHave their face 3D scanned and turned into a custom miniatureSee live demos of how miniatures are made – from digital sculpt to castingWe’re also proud to be a partner of Remarkable Miniatures home | remarkable miniatures – a European initiative that unites artists, designers, and producers to create and distribute top-tier miniatures, locally and sustainably.At De Tinnen Roos, we combine craftsmanship, technology, and a passion for gaming. Whether it’s one custom figure or thousands for a board game release – we’ll show you how it’s done, and how much fun it can be.",
+      "website": "https://detinnenroos.nl/en/",
+      "booths": [
+        "1F111"
+      ]
+    },
+    {
+      "id": 1197,
+      "name": "Deep-Cut Studio",
+      "description": "Deep-Cut Studio are the pioneers in game mat manufacturing and have a widest range of battlemats to choose from for your miniature wargames and tabletop board games. They are the creators and producers of prepainted scenery line for miniature wargames. The resin model buildings don’t require assembly or painting and are ready to use out of the box. And not only they provide everything you need to build the epic battlefields, but have everything to paint those armies as well. The ultimate lazy mans tools for miniature painting - Speedpaint Markers, paint and brushes from best known companies, tools, supplies and effects to push the limits of your creativity.",
+      "website": "https://www.deepcutstudio.com",
+      "booths": [
+        "1C113"
+      ]
+    },
+    {
+      "id": 1320,
+      "name": "Dragon Shield",
+      "description": "Dragon Shield has been providing players with reliable gaming accessories since 1999. We are passionate about creating high quality accessories that protect the games we love. This Fall, we are excited to announce a new collaboration with Hasbro and its Wizards of the Coast division to produce licensed trading card game (TCG) accessories for MAGIC: THE GATHERING, focusing on classic/evergreen, iconic imagery from the world’s most popular trading card game.The first licensed MAGIC: THE GATHERING× Dragon Shield products will have a limited release at SPIEL 2025, with retail availability planned worldwide in late 2025",
+      "website": "https://www.dragonshield.com/",
+      "booths": [
+        "1F411"
+      ]
+    },
+    {
+      "id": 1141,
+      "name": "Dwarven Forge",
+      "description": "Dwarven Forge stellt welltweit das schönste hand modulierte, hand bemalte Spiel Gelände wie zum Beispiel Verliese, Höhlen, Dörfer, Wildnis, Burgen, Miniaturen und noch vieles mehr her. Diese Geländebauteile eignen sich perfekt für eure Spielerunde für Dungeons & Dragons, Das Schwarze Auge, Midgard, Warhammer, Frosgrave oder beinahe jedes andere Tabletop Spiel. ",
+      "website": "https://dwarvenforge.com/",
+      "booths": [
+        "1B511"
+      ]
+    },
+    {
+      "id": 1388,
+      "name": "Eldfall Chronicles - Freecompany",
+      "description": "Freecompany is a small but passionate game studio based in Ljubljana, Slovenia, dedicated to crafting immersive and personalized gaming experiences that go beyond entertainment. Our mission is to deliver high-quality, expertly designed games that captivate and connect—fostering vibrant, inclusive communities. For us, gaming isn’t just a pastime; it’s a journey. Every session is a chance to explore new worlds, forge unique stories, and build lasting connections. We thrive in a creative, collaborative atmosphere where innovation drives everything we do. With a strong focus on depth, replayability, and personal expression, we aim to set new standards in the industry—creating games that are rewarding and relevant for years to come. Join us as we level up the gaming experience, one personalized adventure at a time.",
+      "website": "https://eldfall-chronicles.com/",
+      "booths": [
+        "1F216"
+      ]
+    },
+    {
+      "id": 1189,
+      "name": "Element Games",
+      "description": "Element Games is one of the UKs largest hobby supply retailers. We stock a wide range of miniatures, paints and hobby supplies at a discount from RRP. Element Games is the one stop shop for all your hobby and tabletop games needs!In addition, we are teaming up with Artis Opus to offer free painting demos at the booth! Head over and pick up some tips on how you can elevate your painting with tips from Byron Orde or our other experienced staff.",
+      "website": "https://elementgames.co.uk/",
+      "booths": [
+        "1E111"
+      ]
+    },
+    {
+      "id": 1688,
+      "name": "Enhance Gaming",
+      "description": "NHANCE offers practical and innovative solutions to make gaming more enjoyable for tabletop RPG gamers, board game enthusiasts, and trading card collectors.",
+      "website": "",
+      "booths": [
+        "1C115"
+      ]
+    },
+    {
+      "id": 1870,
+      "name": "Equinox",
+      "description": "Equinox is a Paris-based studio dedicated exclusively to creating a revolutionary TCG!Founded in 2020 by Régis Bonnessée, creator of the Libellud studio (behind Dixit, Mysterium, Diceforge, Seasons…), today we’re a team of some thirty passionate creatives who share a common vision: to have a positive impact on the world through the creation of an incredibly modern and innovative trading card game.At Equinox, we believe that playing is above all a time for sharing and enjoyment.We believe in cultivating a positive mindset and encouraging optimism in everything we do. We hope that our game will instill in you the values that inspire us every day.Passion is at the heart of everything we do at Equinox.We're tireless gamers, some of us competitors, all bound together by our love of gaming and creation. Every day, we are driven by the pleasure of sharing a common goal that gives meaning to our work and our lives.Equinox is strongly committed to its values, and puts people at the heart of its identity and practices, through its actions and commitments, both internally and externally.As an example, we have opted for a flat organization, where each team member is considered as an individual, with his or her own aspirations, skills and limitations.",
+      "website": "https://www.equinox.fr/en",
+      "booths": [
+        "1E211"
+      ]
+    },
+    {
+      "id": 1867,
+      "name": "Fantasy Flight Games",
+      "description": "Who We AreSince 1995, Fantasy Flight Games has earned a reputation for its innovative gameplay, immersive gaming experiences, and top-quality game components. As a leading hobby game company based out of Roseville, Minnesota, FFG publishes a massive array of board and card games.&nbsp;Many of FFG’s most popular titles are a mixture of beloved licenses—such as Star Wars™, Marvel, J.R.R. Tolkien’s The Lord of the Rings, and George R.R. Martin’s A Song of Ice and Fire—and our own proprietary licenses, such as Arkham Horror Files, Terrinoth Legends, and Twilight Imperium.&nbsp;Throughout the course of the studio’s history, FFG has created and published games in multiple genres, including board, card, miniature, and roleplaying games, as well as trademarked Living Card Games® in over thirty languages and distributed them to more than fifty territories. In 2014, FFG further expanded its international reach by merging with the Asmodee Group.&nbsp;You can find us on &nbsp;Facebook&nbsp;and&nbsp;Instagram&nbsp;and follow @FFGames on Twitter. We also have FFG Live, a series of livestreams that we host on our YouTube&nbsp;channel.",
+      "website": "https://www.fantasyflightgames.com/en/index/",
+      "booths": [
+        "1E211"
+      ]
+    },
+    {
+      "id": 1340,
+      "name": "Flesh and Blood",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1C411"
+      ]
+    },
+    {
+      "id": 1147,
+      "name": "Freebooter Miniatures",
+      "description": "Freebooter Miniatures segelt nun schon seit mehr als 20 Jahren auf den Meeren der Miniaturenindustrie. Alles begann 2002 auf der Spiel Essen, als wir unseren ersten eigenen Stand betreuten, mit Schmetterlingen im Bauch und einem Leuchten in den Augen.&nbsp;Vor 15 Jahren erschien unser Tabletop Freebooter's Fate.&nbsp;Ein schnelles, taktisch anspruchsvolles Tabletop Miniaturen Spiel für zwei oder mehr Spieler, das Piraten und Fantasyelemente miteinander verbindet. Es wird Dir gefallen. Wie sollte es anders sein, bei diesen Zutaten? Raublustige Piraten. Grog-stemmende Goblins! Mysteriöse Assassinen! Standhafte Imperiale! Skrupellose Söldner! Papageien! Und viele mehr. Eine Welt voller Schurken, Halunken, Helden, Damen, Weibsbilder und vielen anderem. Mit tausend Holzbeinen! Oh, und alles ohne Würfel!Jetzt erblickt Ascending Fate, das würfellose Sci-Fi-Skirmish-Tabletop-Spiel das Licht der interstellaren Welt. Alles im 34 mm Maßstab und mit einfachen und doch herausfordernden Regeln.&nbsp;Und ja, beides sind Tabletop-Spiele ohne Würfel! Du glaubst es nicht? Finde es heraus.Spiel 2025 in Essen am Stand 1A113 bei Freebooter Miniatures!&nbsp;&nbsp;",
+      "website": "https://www.freebooterminiatures.de/",
+      "booths": [
+        "1A113"
+      ]
+    },
+    {
+      "id": 1821,
+      "name": "Gamegenic",
+      "description": "EXPERIENCE THE DIFFERENCE!Established in 2019, Gamegenic embarked on a singular mission: to redefine the landscape of gaming supplies by seamlessly weaving together unparalleled quality, innovation, functionality, and captivating design.Our foundation is grounded in a team of seasoned professionals who share an unwavering passion for gaming. Every product we offer represents the culmination of years of extensive expertise, meticulous engineering, rigorous testing, in-depth market insights, and, most importantly, an ongoing dialogue with our dedicated gaming community.Our product lineup stands as a testament to our commitment to catering to both novice enthusiasts and committed gamers.Gamegenic is more than just a brand; it’s our promise to enhance your gaming experience. Don’t miss out on experiencing the Gamegenic difference for yourself – this is for you!",
+      "website": "https://www.gamegenic.com/de/",
+      "booths": [
+        "1C211"
+      ]
+    },
+    {
+      "id": 1587,
+      "name": "GamersGrass",
+      "description": "GamersGrass designs and produces premium basing materials and accessories for hobbyists, model makers, and wargamers around the world. From our signature Grass Tufts and Laser Plants to finely detailed Resin Bits and Battle Ready Bases, we provide creative solutions to bring miniature figures, dioramas, and railway layouts to life. Our products combine ease of use with high-quality design, helping hobbyists achieve stunning, realistic results on their projects.",
+      "website": "https://gamersgrass.com",
+      "booths": [
+        "1D112"
+      ]
+    },
+    {
+      "id": 1663,
+      "name": "Gatherers' Tavern",
+      "description": "Gatherers’ Tavern is a Magic: the Gathering licensed gaming accessory manufacturer with a focus on all things fantasy.",
+      "website": "",
+      "booths": [
+        "1F312"
+      ]
+    },
+    {
+      "id": 1683,
+      "name": "Glass Cannon Unplugged",
+      "description": "Glass Cannon Unplugged invites you to visit our booth at Essen Spiel 2025! Come and experience the eerie thrills of Don't Starve: The Board Game and the epic battles of March of Empires: Time of War - two immersive games that pull you into one-of-a-kind worlds.At Glass Cannon Unplugged, we’re passionate about creating unforgettable tabletop adaptations of beloved games that spark excitement for players of all levels.📍 Visit us at booth 1D611 and discover your next favorite game!",
+      "website": "https://glasscannonunplugged.com/",
+      "booths": [
+        "1D611"
+      ]
+    },
+    {
+      "id": 1895,
+      "name": "Goddess TCG",
+      "description": "4Play is the creator of Goddess: The Convergence, an innovative trading card game that combines accessible strategy with a sexy and unique artistic universe. Each card unveils a charismatic goddess, carefully illustrated in a refined manga style, blending sensuality and power. Our mission: to offer collectors and players an experience that is aesthetic, thrilling, and deeply immersive.",
+      "website": "https://www.fourplay.fr/",
+      "booths": [
+        "1F114"
+      ]
+    },
+    {
+      "id": 1872,
+      "name": "Guillotine Games",
+      "description": "Guillotine Games is a brand new company run by former employees of Rackham Entertainment, all of them coming from the artistic department. Our target and mission is to create incredibly rich board games with a pinch of Euro flavor and outstanding miniatures. Zombicide is our first game.",
+      "website": "https://www.guillotinegames.com/",
+      "booths": [
+        "1E211"
+      ]
+    },
+    {
+      "id": 1385,
+      "name": "Imprintium",
+      "description": "",
+      "website": "https://imprintium.de/de/",
+      "booths": [
+        "1E100"
+      ]
+    },
+    {
+      "id": 1686,
+      "name": "J.K. Entertainment GmbH",
+      "description": "J.K. Entertainment is a company based in Maintal, Germany, founded in 2004. It specializes in the sale and purchase of trading cards, primarily in Magic: the Gathering, Yu-Gi-Oh!, and Pokemon. With two retail stores in Frankfurt am Main and Darmstadt, we also offer various local tournaments. In addition to the events in our stores, we also organize larger events, such as Commandfest. In addition regularly opperate booths at European and International events for various games.",
+      "website": "https://jk-entertainment.de/",
+      "booths": [
+        "1F315"
+      ]
+    },
+    {
+      "id": 1785,
+      "name": "Konami Digital Entertainment B.V.",
+      "description": "About the Yu-Gi-Oh! TRADING CARD GAMEThe Yu-Gi-Oh! TRADING CARD GAME is one of the most popular trading card games in the world with over 25 billion cards sold. It is a game of strategy, where players create individual Decks of cards collected from Structure Decks and Booster Packs. Two players engage in a Duel while using cards that represent powerful Monsters, magical Spells and surprising Traps. Duelists with well-constructed Decks, dominating monsters, solid strategy and good fortune are the victors in the Yu-Gi-Oh! TCG. Konami Digital Entertainment B.V. is the exclusive licensee and rights holder to the Yu-Gi-Oh! TCG in the Europe, the Middle East and Africa. &nbsp;About Konami Digital EntertainmentKonami Digital Entertainment, which is the core company of Konami Group, develops entertaining content for mobile, console and card games. The company is known for global franchises such as eFootball™, Metal Gear, Silent Hill, Castlevania, and Contra, as well as the Yu-Gi-Oh! Trading Card Game series.&nbsp;",
+      "website": "",
+      "booths": [
+        "1E411"
+      ]
+    },
+    {
+      "id": 1321,
+      "name": "Lasting Games",
+      "description": "Lasting Games is excited to showcase our highly anticipated game BUTCHER & BOLT - a very unique skirmish wargame of daring raids and covert operations in WW2.Come see us at our booth and be ready for the launch very soon on GAMEFOUND! Please FOLLOW us there to qualify for a fascinating FREE GIFT: https://gamefound.com/en/projects/lasting-games/butcherandbolt",
+      "website": "",
+      "booths": [
+        "1B621"
+      ]
+    },
+    {
+      "id": 1654,
+      "name": "Luminous Cards GmbH",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1F700"
+      ]
+    },
+    {
+      "id": 1795,
+      "name": "LuzaTables",
+      "description": "20 Jahre LUZATABLESSchöner Wohnen, schöner Spielen!Wir bauen euch den #HAPPYLUZA, den #HUNGRYLUZAAusserdem gibt´s das neue Tischmodell #JUBILUZA (Projektname)Wir zeigen euch den neuen Gefühlswürfel in der begehrten SPIEL25 - Edition!!!Unsere kleine Firma besteht seit 2005 und wurde von Simone und Roland Collin als Tischlerei Collin gegründet. Simone ist Tischlergesellin und Dipl.-Ing. der Innenarchitektur. Roland ist Tischlermeister.Angefangen als herkömmliche Tischlerei, die sich auf Einbau- und Einzelmöbel spezialisiert hat, kamen wir schon 2016 auf die Idee einen wohnlichen Brettspieltisch zu entwickeln. Seit dem kamen immer mehr Modelle und Zubehörteile hinzu. Alles in höchster Qualität! Vom Tischler eben.Wir fertigen in einer schnuckeligen Werkstatt in einem alten Bahnhofsgebäude in Duisburg.Zum Einsatz kommen nachhaltige Massivhölzer. So können wir dir ein Möbel bauen, was du immer am Bein haben wirst, und vererben musst..;-)An unserem Stand zeigen wir dir unsere Modelle, beraten dich fundiert, und können dir evtl auch schon ein Holzmuster mitgeben.Wenn du Glück hast, sind sogar einige unserer Kunden mit den Lila T-Shirts vor Ort, die speziell für euch Auskunft über die Qualität und Langlebigkeit geben. Nüchtern, trocken und auf Augenhöhe!Wir freuen uns auf dich! Komm vorbei! Wir nehmen uns immer genügend Zeit!",
+      "website": "https://www.tischlereicollin-shop.de",
+      "booths": [
+        "1F300"
+      ]
+    },
+    {
+      "id": 1520,
+      "name": "Maginarium.pl",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1F414"
+      ]
+    },
+    {
+      "id": 992,
+      "name": "Malediction - Loot Studios",
+      "description": "Malediction is the world’s first 3D-printable Miniatures Card Game (MCG), a groundbreaking fusion of strategic miniature positioning and the deep customization of competitive card games. In this original dark fantasy universe, you’ll build your deck, print your army, and command it on perilous battlefields.Accessible to newcomers yet rich in tactical depth for veterans, Malediction is both easy to learn and hard to master. It blends careful strategy with elements of luck, ensuring every match is tense and unpredictable. With limitless replayability through deck building, terrain setup, and faction combinations, no two battles are ever the same.Face your foes and brave the cursed lands of the Malediction, a game that raised over $700K in just 11 minutes on Gamefound.Product Title: Malediction PublisherAuthor: Loot Studios ReleaseDate: January 2025Playing Age: 14+Players: 2–4 playersPlaying Time: Approximately 60 minutesTheme / Setting: Dark Fantasy",
+      "website": "https://malediction.gg",
+      "booths": [
+        "1F611"
+      ]
+    },
+    {
+      "id": 1757,
+      "name": "Mantic Games",
+      "description": "Collect. Build. Paint. Play. Fantasy and Sci-fi GamingHalo: FlashpointWorms the board gameEpic: WarpathKIngs of war: Champions",
+      "website": "https://www.manticgames.com/",
+      "booths": [
+        "1C711"
+      ]
+    },
+    {
+      "id": 1628,
+      "name": "MechForce Germany e.V.",
+      "description": "BattleTechEin Spiel, welches seinen Anfang vor 40 Jahren genommen hat und bis heute Präsent ist.&nbsp;Wir vom MechForce Germany e.V. – kurz: die MFG sind der größte aktive BattleTech Verein in Deutschland. Hier wird alles gespielt, was mit BattleTech zu tun hat; Classic, AlphaStrike, RPG, Online Games, TCG.&nbsp;Als Verein fördern wir den Zusammenhalt und die Verbreitung unseres Hobbys.Vom kleinen Gruppentreff bis hin zu internationalen Messen wie ‚die Spiel‘ oder ‚ComicCon‘.&nbsp;Was bieten wir?-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kommunikation / Information untereinander-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organisation, Fachwissen, Spielspaß-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persönliche Einheiten (Chapter)-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internes Chapter-Ranking-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MechForce Akademie-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Turniere-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Und fast überall vor Ort gibt es auch Kekse.",
+      "website": "https://www.mechforce.de",
+      "booths": [
+        "1F113"
+      ]
+    },
+    {
+      "id": 1770,
+      "name": "MediKnight",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1F217"
+      ]
+    },
+    {
+      "id": 1468,
+      "name": "Micro Art Studio",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1D511"
+      ]
+    },
+    {
+      "id": 1869,
+      "name": "MyMiniFactory",
+      "description": "MyMiniFactory is a leading platform for 3D printable files, connecting designers with a global community of 3D printing enthusiasts.We visiting Spiel in 2025 and invite you to visit the booth, find out more our our vision and ecosystem within the tabletop gaming community and see what we could offer your brand moving forwards with digital STL files for your games.",
+      "website": "https://www.myminifactory.com",
+      "booths": [
+        "1B411"
+      ]
+    },
+    {
+      "id": 1655,
+      "name": "Nerdlab Games",
+      "description": "Nerdlab Games ist ein innovativer Spieleverlag mit einer klaren Mission: Spiele zu entwickeln, die durch einen cleveren, einzigartigen Kniff überraschen und im Gedächtnis bleiben. Wir glauben an Spielmechaniken, die einfach zu lernen sind, aber mit jeder Partie an Tiefe gewinnen und langfristig begeistern.Bekannt wurden wir durch die ausgezeichneten Titel Mindbug und Agent Avenue, die unser Credo perfekt verkörpern: Zugänglichkeit trifft auf strategische Raffinesse. Unsere Spiele fordern Spieler heraus, neue Denkweisen zu entdecken ohne sie mit komplexen Regelwerken zu überfordern.Egal ob erfahrener Spieler oder Gelegenheitstaktiker. Bei Nerdlab Games findest du Spiele, die dich fordern, überraschen und immer wieder an den Tisch zurückholen.",
+      "website": "https://shop.nerdlab-games.com",
+      "booths": [
+        "1F311"
+      ]
+    },
+    {
+      "id": 1270,
+      "name": "New Game Entertainment  Pte. Ltd.",
+      "description": "New Game Entertainment (Singapore) designs and publishes anime-inspired tabletop games for modern players. Our flagship, Synchro Horizon, delivers tactical combat, open-map exploration, and JRPG-style roguelike progression—playable solo or cooperatively. We partner worldwide and beyond on localization, retail, and community events, building a connected ecosystem around our worlds (games, art, and future media). Let’s talk distribution, localization, and organized play.",
+      "website": "https://www.newgame-entertainment.com",
+      "booths": [
+        "1F116"
+      ]
+    },
+    {
+      "id": 1690,
+      "name": "One Piece Card Game Official Shop",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1E611"
+      ]
+    },
+    {
+      "id": 1213,
+      "name": "PK-PRO / Krautcover Scenics / NeverRealm Industry",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1E113"
+      ]
+    },
+    {
+      "id": 1538,
+      "name": "Playmats.eu",
+      "description": "We know everything about tabletop games, so we can provide you with complete equipment, that will suit your playstyle. In our assortment you will find mats for battle, board and card games, as well as accessories such as dice trays, neoprene 2D terrains and dry-wipe mats and gadgets dedicated to playing RPG sessions. As a manufacturer, we take care of every detail and guarantee the possibility of matching products to the needs of even the most demanding players.",
+      "website": "https://playmats.eu/",
+      "booths": [
+        "1E511"
+      ]
+    },
+    {
+      "id": 1487,
+      "name": "PokéXpert ist euer Fachhändler für Sammelkarten (TCGs)  und Einzelkarten!",
+      "description": "PokéXpert – Your Trading Card Game Specialist !**PokéXpert** steht für Leidenschaft und Expertise im Bereich **Trading Card Games (TCGs)**.Ob **Pokémon, One Piece, Magic: The Gathering, Yu-Gi-Oh!, Dragon Ball oder Gundam** – wir bringen die neuesten Produkte, spannende Events und eine starke Community zusammen.#### Unser Angebot:- 📦 **Neuheiten & Originalprodukte**: Displays, Tins, Blister & Premium-Kollektionen- 🃏 **Einzelkarten**: von spielstarken Karten bis zu seltenen Sammlerstücken- 🔄 **An- & Verkauf / Tausch**: transparente, faire Bewertung und Abwicklung- 🎉 **Community-Events**: Tauschbörsen, Turniere, Pre-Releases & Trade Nights- 🛡️ **Zubehör**: Sleeves, Binders, Deckboxen & weiteres Equipment für Sammler & SpielerUnsere Mission: **Wir schaffen einen Ort, an dem Sammler und Spieler zusammenfinden, Produkte entdecken und ihre Leidenschaft teilen können.**👉 Besuchen Sie uns auf der **SPIEL Essen – Stand 1.F412** und erleben Sie die Welt der Sammelkarten hautnah!",
+      "website": "https://www.pokexpert.shop/",
+      "booths": [
+        "1F412"
+      ]
+    },
+    {
+      "id": 1530,
+      "name": "Proteus Collectibles",
+      "description": "At Proteus Collectibles' booth, you will find the latest Silicone Darlings collection, consisting of our silicone sculptures. They are whimsical creatures inspired by the fantasy, horror and mythology world, such as elves, mandrakes, vampires, cyclops & cthulhu babies.The realism that our silicone art offers to the eye and touch is what makes these creations unique and sophisticated. Some of you may be fascinated, some freaked out, some others even both! We can't wait to see their effect on you. :)&nbsp;Our collection will also include the resin monster works of George Tsougkouzidis, mostly inspired by the world of H.P.Lovecraft, including imposing altars, busts of mythical creatures, demons and alien.Of course, we will have Spiel 2025 exclusive items such as our special silicone dice. Last but not least, throughout the 4 days of the fair, there will be showcasing events, where you can ask and learn more about the making of our work and there will be many surprises that will be waiting for you to discover!&nbsp;",
+      "website": "",
+      "booths": [
+        "1E100"
+      ]
+    },
+    {
+      "id": 1359,
+      "name": "Q-Workshop",
+      "description": "Q-Workshop is the leading manufacturer of intricately designed dice sets and dice accessories for RPG gamers and dice enthusiasts. We are based and produce in Poland. Our vast range of designs covers multiple universes and RPG worlds, as well as numerous license based sets for well-known franchises. Our quality craftsmanship and attention to detail ensures that every die is a stunning work of art. Join us on your gaming journey and experience the thrill of rolling the perfect die.",
+      "website": "",
+      "booths": [
+        "1F711"
+      ]
+    },
+    {
+      "id": 1619,
+      "name": "QUETI TECTONICS",
+      "description": "Developer of modular sci-fi mecha miniature war game&lt;Ember:Obsidian Protocol&gt; .",
+      "website": "",
+      "booths": [
+        "1D100"
+      ]
+    },
+    {
+      "id": 1158,
+      "name": "Rapture Miniature Wargame",
+      "description": "",
+      "website": "https://www.gravity-bay.com",
+      "booths": [
+        "1F218"
+      ]
+    },
+    {
+      "id": 1470,
+      "name": "Rose Micro Solutions",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1A211"
+      ]
+    },
+    {
+      "id": 1218,
+      "name": "SAGA Alliance/ Cube Golem",
+      "description": "CubeGolem ist ein europaweit agierender Großhändler für Trading Card Games, Brettspiele, Zubehör und nerdiges Merchandise.Mit Standorten in Deutschland, Frankreich, Osteuropa und Großbritannien bieten wir zuverlässige Logistik, tiefe Sortimente und starke Partnerschaften für den Fachhandel in ganz Europa.Wir unterstützen unsere Händler nicht nur mit Produkten, sondern auch mit echter Expertise:– Beratung zur Sortimentsgestaltung und -erweiterung– Aufbau und Optimierung von Organized Play Strukturen– Verkaufsunterstützung & CommunitybindungOb Magic: The Gathering, Dungeons & Dragons, Dragon Shield, Ultra PRO, Riftbound– CubeGolem versorgt den Handel mit dem, was Spieler:innen lieben.",
+      "website": "https://cubegolem.si/",
+      "booths": [
+        "1F600"
+      ]
+    },
+    {
+      "id": 1769,
+      "name": "Safe and Sound",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1C111"
+      ]
+    },
+    {
+      "id": 1041,
+      "name": "Sanseking",
+      "description": "Sanseking is dedicated to providing comprehensive products and services that go beyond traditional card protection.Our focus is on innovative design and high-quality, offering customers a diverse and personalized range of options.We prioritize user experience and quality, believing that innovation and attention to detail will set us apart as your trusted partner.",
+      "website": "https://sanseking.com/",
+      "booths": [
+        "1B611"
+      ]
+    },
+    {
+      "id": 1154,
+      "name": "Scifi-Trader",
+      "description": "Scifi-Trader ist der Nummer eins Battletech Händler in Europa, wir führen alles was man für das komplette Battletech Erlebniss braucht. Die neusten Miniaturen, die neuesten Bücher all das findet ihr bei uns. Farben und Pinsel zum anmalen der Mechs sind auch bei uns passend zu finden.Zusammen mit der Mechforce Germany e.V. bringen wir das Universum Battletech an die begeisterten Spieler und Spielerinnen.",
+      "website": "https://scifi-trader.net",
+      "booths": [
+        "1F113"
+      ]
+    },
+    {
+      "id": 1116,
+      "name": "Shroudfall",
+      "description": "The Shroud was our last promise.A veil of Essence, woven by sacrifice, stretched across the skies to hold the darkness at bay. But promises fade. Now, the Shroud – and with it, the world – fractures.The mighty Silver Line clings to order with iron resolve, while the Umbral Veil festers in the shadows, sowing dissent. From the depths of the wild, nature's wrath rises in the form of the Bloodthorne, while the Chosen of the Spirit Tree stand as the last whisper of harmony. And deeper still, other powers stir. Old powers.Forgotten ones...Shroudfall is a skirmish wargame of tactical depth and unfolding story, where warbands clash in desperate battles for Essence, survival, and control. Customize your army, shape the battlefield, command unique Essence Weavers, and shift the tide of conflict in a world unraveling at the seams.More information: https://www.shroudfall.com/",
+      "website": "",
+      "booths": [
+        "1F112"
+      ]
+    },
+    {
+      "id": 1627,
+      "name": "Spielezentrum Herne",
+      "description": "Das Spielezentrum ist eine Einrichtung der Stadt Herne (Fachbereich Kinder-Jugend-Familie / Abteilung Jugendförderung) und bietet ein breites Angebot rund um das Thema Brettspiel an. Im städtischen Spielezentrum Herne kehren sowohl Kinder als auch Jugendliche, Erwachsene und Familien ein und finden ein vielfältiges Angebot vor, dessen Schwerpunkt das Spiel ist. Während der Messe SPIEL präsentiert das Spielezentrum viele Spieleneuheiten des aktuellen Jahrganges von unterschiedlichen Verlagen und diversen Schwerpunkten (nicht nur Familienspiele).",
+      "website": "https://www.spielezentrum.de",
+      "booths": [
+        "1F800"
+      ]
+    },
+    {
+      "id": 1021,
+      "name": "System Matters Verlag",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1D711"
+      ]
+    },
+    {
+      "id": 1358,
+      "name": "TCG Machines",
+      "description": "TCG Machines, located in Alberta, Canada, is a small, dedicated team of engineers, software developers, and TCG enthusiasts. We build tools to help people run profitable trading card businesses. We're the proud creators of the world's fastest trading card sorter, the PhyzBatch-9000. The PhyzBatch-9000 can sort, scan, and physically separate 3500+ cards an hour using many customizable sort criteria. It supports most major trading card games, with support for additional games added regularly. The PhyzBatch can price and upload cards to popular marketplaces, like Cardmarket and TCGPlayer. 10X your productivity with automation today!",
+      "website": "https://tcgmachines.com/",
+      "booths": [
+        "1F212"
+      ]
+    },
+    {
+      "id": 1031,
+      "name": "Tabletop Dragon",
+      "description": "Tabletop Dragon – DiceWyrm Zubehör für TCG, Tabletop & RPGTabletop Dragon ist euer lokaler Store und Webshop für Trading Card Games, Tabletop- und Brettspiele. Mit unserer Eigenmarke DiceWyrm bieten wir Zubehör in höchster Qualität, das Spielerinnen und Spielern lange Freude bereitet.Unser Sortiment reicht von detailreich gestalteten RPG-Würfelsets und robusten W6-Würfeln über praktische Dice Trays, Maßbänder und hochwertige Kartenhüllen bis hin zu Spielmatten mit umlaufender Umnähung für maximale Haltbarkeit.Für Clubs und Vereine oder andere Shops fertigen wir zudem individuelle Würfel und Zubehör an. Auch bei Spielmatten können wir Vereins- oder Community-Designs umsetzen – so wird euer Material so einzigartig wie eure Spielrunden.Ob Rollenspielrunde, epische Tabletop-Schlacht oder das nächste große Turnier – mit DiceWyrm seid ihr bestens ausgestattet. Qualität, Funktionalität und Langlebigkeit stehen bei uns im Mittelpunkt.",
+      "website": "https://www.tabletop-dragon.de/",
+      "booths": [
+        "1C715"
+      ]
+    },
+    {
+      "id": 1268,
+      "name": "The Army Painter",
+      "description": "The Army PainterAll products from The Army Painter have been developed to help new and experienced players alike enjoy an even more intense gaming experience and bring their gray plastic pieces to life with colorful miniatures right before their eyes on the gaming table.These high-quality products are inexpensive and perfect for a wide range of tasks. Painting with products from The Army Painter is fun, easy, and quick.Win back time at your hobby table. Win more time to play!Come by and try out our paints. Secure a time slot at Burst Spiele for our painting workshops.We look forward to seeing you!",
+      "website": "https://thearmypainter.com/en-de",
+      "booths": [
+        "1D411"
+      ]
+    },
+    {
+      "id": 1027,
+      "name": "The Pokémon Company International",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1E311"
+      ]
+    },
+    {
+      "id": 1026,
+      "name": "Three for One Trading",
+      "description": "Interested in selling trading cards? We buy many popular trading card games such as Magic: The Gathering, One Piece, Pokémon, Lorcana, Star Wars Unlimited and Flesh and Blood. Just make an appointment with our buyers for the event and avoid waiting times.341 Drop-Off- & Fast LaneCollection Drop-Off:&nbsp;You just drop off your collection with our buyers. You go and play the game, and we notify you with the offer. Pick up your money and keep swinging cards.Fast Lane:&nbsp;Sell your cards the fast way. If you offer us 10 or fewer cards or cards from our Buying Hotlist we turn your cards into cash in an instant.Learn more about how to sell and trade with us.Interested in buying&nbsp;TCG-products?We will be bringing lots of great Magic, Pokémon and Lorcana singles, sealed products and accessories for you to buy as well!Choose from all cards in our&nbsp;high-end shop, order and pay them online and pick them up at the event booth. Choose store pick-up during checkout and send us a message that you want to pick it up at the event. Order Deadline: 20.10.2025",
+      "website": "https://threeforonetrading.com",
+      "booths": [
+        "1F313"
+      ]
+    },
+    {
+      "id": 1577,
+      "name": "Titan Forge",
+      "description": "Don’t miss the iconic Titan Forge booth in Hall 1. Get the most out of your SPIEL experience!Miniature Exhibition! See the spectacular collection with hardcore-level painting.Gachapon Machines! Only 2€ per miniature - fantasy, sci-fi, horror, chibis - perfect for gifts and souvenirs.Daily Lottery! Enter a lottery with big prizes every day - FREE tickets included in the gachapons.World-Renowned Miniatures! Stock up on everything you need for your tabletop in one place.Wargames! Learn how to play Bloodfields and discover what awaits in the Third Edition.EVE Online Board Game! Discover the next greatest space strategy based on the iconic EVE Online universe!Lobotomy Board Game! Escape a mental asylum with your friends in a fully cooperative survival horror game.Free Promo Minis! We are giving away free minis to promote all our projects. Enjoy!We are waiting for you! Come visit and have a great show!",
+      "website": "https://titan-forge.com/",
+      "booths": [
+        "1B311"
+      ]
+    },
+    {
+      "id": 1142,
+      "name": "Topps Deutschland GmbH",
+      "description": "Das Unternehmen Topps wurde 1938 gegründet und ist Teil von Fanatics Collectibles, einem Unternehmen für physische und digitale Sammelkarten sowie Collectibles der neusten Generation, welches 2021 als Tochtergesellschaft von Fanatics Holdings, Inc. gegründet wurde. Durch Fanatics Collectibles begeistert Topps Konsumenten mit einem vielfältigen und unterhaltsamen Produktportfolio, das aus physischen und digitalen Collectibles, Sammelkarten, Sammelkartenspielen, Stickern, Memorabilia und besonderen Events besteht.Bekannte Lizenzen sind die Major League Baseball, Major League Soccer, UEFA Champions League, Bundesliga, National Hockey League, Formula 1, Star Wars, Garbage Pail Kids® und viele mehr. Topps Digital Sports & Entertainment ist mit Sammlern weltweit verbunden, die eine der Apps Topps® BUNT®, TOPPS® KICK®, Star Wars™: Card Trader by Topps®, Topps® NHL SKATE™, Marvel Collect! by Topps® oder Disney Collect! by Topps® heruntergeladen haben.Weitere Informationen finden Sie unter: fanaticsinc.com, topps.com, play.toppsapps.com",
+      "website": "https://de.topps.com",
+      "booths": [
+        "1C415"
+      ]
+    },
+    {
+      "id": 1692,
+      "name": "Torek Boardgame and Wargame accessories",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1F215"
+      ]
+    },
+    {
+      "id": 1901,
+      "name": "Trench Crusade",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1C311"
+      ]
+    },
+    {
+      "id": 965,
+      "name": "Ulisses Spiele & Ottavio",
+      "description": "Ulisses Spiele is the publisher behind the most successful German-language role-playing game, Das Schwarze Auge (The Dark Eye), which has been delighting players and lovers of fantasy stories alike for almost forty years.Based in Waldems, Hesse, the publisher is one of the world's leading role-playing game publishers with over 60 employees in Europe and the US, creating immersive worlds in role-playing games, books, and audiobooks.In addition to its own game lines such as HeXXen 1733 and the card game Aventuria, Ulisses Spiele also publishes German-language translations of international role-playing game series, such as Alien the RPG, Pathfinder, and Warhammer Fantasy RPG.With the new Ottavio label, you can look forward to completely new games! The Ottavio brand combines fun board games with storytelling. Join us at Ottavio as we dive into new worlds and tell epic stories through play!",
+      "website": "https://ulisses-spiele.de/",
+      "booths": [
+        "1F811"
+      ]
+    },
+    {
+      "id": 1395,
+      "name": "Ultimate Guard X Magic the Gathering",
+      "description": "Ultimate Guard ist einer der führenden Hersteller von TCG-Zubehör und offizieller Lizenzpartner von Magic: The Gathering. 2011 als Eigenmarke der heo Group gegründet, unterhält das Unternehmen mit Sitz im rheinland-pfälzischen Herxheim mittlerweile auch Büros in Tokio und Seattle. Dem eigenen Slogan von \"Premium Protection\" verpflichtet, stand Ultimate Guard von Beginn an für höchste Qualität und Innovation. Mit der Return to Earth-Serie ist Ultimate Guard sogar Vorreiter für nachhaltiges TCG-Zubehör.",
+      "website": "https://ultimateguard.com/de/",
+      "booths": [
+        "1C511"
+      ]
+    },
+    {
+      "id": 1180,
+      "name": "Ultra PRO",
+      "description": "Ultra PRO International Is a leading manufacturer and supplier of collectible accessories, tabletop gaming products, and licensed merchandise. With decades of experience, Ultra PRO is trusted by gamers, collectors, distributors and retailers worldwide for its high-quality card sleeves, binders, playmats, and storage solutions serving fans of Magic: The Gathering,Warhammer Pokémon, sports cards, and more.",
+      "website": "",
+      "booths": [
+        "1F500",
+        "1F511"
+      ]
+    },
+    {
+      "id": 1332,
+      "name": "Vallejo Colors",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1E515"
+      ]
+    },
+    {
+      "id": 1210,
+      "name": "Warfactory",
+      "description": "Warfactory is a Polish company that acts as a distributor and retailer for miniature games, their models, and related accessories, including terrain and transport solutions. Our focuses for SPIEL 2025 are:- Warlord Games products (most importantly new edition of Bolt Action Konflikt 47)- A Song Of Ice & Fire Miniature Game- Two Thin CoatsOn our booth you wil be able to expirience some great demo games or spend some time painting a miniature.If you are intrested in any of these products or would like to chat with one of the biggest miniature distributors in Europe drop by at our booth!",
+      "website": "https://warfactory.pl/en/",
+      "booths": [
+        "1A100"
+      ]
+    },
+    {
+      "id": 958,
+      "name": "Warhammer",
+      "description": "Games Workshop is the largest and the most successful hobby miniatures company in the world. Our major brands are Warhammer and Warhammer 40,000. In addition, we hold a licence for The Lord of the Rings/the Hobbit&nbsp;tabletop battle game. At its core the Hobby is all about our amazing miniatures and collecting, modelling, painting&nbsp; and playing games with armies of them are activities enjoyed by millions of adherents all across the world.",
+      "website": "https://www.warhammer-community.com",
+      "booths": [
+        "1B112",
+        "1B113"
+      ]
+    },
+    {
+      "id": 1511,
+      "name": "Warlord Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1A100"
+      ]
+    },
+    {
+      "id": 1529,
+      "name": "Wolf Storm Entertainment",
+      "description": "Wolf Storm Entertainment Ltd is a rising force in the world of immersive tabletop experiences. Our mission is simple: to create cinematic board games that blend deep strategy, high replayability, and unforgettable storytelling.We’re showcasing three flagship titles at SPIEL:Guns of the Old West – A fast-paced campaign skirmish game of lawmen, outlaws, and legendary duels, now preparing to ship worldwide.Hunter vs Prey – A tense survival horror experience of cunning, stealth, and asymmetric combat, launching soon.Red Alert: New World Order – An alternate-history strategy epic of global conflict, advanced technology, and all-out war.And this is just the beginning—many more worlds are in development. Step into our booth, play our games, and experience the future of tabletop storytelling with Wolf Storm Entertainment.",
+      "website": "https://www.wolfstormentertainment.com",
+      "booths": [
+        "1A215"
+      ]
+    },
+    {
+      "id": 1356,
+      "name": "asmodee",
+      "description": "We are asmodeeA powerhouse of imagination and creativity where every game tells a story and every player becomes a part of an epic adventure.Since our founding in France in 1995, we’ve transformed the world of board games, card games, and role-playing games (RPGs), merging passion with artistry and bridging the gap between creation and player. We don’t just make board games; we create moments of connection that turn play into art, making extraordinary experiences easily accessible, across all retail channels, to game enthusiasts worldwide.We are BoldWe create groundbreaking games that competitors cannot match. Our creations push the boundaries of imagination, play and expectations.We are CreativeWe don’t run away from risks, we embrace them. By constantly crafting new universes and launching revolutionary products, we keep players worldwide on their toes and wanting more.We are PassionateOur dedication stems from being players ourselves. To us, board games are more than just a way to pass the time – they're a gateway to adventure and storytelling.We are WelcomingWe believe everyone has an inner player in them. Our doors are open to everyone, regardless of age or background, to join our diverse and inclusive gaming community where every player is celebrated and every game is an experience to remember.At our core we love games and want to share that passion. We collaborate with studios around the world, providing distribution support and access to our extensive network. With more than 20 local distribution businesses, we operate close to local markets to provide unparalleled range and service to our customers. We are proud of our long term partnerships that allow us to bring an ever-growing eclectic mix of incredible games to a widest possible audience. And aim to continue doing so for generations to come.",
+      "website": "https://corporate.asmodee.com/",
+      "booths": [
+        "1E211"
+      ]
+    },
+    {
+      "id": 1176,
+      "name": "burst Spiele GmbH",
+      "description": "Welcome to burst Spiele,the independent and reliable distribution partner for miniature games, role-playing games, board games, trading card games, accessories, and much more..The core of our company philosophy is to be a fast and reliable partner for retailers and manufacturers. Modern, fast order processing with short delivery times is particularly important to us.As an independent distributor, it is our priority to offer all our customers and partners the best possible service. Our motivated and dedicated team is happy to help with any questions and will try to fulfill even unusual requests.Thank you for visiting our website and for your interest in our company.Your burst Spiele team",
+      "website": "http://www.burstspiele.de",
+      "booths": [
+        "1D411"
+      ]
+    },
+    {
+      "id": 1399,
+      "name": "onepagerules",
+      "description": "",
+      "website": "",
+      "booths": [
+        "1B311"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "ID": "1",
+      "W": 3425,
+      "H": 2412,
+      "NAME": "Hall 1",
+      "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+      "FLOOR": 0
+    },
+    {
+      "ID": "2",
+      "W": 3346,
+      "H": 1829,
+      "NAME": "Hall 2",
+      "PARENT_ELEMENT_ID": "epx.1|epx.7|epx.8|epx.14|epx.34|epx.35|epx.36|epx.95|epx.102|epx.103",
+      "FLOOR": 0
+    },
+    {
+      "ID": "3",
+      "W": 3100,
+      "H": 7225,
+      "NAME": "Hall 3",
+      "PARENT_ELEMENT_ID": "epx.0|epx.86|epx.13|epx.33|epx.104",
+      "FLOOR": 0
+    },
+    {
+      "ID": "7",
+      "W": 2963,
+      "H": 4763,
+      "NAME": "Hall 7",
+      "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG2",
+      "W": 3325,
+      "H": 2310,
+      "NAME": "FG2",
+      "PARENT_ELEMENT_ID": "epx.119|epx.116|epx.126|epx.106|epx.107|epx.123|epx.89",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG3",
+      "W": 1539,
+      "H": 1627,
+      "NAME": "FG3",
+      "PARENT_ELEMENT_ID": "epx.118|epx.114|epx.115|epx.112|epx.113|epx.110|epx.111|epx.124",
+      "FLOOR": 0
+    },
+    {
+      "ID": "6",
+      "W": 2479,
+      "H": 3508,
+      "NAME": "Hall 6",
+      "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+      "FLOOR": 0
+    },
+    {
+      "ID": "8",
+      "W": 2107,
+      "H": 2103,
+      "NAME": "Hall 8",
+      "PARENT_ELEMENT_ID": "epx.128|epx.155|epx.156",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG1",
+      "W": 3854,
+      "H": 1697,
+      "NAME": "FG1",
+      "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+      "FLOOR": 0
+    },
+    {
+      "ID": "4",
+      "W": 2956,
+      "H": 4462,
+      "NAME": "Hall 4",
+      "PARENT_ELEMENT_ID": "epx.5|epx.17|epx.18|epx.19|epx.20|epx.21|epx.39|epx.40|epx.94",
+      "FLOOR": 0
+    },
+    {
+      "ID": "0",
+      "W": 3508,
+      "H": 2480,
+      "NAME": "Fair ground",
+      "PARENT_ELEMENT_ID": "-1",
+      "FLOOR": 0
+    },
+    {
+      "ID": "GA",
+      "W": 6356,
+      "H": 1769,
+      "NAME": "Galeria",
+      "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+      "FLOOR": 0
+    },
+    {
+      "ID": "5",
+      "W": 3422,
+      "H": 3472,
+      "NAME": "Hall 5",
+      "PARENT_ELEMENT_ID": "epx.3|epx.44|epx.45|epx.46|epx.127|epx.29|epx.30|epx.31|epx.32|epx.37|epx.38|epx.73|epx.74|epx.79|epx.87",
+      "FLOOR": 0
+    }
+  ],
+  "events": [],
+  "urls": []
+}

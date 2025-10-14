@@ -1,0 +1,873 @@
+{
+  "map": {
+    "ID": "7",
+    "W": 2963,
+    "H": 4763,
+    "NAME": "Hall 7",
+    "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+    "FLOOR": 0,
+    "path": "static/spiel25/20251014093942"
+  },
+  "mapElements": [
+    {
+      "ID": "7.7A110",
+      "KARTEN_ID": "7",
+      "X": 398,
+      "Y": 3658,
+      "W": 80,
+      "H": 399,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7A110",
+      "NAME": "7A110"
+    },
+    {
+      "ID": "7.7A111",
+      "KARTEN_ID": "7",
+      "X": 570,
+      "Y": 4035,
+      "W": 452,
+      "H": 80,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7A111",
+      "NAME": "7A111"
+    },
+    {
+      "ID": "7.7B111",
+      "KARTEN_ID": "7",
+      "X": 592,
+      "Y": 3117,
+      "W": 399,
+      "H": 838,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7B111",
+      "NAME": "7B111"
+    },
+    {
+      "ID": "7.7B211",
+      "KARTEN_ID": "7",
+      "X": 1095,
+      "Y": 3104,
+      "W": 133,
+      "H": 266,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7B211",
+      "NAME": "7B211"
+    },
+    {
+      "ID": "7.7C110",
+      "KARTEN_ID": "7",
+      "X": 405,
+      "Y": 2496,
+      "W": 80,
+      "H": 1011,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7C110",
+      "NAME": "7C110"
+    },
+    {
+      "ID": "7.7C111",
+      "KARTEN_ID": "7",
+      "X": 592,
+      "Y": 2386,
+      "W": 864,
+      "H": 625,
+      "XCOORDS": "592|592|1337|1456|1456|592",
+      "YCOORDS": "2386|3011|3011|2878|2386|2386",
+      "TYPE": 0,
+      "STAND_ID": "7.7C111",
+      "NAME": "7C111"
+    },
+    {
+      "ID": "7.7C311",
+      "KARTEN_ID": "7",
+      "X": 1589,
+      "Y": 2386,
+      "W": 785,
+      "H": 625,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7C311",
+      "NAME": "7C311"
+    },
+    {
+      "ID": "7.7C511",
+      "KARTEN_ID": "7",
+      "X": 2493,
+      "Y": 2372,
+      "W": 80,
+      "H": 771,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7C511",
+      "NAME": "7C511"
+    },
+    {
+      "ID": "7.7D110",
+      "KARTEN_ID": "7",
+      "X": 406,
+      "Y": 1807,
+      "W": 106,
+      "H": 505,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7D110",
+      "NAME": "7D110"
+    },
+    {
+      "ID": "7.7D111",
+      "KARTEN_ID": "7",
+      "X": 618,
+      "Y": 1841,
+      "W": 838,
+      "H": 452,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7D111",
+      "NAME": "7D111"
+    },
+    {
+      "ID": "7.7D311",
+      "KARTEN_ID": "7",
+      "X": 1589,
+      "Y": 1787,
+      "W": 492,
+      "H": 506,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7D311",
+      "NAME": "7D311"
+    },
+    {
+      "ID": "7.7D411",
+      "KARTEN_ID": "7",
+      "X": 2081,
+      "Y": 1787,
+      "W": 293,
+      "H": 506,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7D411",
+      "NAME": "7D411"
+    },
+    {
+      "ID": "7.7E100",
+      "KARTEN_ID": "7",
+      "X": 723,
+      "Y": 777,
+      "W": 798,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E100",
+      "NAME": "7E100"
+    },
+    {
+      "ID": "7.7E110",
+      "KARTEN_ID": "7",
+      "X": 411,
+      "Y": 1118,
+      "W": 106,
+      "H": 518,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E110",
+      "NAME": "7E110"
+    },
+    {
+      "ID": "7.7E111",
+      "KARTEN_ID": "7",
+      "X": 618,
+      "Y": 1096,
+      "W": 280,
+      "H": 638,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E111",
+      "NAME": "7E111"
+    },
+    {
+      "ID": "7.7E211",
+      "KARTEN_ID": "7",
+      "X": 1004,
+      "Y": 1096,
+      "W": 452,
+      "H": 638,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E211",
+      "NAME": "7E211"
+    },
+    {
+      "ID": "7.7E300",
+      "KARTEN_ID": "7",
+      "X": 1781,
+      "Y": 777,
+      "W": 266,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E300",
+      "NAME": "7E300"
+    },
+    {
+      "ID": "7.7E311",
+      "KARTEN_ID": "7",
+      "X": 1589,
+      "Y": 1096,
+      "W": 785,
+      "H": 585,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E311",
+      "NAME": "7E311"
+    },
+    {
+      "ID": "7.7E400",
+      "KARTEN_ID": "7",
+      "X": 2174,
+      "Y": 777,
+      "W": 399,
+      "H": 186,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E400",
+      "NAME": "7E400"
+    },
+    {
+      "ID": "7.7E511",
+      "KARTEN_ID": "7",
+      "X": 2494,
+      "Y": 1153,
+      "W": 79,
+      "H": 825,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "7.7E511",
+      "NAME": "7E511"
+    },
+    {
+      "ID": "epx.138",
+      "KARTEN_ID": "7",
+      "X": 138,
+      "Y": 933,
+      "W": 213,
+      "H": 105,
+      "XCOORDS": "138|192|193|351|347|195|192",
+      "YCOORDS": "988|933|959|959|1013|1013|1038",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.139",
+      "KARTEN_ID": "7",
+      "X": 137,
+      "Y": 1675,
+      "W": 213,
+      "H": 105,
+      "XCOORDS": "137|191|192|350|346|194|191",
+      "YCOORDS": "1730|1675|1701|1701|1755|1755|1780",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.140",
+      "KARTEN_ID": "7",
+      "X": 140,
+      "Y": 2325,
+      "W": 213,
+      "H": 105,
+      "XCOORDS": "140|194|195|353|349|197|194",
+      "YCOORDS": "2380|2325|2351|2351|2405|2405|2430",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.141",
+      "KARTEN_ID": "7",
+      "X": 137,
+      "Y": 3524,
+      "W": 213,
+      "H": 105,
+      "XCOORDS": "137|191|192|350|346|194|191",
+      "YCOORDS": "3579|3524|3550|3550|3604|3604|3629",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.142",
+      "KARTEN_ID": "7",
+      "X": 1526,
+      "Y": 370,
+      "W": 1049,
+      "H": 360,
+      "XCOORDS": null,
+      "YCOORDS": null,
+      "TYPE": 0,
+      "STAND_ID": "epx.142",
+      "NAME": "Business Lounge"
+    },
+    {
+      "ID": "epx.155",
+      "KARTEN_ID": "7",
+      "X": 2637,
+      "Y": 1027,
+      "W": 212,
+      "H": 105,
+      "XCOORDS": "2638|2795|2797|2849|2795|2796|2637",
+      "YCOORDS": "1053|1053|1027|1079|1132|1105|1105",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    },
+    {
+      "ID": "epx.156",
+      "KARTEN_ID": "7",
+      "X": 2650,
+      "Y": 2095,
+      "W": 212,
+      "H": 105,
+      "XCOORDS": "2651|2808|2810|2862|2808|2809|2650",
+      "YCOORDS": "2121|2121|2095|2147|2200|2173|2173",
+      "TYPE": 3,
+      "STAND_ID": null,
+      "NAME": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1914,
+      "name": "1 More Time Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7B111"
+      ]
+    },
+    {
+      "id": 1532,
+      "name": "ABACUSSPIELE",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C511"
+      ]
+    },
+    {
+      "id": 1626,
+      "name": "AMIGO",
+      "description": "How it all beganAMIGO saw the light of day in 1980. Thanks to successful distribution rights (such as for the card game UNO), the publisher became a fixture in the card game sector and eventually established itself in the board game sector as well.After several nominations, AMIGO received the Game of the Year award for the first time in 1998 for the family game Elfenland. In 2017, ICECOOL received the Children's Game of the Year award, the card game LAMA was nominated for Game of the Year in 2019, and in 2022, Zauberberg, another children's game, received the coveted award.Always daring to try something newIn addition to its own board games, AMIGO expanded its licensing and distribution activities in the 1990s and introduced the first trading card game to the German and Austrian markets in 1995 with Magic: The Gathering. Since 1999, AMIGO has also been the exclusive distributor of the Pokémon trading card game.AMIGO with an eye to the futureWith classics such as Halli Galli, 6 nimmt! and Wizard, AMIGO has not only become synonymous with high-quality card games, but also stands for simplicity. Whether it's easy rules, simple communication channels, or uncomplicated service, AMIGO will continue to build on these strengths in the future in order to adapt to the fast-paced market and continue to live up to its philosophy of “simply good games.”AMIGO internationalThe world is becoming increasingly interconnected, and with it the global market for board games. In addition to export partners in almost 50 countries, AMIGO launched its own company, AMIGO Games Inc., in the USA in 2018. AMIGO is continuously working to introduce foreign countries to the world of board and card games through entertaining games with simple rules.",
+      "website": "https://www.amigo-spiele.de",
+      "booths": [
+        "7D110",
+        "7D111"
+      ]
+    },
+    {
+      "id": 1884,
+      "name": "Asmodee Deutschland GmbH",
+      "description": "Über asmodee DeutschlandUnter dem Dach der französischen Verlagsgesellschaft asmodee arbeiten zurzeit vier Schwesterfirmen im deutschen Markt. Neben der in 2008 gegründeten asmodee GmbH gehört zu den deutschen Business Units auch die eigenständige Firma ADC Blackfire GmbH. Diese beiden Unternehmen sind erfolgreiche Distributoren für den Vertrieb von Brettspielen, Trading-Card-Systemen, Rollenspielbüchern, Merchandise-Produkten und Spielezubehör.Seit 2018 gehört zur deutschen asmodee-Familie auch das eigenständige Entwicklungsstudio Lookout Spiele, welches sehr erfolgreiche Spiele für den internationalen Brettspielmarkt entwickelt. Die Lookout GmbH wurde im Jahr 2000 von Hanno Girke gegründet und ist bekannt für Kultklassiker wie Agricola (2007) des bekannten Autors Uwe Rosenberg sowie Caverna (2013), einer neuen Interpretation des Erfolgstitels, die von Kritikern gefeiert wurde.Im Jahr 2019 wurde unter der Leitung von Adrian Alonso eine weitere Business Unit der deutschen asmodee-Familie gegründet. Das eigenständige Studio Gamegenic stellt hochwertiges Spielzubehör her, darunter Kartenhüllen, Kartenboxen, Binder, Seiten und mehr, um Spielkomponenten zu schützen und das Spielerlebnis zu verbessern. Diese Produkte werden über die asmodee-Distribution weltweit an den Handel verkauft.Die asmodee GmbH wurde 2008 als Tochter der asmodee SAS in Frankreich gegründet und ist ein eigenständiger deutscher Vertrieb und Verlag für Gesellschaftsspiele. Als Teil der asmodee Group, die insgesamt über 21 Niederlassungen in Europa, den USA und China verfügt, arbeitet asmodee Deutschland international mit rund 30 Partnerverlagen zusammen. Viele der Partner zählen weltweit zu den bekanntesten Verlagen in der Spielebranche. Mit ihnen bringt asmodee in Deutschland jedes Jahr neue Spiele auf den Markt, welche die Spieler fesseln und begeistern. Vom Hauptsitz des Unternehmens in Essen aus kümmert sich asmodee Deutschland um das gesamte Spektrum der Verlags- und Vertriebsarbeit, von der Redaktion über das Marketing bis hin zum Verkauf.Mit seinem umfangreichen Sortiment an Spielen – von Dobble und Werwölfe von Düsterwald über Just One (Spiel des Jahres 2019) bis hin zu Dixit (Spiel des Jahres 2010) oder 7 Wonders (Kennerspiel des Jahres 2011) – bringt asmodee in Deutschland Spiele für jeden Geschmack auf den Markt. Für seine Produkte legt asmodee großen Wert auf herausragende Spiele. Das belegen auch viele Preise, welche die Spiele in asmodees Sortiment gewonnen haben: Auszeichnungen als Spiel des Jahres, Kennerspiel des Jahres, Spielehits für Familien und Experten, Nominierungen zum Spiel des Jahres, Kennerspiel des Jahres und Kinderspiel des Jahres, der Grafikpreis Graf Ludo und verschiedenste internationale Preise sind darunter zu finden.Neben diesen Spielen vertreibt asmodee auch Spiele mit bekannten Lizenzen in Deutschland und anderen Ländern. Zu den Lizenzreihen zählen Hits wie Star Wars, A Game of Thrones, Der Herr der Ringe, Arkham Horror sowie verschiedene Computerspiel-Lizenzen wie Fallout oder Civilization.Das Ziel von asmodee ist es, das Spielen für möglichst viele Menschen attraktiv zu machen. Aus diesem Grund unterstützt der Verlag auch zahlreiche Spieletage und Messen sowie den Fachhandel aktiv mit Aktionen und Personal.",
+      "website": "https://www.asmodee.de/",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1921,
+      "name": "Avalon Hill",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7E211"
+      ]
+    },
+    {
+      "id": 1660,
+      "name": "Avalon Hill / Hasbro Games",
+      "description": "Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic ofplay. With over 164 years of expertise, Hasbro delivers groundbreaking play experiences and reaches over 500million kids, families and fans around the world, through physical and digital games, video games, toys, licensedconsumer products, location-based entertainment, film, TV and more.Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THEGATHERING, DUNGEONS & DRAGONS, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPAPIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversifiednetwork of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop toscreen.",
+      "website": "https://products.hasbro.com/de-de",
+      "booths": [
+        "7E211"
+      ]
+    },
+    {
+      "id": 1874,
+      "name": "Bezzerwizzer",
+      "description": "About Bezzerwizzer StudioWith a passion for knowledge, curiosity and playfulness, BEZZERWIZZER Studio was founded in Denmark in 2006 by Jesper and Birgitte Bülow. Since then, we have built a portfolio of fun family, trivia and party games which, to date, have sold more than eleven million copies in over 40 countries.Today we are part of the French company Asmodee Group, one of the world’s leading board game publishers. During the coming years, we plan to introduce our games into several new markets. Based in Copenhagen, BEZZERWIZZER Studio conjures up game concepts and ferrets out fascinating facts – all in close collaboration with freelancers, retailers and fans.Our key words are togetherness, creativity, knowledge and quality. We take pride in the fact that our games are enjoyed by players of all ages in any social situation. &nbsp;And we are driven by the desire to give even more people around the world the opportunity to play their way to new discoveries and fun memories.",
+      "website": "https://bezzerwizzer.dk/uk/",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1913,
+      "name": "Board Game Arena",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C110"
+      ]
+    },
+    {
+      "id": 1346,
+      "name": "CGE",
+      "description": "CGE (Czech Games Edition) is an established game publisher from Czechia, with a stellar track record of globally accomplished board game hits like Codenames, Galaxy Trucker, Lost Ruins of Arnak, SETI: Search for Extraterrestrial Intelligence, and more.This year, we’re bringing you our largest line-up of new releases ever! At SPIEL 2025, you can look forward to:second edition of the whole CODENAMES brand—enjoy the base game, or its DUET or PICTURES versions, or the brand new licensed version CODENAMES: Back to Hogwartsexpansion to last year’s hit SETI, Space Agencies—with powerful asymmetric organizations and different starting conditions for each playera brand new family tile placement & pattern building game Wispwood—place wisps & trees in different shapes and build a magical forestLost Ruins of Arnak expansions, Twisted Paths (a final expansion) or Adventure Chest (a storage solution with Twisted Paths already included)a second expansion to Galaxy Trucker, Do What?!—featuring dangerous missions, demanding VIPs, turn-based mode, and even more explosions and dangers",
+      "website": "https://czechgames.com",
+      "booths": [
+        "7E100"
+      ]
+    },
+    {
+      "id": 1903,
+      "name": "CMYK",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7B111"
+      ]
+    },
+    {
+      "id": 1917,
+      "name": "Cardboard Alchemy",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7B111"
+      ]
+    },
+    {
+      "id": 1873,
+      "name": "Days of Wonder",
+      "description": "Days of Wonder® develops and publishes games that Play different.™ From its insistence on releasing only a very limited number of new games, to its uncompromising board game production values and unique in-house digital development team, Days of Wonder consistently raises the bar with an unmatched string of hits that includes Ticket to Ride®, the world’s best-selling train game; Small World®, the legendary fantasy game of epic conquests; and Memoir ’44®, the World War II saga with 20 expansions to its credit. Days of Wonder board games are distributed in 40 countries and their digital versions are available on the iOS App Store and Google Play, as well as on Steam and Days of Wonder’s web site. To date, the company has sold over 5 million board games and hosted over 45 million games online; and it remains the youngest company ever to win Germany’s prestigious Spiel des Jahres, the world’s most coveted game prize.Our mission“Our Mission is simple: To make games as popular as the movies! We want to help avid game hobbyists and casual game players rediscover the sense of wonder and excitement they had as children when opening a new game.”",
+      "website": "https://www.daysofwonder.com/",
+      "booths": [
+        "7C111",
+        "7C311"
+      ]
+    },
+    {
+      "id": 1900,
+      "name": "Dire Wolf",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7B111"
+      ]
+    },
+    {
+      "id": 1854,
+      "name": "Dotted Games",
+      "description": "Welcome to Dotted GamesAs an Asmodee Studio, our mission is to bring the absolute best LEGO® board games to fans and families worldwide!With the partnership with the LEGO Group, we are continuously working on developing high-quality LEGO board games for all types of players.Check out our games Brick Like This! and Monkey Palace!",
+      "website": "https://dottedgames.com/",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1589,
+      "name": "Drei Magier by Schmidt Spiele",
+      "description": "2008 hat die Schmidt Spiele GmbH die Rechte an der Premiummarke \"Drei Magier\" übernommen und damit die Fortführung der beliebten Kinderspielmarke sichergestellt. „Drei Magier“ steht für anspruchsvolle Kinderspiele.",
+      "website": "https://www.dreimagier.de/",
+      "booths": [
+        "7E110"
+      ]
+    },
+    {
+      "id": 1840,
+      "name": "Exploding Kittens",
+      "description": "How it all startedExploding Kittens brings people together. Like how the initial idea for a card game brought a video game designer and a web comic artist together. And that idea brought&nbsp; 219,000 backers together to support the game before they’d even played it. Which led to millions of people playing our games all over the world.Our gamesWe don’t make entertaining games. We make games that make the people you’re playing with more entertaining! And we’ve been doing that for over 10 years, in 35 languages and counting, with no end in sight.",
+      "website": "https://www.explodingkittens.com/",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1909,
+      "name": "Final Score Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7B111"
+      ]
+    },
+    {
+      "id": 1918,
+      "name": "Go on Board",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "Kosmos Verlag",
+      "description": "KOSMOS is one of the most successful games publishers in the world. With \"CATAN”, “Ubongo” or “EXIT® — The Game”, the Stuttgart-based media company has many award-winning classics and globally known brands in its range. Award-winning children's games, such as “Monsterfalle” and popular fantasy games, such as the cooperative “Legends of Andor” complete the wide range of board games. The games from KOSMOS are played in many countries around the world and have helped generate the success of German games in the US.In the field of experimental kits, the Stuttgart-based publishing house has also been repeatedly setting new standards for more than 100 years: With the first experimental kits in 1922, including the popular “Radiomann”, KOSMOS did real pioneering work for conveying scientific principles in a child-friendly manner.In developing its products, KOSMOS places great value on high quality of equipment, design as well as the competence in content and sustainability. The KOSMOS quality promise applies both to the field of toys as well as to the extensive guidebook range and children’s and youth book, which are also published by KOSMOS, including such popular series as “Die drei ???”.",
+      "website": "https://www.kosmos.de/",
+      "booths": [
+        "7E311",
+        "7E400"
+      ]
+    },
+    {
+      "id": 1845,
+      "name": "Libellud",
+      "description": "The studio LibelludFrench board game publisher founded in 2008, Libellud hit it big with its first game Dixit (Spiel des Jahres 2010). In a decade, it has established itself as the leader in image interpretation games.We love to develop innovative games revolving around imaginary worlds, sharing and dreams, and enabling the creation of authentic worlds. With an array of tabletop games such as Dixit, Mysterium, Dice Forge or Seasons, we explore new playful horizons to offer you family or expert games meant to meet your expectations and to have you live memorable times.The acquisition of the Libellud studios by Asmodee in July 2020 has been an opportunity to keep growing around ambitious projects. Based in Poitiers, the company currently counts 20 full-time members who have at heart to offer you tabletop games that will fulfill your needs, whether you are looking for cooperative games or competitive games.",
+      "website": "https://www.libellud.com/en/",
+      "booths": [
+        "7C111",
+        "7C311"
+      ]
+    },
+    {
+      "id": 1847,
+      "name": "Lookout Games",
+      "description": "Lookout studio was founded in 2000 by Hanno Girke. Driven by his passion and a dedicated team of boardgame enthusiasts, Lookout knows how to put fun to your gaming tables. The studio’s portfolio of top rated Eurogames (Agricola, Caverna, Hallertau), family-oriented crowd pleasers like Forest Shuffle, Bärenpark, Patchwork or Mandala, never fails to entertain. Innovations like the interactive Paper Point&Click adventure book series (Cantaloop, Eppi) score points, as will the Smart Scoring App for Forest Shuffle. Always a frontrunner in the industry, Lookout studio installed the Lookout GreenLine in 2023, to make boardgames more eco-friendly.&nbsp;More than 140 published titles in 25 years were decorated with awards like Kennerspiel des Jahres (Isle of Skye, 2016), Agricola (Deutscher Spiele Preis 2008, special award for complex games), Forest Shuffle (Deutscher Spiele Preis 2024) and many others.",
+      "website": "https://www.lookout-spiele.de/de/news.php",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1908,
+      "name": "Moose Toys",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1880,
+      "name": "Next Move",
+      "description": "Welcome toNEXT MOVEOur mission remains to bring together exceptionally talented people to create and release outstanding games! Creating great games is our pride, our passion and what we enjoy doing most.",
+      "website": "https://www.nextmove-games.com/en/",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1911,
+      "name": "No Loading Games",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1943,
+      "name": "Peasoup Aps",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7D111"
+      ]
+    },
+    {
+      "id": 1450,
+      "name": "PlayPunk",
+      "description": "PlayPunk is a Belgium-French publisher created by Thomas Provoost (co-founder of Repos Production) and Antoine Bauza (designer of 7 Wonders). 2 amazing games have been published: Captain Flip by Paolo Mori and Remo Conzadorri (nominated at Spiel des Jahres 2024), and Zenith by Gregory Grard and Mathieu Roussel (on the 2025 Kenner Spiel longlist).",
+      "website": "",
+      "booths": [
+        "7E300"
+      ]
+    },
+    {
+      "id": 1596,
+      "name": "Ravensburger Disney Lorcana",
+      "description": "Die Ravensburger AG ist eine internationale Unternehmensgruppe mit mehreren renommierten Spielwarenmarken. Ihre Missionlautet: „Wir inspirieren Menschen zu entdecken, was wirklich wichtig ist.“ So fördern Ravensburger Angebote das Miteinander,vermitteln Wissen und soziale Fähigkeiten, bieten Entspannung und schaffen bleibende Erinnerungen. Die bedeutendste Markedes Unternehmens, das Ravensburger blaue Dreieck, ist eine der führenden europäischen Marken für Spiele, Puzzles undKreativprodukte sowie für deutschsprachige Kinder- und Jugendbücher. Weltweit werden Spielwaren mit dem blauen Dreieckverkauft. Zudem erweitern die internationalen Marken BRIO und ThinkFun das Angebot der Unternehmensgruppe.Ravensburger ist seit seiner Gründung 1883 ein Familienunternehmen, geprägt von Tradition und gewachsenen Werten. 2024erwirtschafteten 2.483 Mitarbeiter einen Umsatz von 790 Millionen Euro.* Ravensburger unterhält eigene Werke in Ravensburg,Polička (Tschechien) und Banská Bystrica (Slowakei).* Stand 01/2025",
+      "website": "https://www.ravensburger.de",
+      "booths": [
+        "7D411"
+      ]
+    },
+    {
+      "id": 1201,
+      "name": "Ravensburger Verlag GmbH",
+      "description": "Ravensburger AG is an international group with several renowned toy brands. Its mission is: \"Encourage discovery of what really matters.\" Thus, Ravensburger products and services promote togetherness, build knowledge and social skills, enable relaxation and create lasting memories. The company´s most important brand, the Ravensburger blue triangle, is one of the leading European brands for games, puzzles and arts & crafts as well as for German-language children's and youth books. Toys with the blue triangle are sold worldwide. Furthermore the international brands BRIO and ThinkFun expand the group's portfolio. Ravensburger has been a family business since it was founded in 1883 and is shaped by tradition and grown values. In 2024, Ravensburger had 2,483 employees and achieved net revenue of EUR 790 million.* Ravensburger runs its own plants in Ravensburg (Germany), Polička (Czech Republic), and Banská Bystrica (Slovakia).* As of 01/2025",
+      "website": "https://www.ravensburger.de",
+      "booths": [
+        "7D311"
+      ]
+    },
+    {
+      "id": 1871,
+      "name": "Rebel Studio",
+      "description": "",
+      "website": "https://www.rebelstudio.eu/",
+      "booths": [
+        "7C111"
+      ]
+    },
+    {
+      "id": 1865,
+      "name": "Repos Prod",
+      "description": "Time’s Up!, Just One, 7 Wonders…Welcome to Repos Production, publisher of board games for the whole family!Having published over 60 games since 2004, we have only one vocation: to give you unforgettable moments with family and friends playing our board games!",
+      "website": "https://www.rprod.com/en",
+      "booths": [
+        "7C111"
+      ]
+    },
+    {
+      "id": 1920,
+      "name": "Road to Infamy",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7B111"
+      ]
+    },
+    {
+      "id": 1455,
+      "name": "SPIEL Essen Info & Merchandise",
+      "description": "As the organiser of the world's largest public fair for board games, you will of course find us, Merz Verlag, there in person. Our small team organises the entire event and is there for you if you have any questions, problems or requests regarding SPIEL. Just come by and talk to us!This year, we once again have lots of merchandise for you to discover and purchase directly at our booth. In addition to mugs, shirts and more, you can also discover the limited and exclusive SPIEL game: Fair Enough!SPIEL Essen has been the board game event par excellence for over 40 years. Here you will find the latest titles from around the world, meet like-minded people and friends, and discover the world of games in our halls, at demo tables, at events and online.We are happy to have you at the show and wish you a wonderful time with lots of gaming fun!",
+      "website": "https://www.spiel-essen.de",
+      "booths": [
+        "7E511"
+      ]
+    },
+    {
+      "id": 966,
+      "name": "Schmidt Spiele GmbH",
+      "description": "Schmidt Spiele® is one of the best-known German game publishers. It brings together the brands Schmidt Spiele® for puzzles, cuddly toys, games for children, families and adults, Drei Magier®, which stands for high-quality games for children, and Selecta® in the field of wooden toys. The history of the Schmidt Spiele® brand and the traditional company begins with the invention in 1907 by Joseph Friedrich Schmidt of the board game Mensch ärgere Dich nicht® (Don't worry). Other great classics are Kniffel® (Yam) and Ligretto®. The range also includes many award-winning games for children, family and connoisseurs. In 1997, Schmidt Spiele® was acquired by Good Time Holding GmbH based in Berlin.",
+      "website": "https://www.schmidtspiele.de/",
+      "booths": [
+        "7E111"
+      ]
+    },
+    {
+      "id": 972,
+      "name": "Shipping Service MBE",
+      "description": "Bring your games to our booth. Here you will find suitable boxes and packaging materials to ship your games. Shipping prices are as follows:GermanyUp to 5 kg: 9,00 €Up to 10 kg: 13,00 €Up to&nbsp; 20 kg: 21,00 €Up to 30 kg: 21,00 €Europe EUUp to 5 kg: 24,00 €Up to 10 kg: 31,00 €Up to&nbsp; 20 kg: 44,00 €Up to 30 kg: 56,00 €Europe Rest*: Great Britain, Norway, Switzerland, Liechtenstein**Up to 5 kg: 44,00 €Up to 10 kg: 51,00 €Up to&nbsp; 20 kg: 67,00 €Up to 30 kg: 75,00 €Europe IV*: Iceland, Canary Islands, Channel Islands**Up to 5 kg: 70,00 €Up to 10 kg: 105,00 €Up to&nbsp; 20 kg: 160,00 €Up to 30 kg: 200,00 €World I*: USA, Canada, Mexico**Up to 5 kg: 85,00 €Up to 10 kg: 140,00 €Up to&nbsp; 20 kg: 200,00 €Up to 30 kg: 270,00 €World II*: Asia, Central America**Up to 5 kg: 90,00 €Up to 10 kg: 153,00 €Up to&nbsp; 20 kg: 230,00 €Up to 30 kg: 315,00 €Rest of the world*: for example: Australia, Middle East, New Zealand, South Africa, South America **Up to 5 kg: 120,00 €Up to 10 kg: 175,00 €Up to&nbsp; 20 kg: 250,00 €Up to 30 kg: 360,00 €Additional Services&nbsp; Boxes with packing material Price in EUR Small 8,00 € Medium 10,00 €Large 10,00 €The rates and prices are inclusive of VAT. * These rates are exclusive of VAT.",
+      "website": "https://www.mbe.de/de/versand-druck/hamburg/0048?utm_source=Google&utm_medium=GMB",
+      "booths": [
+        "7A110",
+        "7A111"
+      ]
+    },
+    {
+      "id": 1905,
+      "name": "Sorry We Are French",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1851,
+      "name": "Space Cow",
+      "description": "Space Cow, a game range dedicated to children!The main mission of the SPACE Cow team is to publish high-quality board games marked by original and various universes.Our objective is to entertain Earthlings of all ages while developing their versatility and imagination skills through games. That's why all our games are tested in kindergartens and primary schools.&nbsp;The space cow that is waving at you is Cocow. Join her on our Facebook page if you want to hear her stories.",
+      "website": "https://www.spacecow.fr/our-games",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1882,
+      "name": "Space Cowboys",
+      "description": "To infinity and beyond!SPACE Cowboys is a game publishing studio created in 2014 by industry old-timers. Driven by its first success, Splendor, finalist of the famous Spiel des Jahres, the studio has since accumulated many successful titles: Unlock! (French Game of the year 2017, sold at 2.5 million copies and awarded in 2023 with the Sonderpreis – special jury awards – from the Spiel des Jahres), T.I.M.E Stories, Sherlock Holmes Consulting Detective (Spiel des Jahres in 1985)… The studio offers games to the entire family (ages 10 and up) and to expert players as well. Its goal is to entertain and surprise its customers with high quality games.&nbsp;",
+      "website": "https://www.spacecowboys.fr/our-board-games",
+      "booths": [
+        "7C111",
+        "7C311"
+      ]
+    },
+    {
+      "id": 1863,
+      "name": "Studio Big",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7C111"
+      ]
+    },
+    {
+      "id": 1413,
+      "name": "ThinkFun",
+      "description": "",
+      "website": "",
+      "booths": [
+        "7D311"
+      ]
+    },
+    {
+      "id": 1856,
+      "name": "Unexpected Games",
+      "description": "About UsUnexpected Games was founded in 2019 by veteran board game designer Corey Konieczka.Our goal is to create games that are novel, fun, thematic, and accessible. We hope to surprise people and create experiences that they’ve never had before.We are a small studio, and plan to remain small to keep a personal touch. We look forward to sharing our unique vision with the board game community.Unexpected Games is part of Asmodee North America, Inc.",
+      "website": "https://unexpectedgames.com/",
+      "booths": [
+        "7C111",
+        "7C311"
+      ]
+    },
+    {
+      "id": 1834,
+      "name": "Z-Man Games",
+      "description": "As an industry leader, we strive to support and grow the tabletop gaming community through novel gaming experiences. Check out our bestselling titles like&nbsp;Pandemic,&nbsp;Love Letter,&nbsp;Citadels, and&nbsp;Carcassonne. No matter your gaming style, there’s a game in our catalog to fit your kind of fun.",
+      "website": "https://www.zmangames.com/",
+      "booths": [
+        "7C111",
+        "7C311"
+      ]
+    },
+    {
+      "id": 1859,
+      "name": "Zygomatic",
+      "description": "Our storyZygomatic is a board game publishing studio belonging to Asmodee (a major player in the board games field around the world). The studio was created in 2016 to take care of and grow successful games like Dobble, Jungle Speed, Abalone (and many more!), but also to develop new games to be played with family and friends.Our MissionOur mission is above all things to enable you to play again and again, and share unique moments with your loved ones! To do this, we create simple and innovative board games, for adults as well as for kids!Our teamWe are a small, happy team, all united by our shared love of games, and all big believers in their importance: to laugh, create bonds, and grow. Therefore, we take great care of our projects and develop fun, quality games, which are easy to understand and quick to play, fun, and stimulating.For this we work closely with authors, illustrators, and manufacturers, to test and improve the mechanics and ergonomics of our games, in order to make them fun and unforgettable.",
+      "website": "https://www.zygomatic-games.com/en/homepage/",
+      "booths": [
+        "7C311"
+      ]
+    },
+    {
+      "id": 1356,
+      "name": "asmodee",
+      "description": "We are asmodeeA powerhouse of imagination and creativity where every game tells a story and every player becomes a part of an epic adventure.Since our founding in France in 1995, we’ve transformed the world of board games, card games, and role-playing games (RPGs), merging passion with artistry and bridging the gap between creation and player. We don’t just make board games; we create moments of connection that turn play into art, making extraordinary experiences easily accessible, across all retail channels, to game enthusiasts worldwide.We are BoldWe create groundbreaking games that competitors cannot match. Our creations push the boundaries of imagination, play and expectations.We are CreativeWe don’t run away from risks, we embrace them. By constantly crafting new universes and launching revolutionary products, we keep players worldwide on their toes and wanting more.We are PassionateOur dedication stems from being players ourselves. To us, board games are more than just a way to pass the time – they're a gateway to adventure and storytelling.We are WelcomingWe believe everyone has an inner player in them. Our doors are open to everyone, regardless of age or background, to join our diverse and inclusive gaming community where every player is celebrated and every game is an experience to remember.At our core we love games and want to share that passion. We collaborate with studios around the world, providing distribution support and access to our extensive network. With more than 20 local distribution businesses, we operate close to local markets to provide unparalleled range and service to our customers. We are proud of our long term partnerships that allow us to bring an ever-growing eclectic mix of incredible games to a widest possible audience. And aim to continue doing so for generations to come.",
+      "website": "https://corporate.asmodee.com/",
+      "booths": [
+        "7B111",
+        "7B211",
+        "7C110",
+        "7C111",
+        "7C311"
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "ID": "1",
+      "W": 3425,
+      "H": 2412,
+      "NAME": "Hall 1",
+      "PARENT_ELEMENT_ID": "epx.2|epx.11|epx.12|epx.15",
+      "FLOOR": 0
+    },
+    {
+      "ID": "2",
+      "W": 3346,
+      "H": 1829,
+      "NAME": "Hall 2",
+      "PARENT_ELEMENT_ID": "epx.1|epx.7|epx.8|epx.14|epx.34|epx.35|epx.36|epx.95|epx.102|epx.103",
+      "FLOOR": 0
+    },
+    {
+      "ID": "3",
+      "W": 3100,
+      "H": 7225,
+      "NAME": "Hall 3",
+      "PARENT_ELEMENT_ID": "epx.0|epx.86|epx.13|epx.33|epx.104",
+      "FLOOR": 0
+    },
+    {
+      "ID": "7",
+      "W": 2963,
+      "H": 4763,
+      "NAME": "Hall 7",
+      "PARENT_ELEMENT_ID": "epx.130|epx.134|epx.135|epx.136|epx.137|epx.157|epx.158",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG2",
+      "W": 3325,
+      "H": 2310,
+      "NAME": "FG2",
+      "PARENT_ELEMENT_ID": "epx.119|epx.116|epx.126|epx.106|epx.107|epx.123|epx.89",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG3",
+      "W": 1539,
+      "H": 1627,
+      "NAME": "FG3",
+      "PARENT_ELEMENT_ID": "epx.118|epx.114|epx.115|epx.112|epx.113|epx.110|epx.111|epx.124",
+      "FLOOR": 0
+    },
+    {
+      "ID": "6",
+      "W": 2479,
+      "H": 3508,
+      "NAME": "Hall 6",
+      "PARENT_ELEMENT_ID": "epx.4|epx.22|epx.23|epx.24|epx.25|epx.138|epx.139|epx.140|epx.141|epx.41|epx.88|epx.98|epx.99",
+      "FLOOR": 0
+    },
+    {
+      "ID": "8",
+      "W": 2107,
+      "H": 2103,
+      "NAME": "Hall 8",
+      "PARENT_ELEMENT_ID": "epx.128|epx.155|epx.156",
+      "FLOOR": 0
+    },
+    {
+      "ID": "FG1",
+      "W": 3854,
+      "H": 1697,
+      "NAME": "FG1",
+      "PARENT_ELEMENT_ID": "epx.117|epx.72|epx.108|epx.109|epx.105|epx.121|epx.122|epx.97",
+      "FLOOR": 0
+    },
+    {
+      "ID": "4",
+      "W": 2956,
+      "H": 4462,
+      "NAME": "Hall 4",
+      "PARENT_ELEMENT_ID": "epx.5|epx.17|epx.18|epx.19|epx.20|epx.21|epx.39|epx.40|epx.94",
+      "FLOOR": 0
+    },
+    {
+      "ID": "0",
+      "W": 3508,
+      "H": 2480,
+      "NAME": "Fair ground",
+      "PARENT_ELEMENT_ID": "-1",
+      "FLOOR": 0
+    },
+    {
+      "ID": "GA",
+      "W": 6356,
+      "H": 1769,
+      "NAME": "Galeria",
+      "PARENT_ELEMENT_ID": "epx.6|epx.9|epx.10|epx.16|epx.42|epx.43|epx.26|epx.27|epx.28|epx.90|epx.91|epx.92|epx.93|epx.96|epx.100",
+      "FLOOR": 0
+    },
+    {
+      "ID": "5",
+      "W": 3422,
+      "H": 3472,
+      "NAME": "Hall 5",
+      "PARENT_ELEMENT_ID": "epx.3|epx.44|epx.45|epx.46|epx.127|epx.29|epx.30|epx.31|epx.32|epx.37|epx.38|epx.73|epx.74|epx.79|epx.87",
+      "FLOOR": 0
+    }
+  ],
+  "events": [],
+  "urls": []
+}
