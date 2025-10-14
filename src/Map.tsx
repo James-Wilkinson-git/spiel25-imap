@@ -11,6 +11,7 @@ import {
   compressToEncodedURIComponent,
   decompressFromEncodedURIComponent,
 } from "lz-string";
+import EasyPrintControl from "./EasyPrintControl";
 
 import "./normalize.css";
 import "./skeleton.css";
@@ -22,7 +23,6 @@ interface SpielMapData {
   mapElements: SpielMapElement[];
   companies: SpielCompany[];
   maps: SpielMapInfo[];
-  events?: any[];
 }
 
 interface SpielMapInfo {
@@ -56,26 +56,6 @@ interface SpielCompany {
   website?: string;
   booths: string[];
 }
-
-// Legacy interfaces for compatibility
-interface MapData {
-  maps: MapInfo[];
-  stands: Stand[];
-  exhibitors: Exhibitor[];
-}
-
-interface MapInfo {
-  title: string;
-  bounds: string;
-  flattened_image: string;
-  stands: string[];
-}
-
-interface Stand {
-  label: string;
-  points: [number, number][];
-}
-
 interface Exhibitor {
   stand: string;
   title: string;
@@ -417,8 +397,8 @@ export const Map: React.FC = () => {
             name.
           </p>
           <p>
-            These maps are too busy and big to be able to get print working,
-            sorry!
+            To print you will need to select the correct orientation for the
+            hall one will work one wont.
           </p>
           <p>
             All data is copyright Spiel and their Terms of Service and Privacy
@@ -567,11 +547,25 @@ export const Map: React.FC = () => {
         <MapContainer
           crs={CRS.Simple}
           bounds={bounds}
-          minZoom={-2}
-          maxZoom={1}
+          minZoom={-6}
+          maxZoom={3}
+          zoomSnap={0.1}
+          zoomDelta={0.5}
           style={{ height: "100%", width: "100%" }}
         >
           <ImageOverlay url={`/${selectedSpielMap.ID}.png`} bounds={bounds} />
+          <EasyPrintControl
+            position="topleft"
+            title="🖨️ Print Map"
+            exportOnly={false}
+            hallId={selectedSpielMap.ID}
+          />
+          <EasyPrintControl
+            position="topright"
+            title="📸 Export PNG"
+            exportOnly={true}
+            hallId={selectedSpielMap.ID}
+          />
           {mapStands.map((stand) => (
             <Polygon
               key={stand.label}
