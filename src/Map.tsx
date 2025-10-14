@@ -15,7 +15,6 @@ import {
 import "./normalize.css";
 import "./skeleton.css";
 import "./index.css";
-import { Link } from "react-router";
 
 // Type definitions for Spiel25 map data
 interface SpielMapData {
@@ -138,7 +137,8 @@ export const Map: React.FC = () => {
     ];
     const adjective = adjectives[Math.floor(Math.random() * adjectives.length)];
     const animal = animals[Math.floor(Math.random() * animals.length)];
-    return `${adjective}-${animal}`;
+    const randomNumber = Math.floor(Math.random() * 1000) + 1;
+    return `${adjective}-${animal}-${randomNumber}`;
   }
 
   function loadInitialList(): void {
@@ -198,9 +198,12 @@ export const Map: React.FC = () => {
       return;
     }
 
-    // No list at all
-    setListKey(null);
+    // No list at all - create a default list
+    const defaultKey = generateRandomListName();
+    localStorage.setItem(`favorites:${defaultKey}`, "[]");
+    setListKey(defaultKey);
     setFavorites([]);
+    window.location.hash = `list=${defaultKey}`;
   }
 
   // Run once on first load
@@ -405,15 +408,7 @@ export const Map: React.FC = () => {
   return (
     <div style={{ height: "100vh", width: "100%" }}>
       <div className="controls">
-        {!listKey && (
-          <div>
-            <strong>
-              Please create a list before using the map or you will get a silly
-              name of null.
-            </strong>
-          </div>
-        )}
-        <details open>
+        <details open={desktop || false}>
           <summary>ℹ️ Info 🤏</summary>
           <p>
             Make your selections, then hit share link or copy the browser url
@@ -446,7 +441,7 @@ export const Map: React.FC = () => {
             />
           </p>
         </details>
-        <details open>
+        <details open={desktop || false}>
           <summary>🗺️ Hall Maps 🤏</summary>
           <select
             onChange={(e) => {
@@ -462,7 +457,7 @@ export const Map: React.FC = () => {
             ))}
           </select>
         </details>
-        <details open>
+        <details open={desktop || false}>
           <summary>📜 Adventure Plans 🤏</summary>
           <button
             className="button"
